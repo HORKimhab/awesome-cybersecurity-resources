@@ -146,6 +146,27 @@ Suggested metadata:
 - type: `tool`
 - category: `osint`
 
+## AI Agent Security and Tooling
+
+
+### VoltAgent
+
+Open-source TypeScript AI agent framework with built-in support for guardrails, MCP integration, observability, memory, workflows, and evals. While it is broader than cybersecurity alone, it is relevant for secure agent engineering and agent runtime governance.
+
+- GitHub: https://github.com/VoltAgent/voltagent
+- Official site: https://voltagent.dev/
+- Documentation: https://voltagent.dev/docs/
+- LLM guide: https://voltagent.dev/llms.txt
+
+Why it matters:
+- useful for teams building AI agents with security controls such as guardrails and runtime visibility
+- includes MCP support, evals, and observability features that matter for agent governance and review
+- fits this repository as agent security tooling rather than a pure offensive or defensive security tool
+
+Suggested metadata:
+- type: `tool`
+- category: `agent-security`
+
 ### taranis-ai
 
 Taranis AI is an advanced Open-Source Intelligence (OSINT) tool, leveraging Artificial Intelligence to revolutionize information gathering and situational analysis.
