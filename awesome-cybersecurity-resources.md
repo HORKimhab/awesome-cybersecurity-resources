@@ -107,6 +107,23 @@ Suggested metadata:
 - type: `tool`
 - category: `reconnaissance`
 
+### rekono
+
+Pentesting automation platform that combines hacking tools to complete assessments
+
+- GitHub: https://github.com/pablosnt/rekono
+- Official site: https://github.com/pablosnt/rekono/wiki
+- Documentation: https://github.com/pablosnt/rekono/blob/main/README.md
+- Topics: bug-bounty, bug-hunter, easm, external-attack-surface-management, hacking, hacking-collaboration-platform, hacking-copilot, infosec
+
+Why it matters:
+- active open source project with 526 GitHub stars at discovery time
+- useful for the `reconnaissance` category
+
+Suggested metadata:
+- type: `tool`
+- category: `reconnaissance`
+
 ## Scanning
 
 
@@ -126,6 +143,24 @@ Why it matters:
 Suggested metadata:
 - type: `tool`
 - category: `network-scanning`
+
+### naabu
+
+A fast port scanner written in go with a focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests
+
+- GitHub: https://github.com/projectdiscovery/naabu
+- Official site: https://projectdiscovery.io
+- Documentation: https://github.com/projectdiscovery/naabu/blob/dev/README.md
+- Topics: cdn-exclusion, hacktoberfest, nmap, port-enumeration, portscanner, scan-ports
+
+Why it matters:
+- active open source project with 5995 GitHub stars at discovery time
+- useful for the `network-scanning` category
+
+Suggested metadata:
+- type: `tool`
+- category: `network-scanning`
+
 ## Open Source Intelligence
 
 
@@ -306,6 +341,52 @@ Some setup scripts for security research tools.
 
 Why it matters:
 - active open source project with 9431 GitHub stars at discovery time
+- useful for the `general-security` category
+
+Suggested metadata:
+- type: `tool`
+- category: `general-security`
+
+### Awesome-LLM4Security
+
+This project aims to consolidate and share high-quality resources and tools across the cybersecurity domain.
+
+- GitHub: https://github.com/liu673/Awesome-LLM4Security
+- Documentation: https://github.com/liu673/Awesome-LLM4Security/blob/main/README.md
+- Topics: cybersecurity, llm, sec, security, security-tools, tools
+
+Why it matters:
+- active open source project with 334 GitHub stars at discovery time
+- useful for the `general-security` category
+
+Suggested metadata:
+- type: `tool`
+- category: `general-security`
+### strykerapp
+
+Magic tool for pentest from your android device!
+
+- GitHub: https://github.com/zalexdev/strykerapp
+- Documentation: https://github.com/zalexdev/strykerapp/blob/main/README.md
+
+Why it matters:
+- active open source project with 884 GitHub stars at discovery time
+- useful for the `general-security` category
+
+Suggested metadata:
+- type: `tool`
+- category: `general-security`
+### nix-security-box
+
+Tool set for Information security professionals and all others
+
+- GitHub: https://github.com/fabaff/nix-security-box
+- Official site: https://fabaff.github.io/nix-security-box/
+- Documentation: https://github.com/fabaff/nix-security-box/blob/main/README.md
+- Topics: nix, nixos, nixpkgs, offensive, offensive-security, pentest, pentest-tool, pentesting
+
+Why it matters:
+- active open source project with 395 GitHub stars at discovery time
 - useful for the `general-security` category
 
 Suggested metadata:

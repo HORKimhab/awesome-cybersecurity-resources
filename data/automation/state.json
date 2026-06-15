@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-06-15T07:42:19Z",
+  "last_run": "2026-06-15T09:26:51Z",
   "seen_repos": [
     "https://github.com/Athena-OS/athena",
     "https://github.com/ImKKingshuk/LockKnife",
@@ -10,16 +10,21 @@
     "https://github.com/TalEliyahu/Awesome-AI-Security",
     "https://github.com/cisagov/cset",
     "https://github.com/cyberytti/ToolHunt",
+    "https://github.com/fabaff/nix-security-box",
     "https://github.com/gadievron/raptor",
     "https://github.com/h0tak88r/AutoAR",
     "https://github.com/iDoka/awesome-canbus",
+    "https://github.com/liu673/Awesome-LLM4Security",
     "https://github.com/majd/ipatool",
+    "https://github.com/pablosnt/rekono",
     "https://github.com/praetorian-inc/brutus",
+    "https://github.com/projectdiscovery/naabu",
     "https://github.com/projectdiscovery/tldfinder",
     "https://github.com/righettod/toolbox-pentest-web",
     "https://github.com/taranis-ai/taranis-ai",
     "https://github.com/techenthusiast167/D4rk_Intel-OSINT-Investigative-Toolkit",
     "https://github.com/v4lkyr0/Buildware-Tools",
+    "https://github.com/zalexdev/strykerapp",
     "https://github.com/zardus/ctf-tools"
   ]
 }
