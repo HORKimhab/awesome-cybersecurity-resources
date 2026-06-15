@@ -90,6 +90,23 @@ Suggested metadata:
 - type: `tool`
 - category: `reconnaissance`
 
+### Buildware-Tools
+
+Buildware-Tools is an all-in-one multitool for security research and automation.
+
+- GitHub: https://github.com/v4lkyr0/Buildware-Tools
+- Official site: https://guns.lol/sg0r
+- Documentation: https://github.com/v4lkyr0/Buildware-Tools/blob/main/README.md
+- Topics: cybersecurity, discord-token, discord-tool, ethical-hacking, hacking-tool, ip-scanner, multitool, network-scanner
+
+Why it matters:
+- active open source project with 434 GitHub stars at discovery time
+- useful for the `reconnaissance` category
+
+Suggested metadata:
+- type: `tool`
+- category: `reconnaissance`
+
 ## Scanning
 
 
@@ -244,6 +261,36 @@ Suggested metadata:
 - type: `tool`
 - category: `general-security`
 
+### tldfinder
+
+A streamlined tool for discovering private TLDs for security research.
+
+- GitHub: https://github.com/projectdiscovery/tldfinder
+- Documentation: https://github.com/projectdiscovery/tldfinder/blob/main/README.md
+- Topics: hacktoberfest, tld-discovery, tldfinder
+
+Why it matters:
+- active open source project with 324 GitHub stars at discovery time
+- useful for the `general-security` category
+
+Suggested metadata:
+- type: `tool`
+- category: `general-security`
+### ctf-tools
+
+Some setup scripts for security research tools.
+
+- GitHub: https://github.com/zardus/ctf-tools
+- Documentation: https://github.com/zardus/ctf-tools/blob/master/README.md
+
+Why it matters:
+- active open source project with 9431 GitHub stars at discovery time
+- useful for the `general-security` category
+
+Suggested metadata:
+- type: `tool`
+- category: `general-security`
+
 ## Web Security
 
 
@@ -257,6 +304,23 @@ This is a local search engine to search for cybersecurity tools. It has 3000+ to
 
 Why it matters:
 - active open source project with 213 GitHub stars at discovery time
+- useful for the `web-security` category
+
+Suggested metadata:
+- type: `tool`
+- category: `web-security`
+
+### toolbox-pentest-web
+
+Docker toolbox for pentest of web based application.
+
+- GitHub: https://github.com/righettod/toolbox-pentest-web
+- Official site: https://github.com/righettod/toolbox-pentest-web/pkgs/container/toolbox-pentest-web
+- Documentation: https://github.com/righettod/toolbox-pentest-web/blob/master/README.md
+- Topics: docker, pentesting, web
+
+Why it matters:
+- active open source project with 184 GitHub stars at discovery time
 - useful for the `web-security` category
 
 Suggested metadata:
@@ -295,6 +359,22 @@ Suggested metadata:
 
 Why it matters:
 - active open source project with 3271 GitHub stars at discovery time
+- useful for the `reverse-engineering` category
+
+Suggested metadata:
+- type: `tool`
+- category: `reverse-engineering`
+
+### ipatool
+
+Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
+
+- GitHub: https://github.com/majd/ipatool
+- Documentation: https://github.com/majd/ipatool/blob/main/README.md
+- Topics: apple, appstore, cli, command-line, command-line-tool, go, golang, golang-library
+
+Why it matters:
+- active open source project with 9413 GitHub stars at discovery time
 - useful for the `reverse-engineering` category
 
 Suggested metadata:
