@@ -146,6 +146,21 @@ Suggested metadata:
 - type: `tool`
 - category: `osint`
 
+### D4rk_Intel-OSINT-Investigative-Toolkit
+
+A curated toolkit for Open-Source Intelligence (OSINT) investigations. This repository contains a collection of scripts, resources, and methodologies to aid in gathering and analyzing publicly available information. D...
+
+- GitHub: https://github.com/techenthusiast167/D4rk_Intel-OSINT-Investigative-Toolkit
+- Documentation: https://github.com/techenthusiast167/D4rk_Intel-OSINT-Investigative-Toolkit/blob/main/README.md
+
+Why it matters:
+- active open source project with 331 GitHub stars at discovery time
+- useful for the `osint` category
+
+Suggested metadata:
+- type: `tool`
+- category: `osint`
+
 ## General Security
 
 
@@ -197,6 +212,38 @@ Why it matters:
 Suggested metadata:
 - type: `tool`
 - category: `general-security`
+
+### raptor
+
+Raptor turns Claude Code into a general-purpose AI offensive/defensive security agent. By using Claude.md and creating rules, sub-agents, and skills, and orchestrating security tool usage, we configure the agent for a...
+
+- GitHub: https://github.com/gadievron/raptor
+- Documentation: https://github.com/gadievron/raptor/blob/main/README.md
+
+Why it matters:
+- active open source project with 2980 GitHub stars at discovery time
+- useful for the `general-security` category
+
+Suggested metadata:
+- type: `tool`
+- category: `general-security`
+### Awesome-AI-Security
+
+Curated resources, research, and tools for securing AI systems
+
+- GitHub: https://github.com/TalEliyahu/Awesome-AI-Security
+- Official site: https://www.linkedin.com/groups/14545517/
+- Documentation: https://github.com/TalEliyahu/Awesome-AI-Security/blob/main/README.md
+- Topics: artificial-intelligence, cybersecurity
+
+Why it matters:
+- active open source project with 730 GitHub stars at discovery time
+- useful for the `general-security` category
+
+Suggested metadata:
+- type: `tool`
+- category: `general-security`
+
 ## Web Security
 
 
@@ -215,3 +262,41 @@ Why it matters:
 Suggested metadata:
 - type: `tool`
 - category: `web-security`
+
+## Forensics
+
+
+### LockKnife
+
+LockKnife: The Ultimate Android Security Research Tool. A unified TUI workspace and headless CLI for deep Android security research, built for researchers and hackers. Powered by Python orchestration and a Rust-accele...
+
+- GitHub: https://github.com/ImKKingshuk/LockKnife
+- Official site: https://lockknife.vercel.app
+- Documentation: https://github.com/ImKKingshuk/LockKnife/blob/main/README.md
+- Topics: adb, ai-agents, ai-assisted-hacking, ai-hacking, android-forensics, android-hacking, android-reverse-engineering, android-security
+
+Why it matters:
+- active open source project with 497 GitHub stars at discovery time
+- useful for the `forensics` category
+
+Suggested metadata:
+- type: `tool`
+- category: `forensics`
+## Reverse Engineering
+
+
+### awesome-canbus
+
+:articulated_lorry: Awesome CAN bus tools, hardware and resources for Cyber Security Researchers, Reverse Engineers, and Automotive Electronics Enthusiasts.
+
+- GitHub: https://github.com/iDoka/awesome-canbus
+- Documentation: https://github.com/iDoka/awesome-canbus/blob/main/README.md
+- Topics: automotive, automotive-security, awesome, awesome-list, bus-monitoring, can, can-bus, can-fd
+
+Why it matters:
+- active open source project with 3271 GitHub stars at discovery time
+- useful for the `reverse-engineering` category
+
+Suggested metadata:
+- type: `tool`
+- category: `reverse-engineering`
