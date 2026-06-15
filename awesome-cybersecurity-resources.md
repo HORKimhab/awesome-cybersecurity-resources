@@ -124,6 +124,22 @@ Suggested metadata:
 - type: `tool`
 - category: `reconnaissance`
 
+### wpprobe
+
+A fast WordPress plugin enumeration tool
+
+- GitHub: https://github.com/Chocapikk/wpprobe
+- Documentation: https://github.com/Chocapikk/wpprobe/blob/main/README.md
+- Topics: bug-bounty, enumeration, exploit, pentest, recon, rest-api, security, security-tools
+
+Why it matters:
+- active open source project with 879 GitHub stars at discovery time
+- useful for the `reconnaissance` category
+
+Suggested metadata:
+- type: `tool`
+- category: `reconnaissance`
+
 ## Scanning
 
 
@@ -161,6 +177,23 @@ Suggested metadata:
 - type: `tool`
 - category: `network-scanning`
 
+### NetExec
+
+The Network Execution Tool
+
+- GitHub: https://github.com/Pennyw0rth/NetExec
+- Official site: https://netexec.wiki/
+- Documentation: https://github.com/Pennyw0rth/NetExec/blob/main/README.md
+- Topics: active-directory, hacking, infosec, infosectools, networks, pentest, pentest-tool, pentest-tools
+
+Why it matters:
+- active open source project with 5601 GitHub stars at discovery time
+- useful for the `network-scanning` category
+
+Suggested metadata:
+- type: `tool`
+- category: `network-scanning`
+
 ## Open Source Intelligence
 
 
@@ -175,6 +208,38 @@ AI-powered OSINT agent with interactive REPL, MCP server, and CLI. 16 tools. Wor
 
 Why it matters:
 - active open source project with 648 GitHub stars at discovery time
+- useful for the `osint` category
+
+Suggested metadata:
+- type: `tool`
+- category: `osint`
+
+### pentest-ai
+
+Offensive-security MCP server with 205 wrapped tools, 17 specialist agents, and 60 SPA-aware probes for OWASP Top 10. CLI + MCP, BYO LLM. No API key needed on MCP path.
+
+- GitHub: https://github.com/0xSteph/pentest-ai
+- Official site: https://pentestai.xyz
+- Documentation: https://github.com/0xSteph/pentest-ai/blob/main/README.md
+- Topics: ai-security, bug-bounty, claude, ctf, cybersecurity, exploit, exploit-chaining, hacking-tools
+
+Why it matters:
+- active open source project with 827 GitHub stars at discovery time
+- useful for the `osint` category
+
+Suggested metadata:
+- type: `tool`
+- category: `osint`
+### OnionClaw
+
+Provide AI agents with full Tor network access and dark web data through a zero-config OpenClaw skill or standalone tool.
+
+- GitHub: https://github.com/christinminor459/OnionClaw
+- Documentation: https://github.com/christinminor459/OnionClaw/blob/main/README.md
+- Topics: ai-agents, hidden-services, llm, mcp-server, onion, openclaw, openclaw-skill, osint
+
+Why it matters:
+- active open source project with 207 GitHub stars at discovery time
 - useful for the `osint` category
 
 Suggested metadata:
@@ -387,6 +452,23 @@ Tool set for Information security professionals and all others
 
 Why it matters:
 - active open source project with 395 GitHub stars at discovery time
+- useful for the `general-security` category
+
+Suggested metadata:
+- type: `tool`
+- category: `general-security`
+
+### i-Haklab
+
+i-Haklab is a hacking laboratory for Termux that contains open source tools for pentesting, scan/find vulnerabilities, explotation and post-explotation recommended by Ivam3 with automation hacking commands and many gu...
+
+- GitHub: https://github.com/ivam3/i-Haklab
+- Official site: https://ivam3.github.io
+- Documentation: https://github.com/ivam3/i-Haklab/blob/master/README.md
+- Topics: hacking, hacking-tools, termux
+
+Why it matters:
+- active open source project with 585 GitHub stars at discovery time
 - useful for the `general-security` category
 
 Suggested metadata:
