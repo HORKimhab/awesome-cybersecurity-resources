@@ -140,6 +140,22 @@ Suggested metadata:
 - type: `tool`
 - category: `reconnaissance`
 
+### omnisci3nt
+
+Omnisci3nt is an open-source web reconnaissance and intelligence tool for extracting deep technical insights from domains, including subdomains, SSL certificates, exposed services, archived content, and configuration...
+
+- GitHub: https://github.com/spyboy-productions/omnisci3nt
+- Documentation: https://github.com/spyboy-productions/omnisci3nt/blob/main/README.md
+- Topics: admin-login-finder, admin-panel-finder, admin-panel-finder-of-any-website, directory-enumeration, dmarc-record-examination, dns-enumeration, ip-lookup, osint
+
+Why it matters:
+- active open source project with 352 GitHub stars at discovery time
+- useful for the `reconnaissance` category
+
+Suggested metadata:
+- type: `tool`
+- category: `reconnaissance`
+
 ## Scanning
 
 
@@ -240,6 +256,38 @@ Provide AI agents with full Tor network access and dark web data through a zero-
 
 Why it matters:
 - active open source project with 207 GitHub stars at discovery time
+- useful for the `osint` category
+
+Suggested metadata:
+- type: `tool`
+- category: `osint`
+
+### web-check
+
+🕵️‍♂️ All-in-one OSINT tool for analysing any website
+
+- GitHub: https://github.com/lissy93/web-check
+- Official site: https://web-check.xyz
+- Documentation: https://github.com/lissy93/web-check/blob/master/README.md
+- Topics: osint, privacy, security, security-tools, sysadmin
+
+Why it matters:
+- active open source project with 33689 GitHub stars at discovery time
+- useful for the `osint` category
+
+Suggested metadata:
+- type: `tool`
+- category: `osint`
+### osint-namecheckers-list
+
+A list of tools to search accounts by username
+
+- GitHub: https://github.com/soxoj/osint-namecheckers-list
+- Documentation: https://github.com/soxoj/osint-namecheckers-list/blob/master/README.md
+- Topics: account-search, awesome-osint, awesome-osint-tools, namechecker, nickname-search, osint, osint-list, osint-resources
+
+Why it matters:
+- active open source project with 666 GitHub stars at discovery time
 - useful for the `osint` category
 
 Suggested metadata:
@@ -469,6 +517,37 @@ i-Haklab is a hacking laboratory for Termux that contains open source tools for 
 
 Why it matters:
 - active open source project with 585 GitHub stars at discovery time
+- useful for the `general-security` category
+
+Suggested metadata:
+- type: `tool`
+- category: `general-security`
+
+### attackgen
+
+AttackGen is a cybersecurity incident response testing tool that leverages the power of large language models and the comprehensive MITRE ATT&CK framework. The tool generates tailored incident response scenarios based...
+
+- GitHub: https://github.com/mrwadams/attackgen
+- Documentation: https://github.com/mrwadams/attackgen/blob/main/README.md
+
+Why it matters:
+- active open source project with 1221 GitHub stars at discovery time
+- useful for the `general-security` category
+
+Suggested metadata:
+- type: `tool`
+- category: `general-security`
+### ScubaGoggles
+
+SCuBA Secure Configuration Baselines and assessment tool for Google Workspace
+
+- GitHub: https://github.com/cisagov/ScubaGoggles
+- Official site: https://www.cisa.gov/resources-tools/services/secure-cloud-business-applications-scuba-project
+- Documentation: https://github.com/cisagov/ScubaGoggles/blob/main/README.md
+- Topics: cisa, cybersecurity, google, google-workspace, gws, opa, open-policy-agent, open-source
+
+Why it matters:
+- active open source project with 338 GitHub stars at discovery time
 - useful for the `general-security` category
 
 Suggested metadata:
