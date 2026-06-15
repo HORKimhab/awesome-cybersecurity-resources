@@ -1,5 +1,64 @@
 # awesome-cybersecurity-resources
 Awesome Cybersecurity Resources
 
-## TODO 
+## Purpose
+
+This repository stores curated cybersecurity resources gathered from the internet, repository documentation, and selected local notes.
+
+The canonical format is:
+- one resource per Markdown file
+- YAML frontmatter as the source of truth
+- `resources` as an array of URL strings only
+
+## Structure
+
+- `data/resources/`: structured resource entries
+- `data/templates/`: reusable frontmatter templates
+- `data/automation/`: automation state
+- `doc/`: agent and workflow documentation
+- `scripts/`: local and CI automation
+- `.github/workflows/`: scheduled GitHub Actions jobs
+
+## Workflow
+
+1. Search the internet for a cybersecurity tool, project, article, or repository.
+2. Prefer official sources such as the project website, GitHub repository, wiki, or documentation.
+3. Convert the result into a structured resource entry.
+4. Store the curated entry in `awesome-cybersecurity-resources.md` and, when needed, in `data/resources/`.
+5. For external repositories, clone temporarily for analysis only.
+6. Store only extracted metadata and URLs in this repo.
+7. Archive the source URL or repository URL when possible.
+8. Store archive metadata or links, not downloaded archive content.
+
+## GitHub Automation
+
+The repository includes an hourly GitHub Action at `.github/workflows/discover-resources.yml`.
+
+What it does:
+- searches GitHub for five candidate cybersecurity repositories every hour
+- skips repositories already recorded in `awesome-cybersecurity-resources.md`
+- appends new curated entries
+- stores deduplication state in `data/automation/state.json`
+- commits the update automatically
+
+Manual local run:
+
+```sh
+python3 scripts/discover_resources.py
+```
+
+Notes:
+- the workflow uses the built-in `GITHUB_TOKEN`
+- GitHub scheduled workflows may not run exactly on the hour under load
+- repository search quality depends on GitHub metadata and the configured search queries
+
+## License
+
+This project is licensed under the MIT License. See `LICENSE`.
+
+## Example Search
+
+Search the internet for a keyword such as `hashcat`, gather the official URLs, then add a curated entry to `awesome-cybersecurity-resources.md`.
+
+## TODO
 - [ ] https://docs.google.com/document/d/12KLm2Pfypw1QPobGN6QUBgj8Yq7C3PY-Q6Z_WoxI-WQ/edit?usp=sharing
