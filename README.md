@@ -49,7 +49,9 @@ python3 scripts/discover_resources.py
 
 Notes:
 - the workflow uses the built-in `GITHUB_TOKEN`
-- GitHub scheduled workflows may not run exactly on the hour under load
+- the workflow is scheduled hourly at minute `22` in UTC, not local time
+- GitHub scheduled workflows run only from the repository default branch
+- GitHub scheduled workflows may still be delayed occasionally under load
 - repository search quality depends on GitHub metadata and the configured search queries
 
 ## License

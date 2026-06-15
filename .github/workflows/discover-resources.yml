@@ -2,7 +2,9 @@ name: Discover Resources
 
 on:
   schedule:
-    - cron: "0 * * * *"
+    # GitHub may delay or drop jobs scheduled at the top of the hour.
+    # Run hourly at minute 22 UTC to reduce contention.
+    - cron: "22 * * * *"
   workflow_dispatch:
 
 permissions:
