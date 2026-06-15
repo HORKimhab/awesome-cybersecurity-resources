@@ -156,6 +156,52 @@ Suggested metadata:
 - type: `tool`
 - category: `reconnaissance`
 
+### vesper
+
+A simple username osint tool built in rust
+
+- GitHub: https://github.com/krishpranav/vesper
+- Documentation: https://github.com/krishpranav/vesper/blob/master/README.md
+- Topics: cli, golang, information-gathering, information-retrieval, osint, reconnaissance, rust, tools
+
+Why it matters:
+- active open source project with 313 GitHub stars at discovery time
+- useful for the `reconnaissance` category
+
+Suggested metadata:
+- type: `tool`
+- category: `reconnaissance`
+### nuclei
+
+Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps y...
+
+- GitHub: https://github.com/projectdiscovery/nuclei
+- Official site: https://docs.projectdiscovery.io/tools/nuclei
+- Topics: attack-surface, cve-scanner, dast, hacktoberfest, nuclei-engine, security, security-scanner, subdomain-takeover
+
+Why it matters:
+- active open source project with 29181 GitHub stars at discovery time
+- useful for the `reconnaissance` category
+
+Suggested metadata:
+- type: `tool`
+- category: `reconnaissance`
+### sx
+
+:vulcan_salute: Fast, modern, easy-to-use network scanner
+
+- GitHub: https://github.com/v-byte-cpu/sx
+- Documentation: https://github.com/v-byte-cpu/sx/blob/master/README.md
+- Topics: arp, docker, go, icmp, infosec, ipv4, lan, network
+
+Why it matters:
+- active open source project with 1542 GitHub stars at discovery time
+- useful for the `reconnaissance` category
+
+Suggested metadata:
+- type: `tool`
+- category: `reconnaissance`
+
 ## Scanning
 
 
@@ -288,6 +334,22 @@ A list of tools to search accounts by username
 
 Why it matters:
 - active open source project with 666 GitHub stars at discovery time
+- useful for the `osint` category
+
+Suggested metadata:
+- type: `tool`
+- category: `osint`
+
+### kitphishr
+
+A tool designed to hunt for Phishing Kit source code
+
+- GitHub: https://github.com/cybercdh/kitphishr
+- Documentation: https://github.com/cybercdh/kitphishr/blob/main/README.md
+- Topics: blue-team, golang, incident-response, osint, phishing, phishing-kit, security-tools, threat-intelligence
+
+Why it matters:
+- active open source project with 231 GitHub stars at discovery time
 - useful for the `osint` category
 
 Suggested metadata:
@@ -643,3 +705,23 @@ Why it matters:
 Suggested metadata:
 - type: `tool`
 - category: `reverse-engineering`
+
+## Vulnerability Research
+
+
+### vuls
+
+Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
+
+- GitHub: https://github.com/future-architect/vuls
+- Official site: https://vuls.io/
+- Documentation: https://github.com/future-architect/vuls/blob/master/README.md
+- Topics: administrator, cybersecurity, freebsd, go, golang, linux, security, security-audit
+
+Why it matters:
+- active open source project with 12182 GitHub stars at discovery time
+- useful for the `vulnerability-research` category
+
+Suggested metadata:
+- type: `tool`
+- category: `vulnerability-research`
