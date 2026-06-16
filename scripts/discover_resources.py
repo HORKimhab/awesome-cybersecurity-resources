@@ -16,7 +16,7 @@ from typing import Dict, Iterable, List, Optional, Set
 ROOT = Path(__file__).resolve().parents[1]
 RESOURCE_FILE = ROOT / "awesome-cybersecurity-resources.md"
 STATE_FILE = ROOT / "data" / "automation" / "state.json"
-PER_RUN = 5
+PER_RUN = 10
 
 SEARCH_QUERIES = [
     "cybersecurity tool stars:>150 pushed:>2024-01-01 archived:false",
