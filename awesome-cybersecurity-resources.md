@@ -37,6 +37,21 @@ Suggested metadata:
 - type: `tool`
 - category: `password-cracking`
 
+### Major-project-list
+
+A list of practical projects that anyone can solve in any programming language (See solutions). These projects are divided into multiple categories, and each category has its own folder. To get started, simply fork th...
+
+- GitHub: https://github.com/ManojKumarPatnaik/Major-project-list
+- Documentation: https://github.com/ManojKumarPatnaik/Major-project-list/blob/main/README.md
+
+Why it matters:
+- active open source project with 235 GitHub stars at discovery time
+- useful for the `password-cracking` category
+
+Suggested metadata:
+- type: `tool`
+- category: `password-cracking`
+
 ## Attack Surface Discovery
 
 ### Amass
@@ -202,6 +217,22 @@ Suggested metadata:
 - type: `tool`
 - category: `reconnaissance`
 
+### NetShark
+
+All-in-one CLI security scanner: port scanning, web security, subdomain enumeration, network monitoring. Multi-threaded, cross-platform.
+
+- GitHub: https://github.com/kalachbeg/NetShark
+- Documentation: https://github.com/kalachbeg/NetShark/blob/main/README.md
+- Topics: cli-tool, cybersecurity, hacking-tools, netsec, network-security, open-source, penetration-testing, port-scanner
+
+Why it matters:
+- active open source project with 192 GitHub stars at discovery time
+- useful for the `reconnaissance` category
+
+Suggested metadata:
+- type: `tool`
+- category: `reconnaissance`
+
 ## Scanning
 
 
@@ -250,6 +281,21 @@ The Network Execution Tool
 
 Why it matters:
 - active open source project with 5601 GitHub stars at discovery time
+- useful for the `network-scanning` category
+
+Suggested metadata:
+- type: `tool`
+- category: `network-scanning`
+
+### tsunami-security-scanner
+
+Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.
+
+- GitHub: https://github.com/google/tsunami-security-scanner
+- Documentation: https://github.com/google/tsunami-security-scanner/blob/master/README.md
+
+Why it matters:
+- active open source project with 8583 GitHub stars at discovery time
 - useful for the `network-scanning` category
 
 Suggested metadata:
@@ -725,3 +771,39 @@ Why it matters:
 Suggested metadata:
 - type: `tool`
 - category: `vulnerability-research`
+
+### jok3r
+
+Jok3r v3 BETA 2 - Network and Web Pentest Automation Framework
+
+- GitHub: https://github.com/koutto/jok3r
+- Official site: https://www.jok3r-framework.com
+- Documentation: https://github.com/koutto/jok3r/blob/master/README.md
+- Topics: automation, automation-framework, docker, exploiting-vulnerabilities, framework, hacking, hacking-tool, network
+
+Why it matters:
+- active open source project with 1083 GitHub stars at discovery time
+- useful for the `vulnerability-research` category
+
+Suggested metadata:
+- type: `tool`
+- category: `vulnerability-research`
+
+## Malware Analysis
+
+
+### turbo-scanner
+
+A port scanner and service detection tool that uses 1000 goroutines at once to scan any hosts IP or FQDN with the sole purpose of testing your own network to ensure there are no malicious services running.
+
+- GitHub: https://github.com/mytechnotalent/turbo-scanner
+- Documentation: https://github.com/mytechnotalent/turbo-scanner/blob/main/README.md
+- Topics: blue-team, blue-teams, cyber, cybersecurity, defensive-security, go, golang, malware
+
+Why it matters:
+- active open source project with 166 GitHub stars at discovery time
+- useful for the `malware-analysis` category
+
+Suggested metadata:
+- type: `tool`
+- category: `malware-analysis`
