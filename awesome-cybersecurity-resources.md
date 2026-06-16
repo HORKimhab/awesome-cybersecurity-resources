@@ -284,6 +284,39 @@ Suggested metadata:
 - type: `tool`
 - category: `reconnaissance`
 
+### X-osint
+
+This is an Open source intelligent framework ie an osint tool which gathers valid information about a phone number, user's email address, perform VIN Osint, and reverse, perform subdomain enumeration, able to find ema...
+
+- GitHub: https://github.com/TermuxHackz/X-osint
+- Official site: https://termuxhackz.github.io/How-to-get-information-using-Xosint.html
+- Documentation: https://github.com/TermuxHackz/X-osint/blob/master/README.md
+- Topics: dns-lookup, dns-reverse, email-osint, google-dork, google-hacking, info-gathering, information-gathering, ip-osint
+
+Why it matters:
+- active open source project with 2383 GitHub stars at discovery time
+- useful for the `reconnaissance` category
+
+Suggested metadata:
+- type: `tool`
+- category: `reconnaissance`
+### ivre
+
+Network recon framework. Build your own, self-hosted and fully-controlled alternatives to Shodan / ZoomEye / Censys and GreyNoise, run your Passive DNS service, build your taylor-made EASM tool, collect and analyse ne...
+
+- GitHub: https://github.com/ivre/ivre
+- Official site: https://ivre.rocks/
+- Documentation: https://github.com/ivre/ivre/blob/master/README.md
+- Topics: bro, easm, external-attack-surface-management, hacktoberfest, masscan, network, network-discovery, network-recon
+
+Why it matters:
+- active open source project with 4047 GitHub stars at discovery time
+- useful for the `reconnaissance` category
+
+Suggested metadata:
+- type: `tool`
+- category: `reconnaissance`
+
 ## Scanning
 
 
@@ -347,6 +380,23 @@ Tsunami is a general purpose network security scanner with an extensible plugin 
 
 Why it matters:
 - active open source project with 8583 GitHub stars at discovery time
+- useful for the `network-scanning` category
+
+Suggested metadata:
+- type: `tool`
+- category: `network-scanning`
+
+### Malcolm
+
+Malcolm is a powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.
+
+- GitHub: https://github.com/cisagov/Malcolm
+- Official site: https://cisagov.github.io/Malcolm/
+- Documentation: https://github.com/cisagov/Malcolm/blob/main/README.md
+- Topics: arkime, cybersecurity, infosec, network-security, network-traffic-analysis, networksecurity, networktrafficanalysis, opensearch
+
+Why it matters:
+- active open source project with 2439 GitHub stars at discovery time
 - useful for the `network-scanning` category
 
 Suggested metadata:
