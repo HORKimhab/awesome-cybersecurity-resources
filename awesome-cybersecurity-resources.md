@@ -662,6 +662,21 @@ Suggested metadata:
 - type: `tool`
 - category: `general-security`
 
+### security-suite
+
+Open-source security suite for OSINT reconnaissance, web security testing, API security assessment, compliance checks, and AI-assisted analysis.
+
+- GitHub: https://github.com/TheSecuredAnalyst/security-suite
+- Documentation: https://github.com/TheSecuredAnalyst/security-suite/blob/main/README.md
+
+Why it matters:
+- combines multiple common security workflows in one project, including OSINT, scanning, API testing, and reporting
+- useful for the `general-security` category
+
+Suggested metadata:
+- type: `tool`
+- category: `general-security`
+
 ## Web Security
 
 
