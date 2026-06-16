@@ -52,6 +52,23 @@ Suggested metadata:
 - type: `tool`
 - category: `password-cracking`
 
+### haiti
+
+:key: Hash type identifier (CLI & lib)
+
+- GitHub: https://github.com/noraj/haiti
+- Official site: https://noraj.github.io/haiti/
+- Documentation: https://github.com/noraj/haiti/blob/master/README.md
+- Topics: ctf, ctf-tools, cyber, cybersecurity, digest, hacking, hackthebox, hacktoberfest
+
+Why it matters:
+- active open source project with 986 GitHub stars at discovery time
+- useful for the `password-cracking` category
+
+Suggested metadata:
+- type: `tool`
+- category: `password-cracking`
+
 ## Attack Surface Discovery
 
 ### Amass
@@ -227,6 +244,23 @@ All-in-one CLI security scanner: port scanning, web security, subdomain enumerat
 
 Why it matters:
 - active open source project with 192 GitHub stars at discovery time
+- useful for the `reconnaissance` category
+
+Suggested metadata:
+- type: `tool`
+- category: `reconnaissance`
+
+### H4X-Tools
+
+A modular, terminal-based toolkit for OSINT, reconnaissance, and scraping - built in Python, runs on Linux and Windows.
+
+- GitHub: https://github.com/vil/H4X-Tools
+- Official site: https://vili.dev
+- Documentation: https://github.com/vil/H4X-Tools/blob/master/README.md
+- Topics: data-gathering, dirbuster, email-osint, h4x-tools, hacking, hacking-tool, hacktools, igscraper
+
+Why it matters:
+- active open source project with 773 GitHub stars at discovery time
 - useful for the `reconnaissance` category
 
 Suggested metadata:

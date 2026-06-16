@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-06-16T00:03:48Z",
+  "last_run": "2026-06-16T09:56:44Z",
   "seen_repos": [
     "https://github.com/0xSteph/pentest-ai",
     "https://github.com/Athena-OS/athena",
@@ -32,6 +32,7 @@
     "https://github.com/majd/ipatool",
     "https://github.com/mrwadams/attackgen",
     "https://github.com/mytechnotalent/turbo-scanner",
+    "https://github.com/noraj/haiti",
     "https://github.com/pablosnt/rekono",
     "https://github.com/praetorian-inc/brutus",
     "https://github.com/projectdiscovery/naabu",
@@ -44,6 +45,7 @@
     "https://github.com/techenthusiast167/D4rk_Intel-OSINT-Investigative-Toolkit",
     "https://github.com/v-byte-cpu/sx",
     "https://github.com/v4lkyr0/Buildware-Tools",
+    "https://github.com/vil/H4X-Tools",
     "https://github.com/zalexdev/strykerapp",
     "https://github.com/zardus/ctf-tools"
   ]
