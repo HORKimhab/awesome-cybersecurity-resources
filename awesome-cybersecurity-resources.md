@@ -267,6 +267,23 @@ Suggested metadata:
 - type: `tool`
 - category: `reconnaissance`
 
+### subfinder
+
+Fast passive subdomain enumeration tool.
+
+- GitHub: https://github.com/projectdiscovery/subfinder
+- Official site: https://projectdiscovery.io
+- Documentation: https://github.com/projectdiscovery/subfinder/blob/dev/README.md
+- Topics: bugbounty, hacking, hacktoberfest, osint, reconnaissance, subdomain-enumeration, subdomains
+
+Why it matters:
+- active open source project with 13851 GitHub stars at discovery time
+- useful for the `reconnaissance` category
+
+Suggested metadata:
+- type: `tool`
+- category: `reconnaissance`
+
 ## Scanning
 
 
