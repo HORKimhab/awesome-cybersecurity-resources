@@ -21,6 +21,140 @@ Suggested metadata:
 - type: `tool`
 - category: `password-cracking`
 
+### John the Ripper
+
+Popular open source password cracker used for offline password auditing and recovery. It supports wordlist attacks, incremental brute force, rules-based mutations, and many hash and file formats commonly encountered in Linux and Windows environments.
+
+- GitHub: https://github.com/openwall/john
+- Official site: https://www.openwall.com/john/
+- Documentation: https://github.com/openwall/john/blob/bleeding-jumbo/doc/README.md
+- Community wiki: https://openwall.info/wiki/john
+
+Why it matters:
+- one of the standard password auditing tools used in Kali Linux workflows
+- supports many hashes, archive formats, and cracking modes
+- strong community documentation and long-term adoption
+
+Suggested metadata:
+- type: `tool`
+- category: `password-cracking`
+
+### THC Hydra
+
+Open source network login cracker for online password attacks against services such as SSH, FTP, RDP, SMB, HTTP forms, and many other protocols. It is designed for credential auditing where authentication happens over the network rather than against offline hashes.
+
+- GitHub: https://github.com/vanhauser-thc/thc-hydra
+- Official site: https://www.thc.org/thc-hydra/
+- Documentation: https://github.com/vanhauser-thc/thc-hydra/blob/master/README
+
+Why it matters:
+- widely used in Kali Linux for online credential testing
+- supports a large set of network authentication protocols
+- useful alongside custom or generated wordlists
+
+Suggested metadata:
+- type: `tool`
+- category: `password-cracking`
+
+### Medusa
+
+Fast, parallel, modular login brute-forcer for online authentication services. Medusa is commonly used for authorized credential auditing against protocols such as SSH, FTP, HTTP, SMB, and database services.
+
+- GitHub: https://github.com/jmk-foofus/medusa
+- Official site: https://foofus.net/goons/jmk/medusa/medusa.html
+
+Why it matters:
+- established open source alternative to Hydra for online password attacks
+- supports parallel, module-based testing across multiple services
+- fits standard Kali password auditing workflows
+
+Suggested metadata:
+- type: `tool`
+- category: `password-cracking`
+
+### Ncrack
+
+High-speed network authentication cracking tool from the Nmap project, designed for online password auditing of services such as SSH, RDP, FTP, SMB, Telnet, VNC, and web logins.
+
+- GitHub: https://github.com/nmap/ncrack
+- Official site: https://nmap.org/ncrack/
+- Documentation: https://nmap.org/ncrack/guide.html
+
+Why it matters:
+- backed by the Nmap project and focused on network login auditing
+- optimized for scale, timing control, and reliable service interaction
+- useful for Kali users testing exposed authentication services
+
+Suggested metadata:
+- type: `tool`
+- category: `password-cracking`
+
+### CeWL
+
+Custom wordlist generator that crawls websites and builds password candidate lists from discovered words and metadata. It is commonly used to create targeted dictionaries before running offline or online password attacks.
+
+- GitHub: https://github.com/digininja/CeWL
+- Official site: https://digi.ninja/projects/cewl.php
+- Documentation: https://github.com/digininja/CeWL/blob/main/README.md
+
+Why it matters:
+- creates target-specific wordlists from public web content
+- useful when generic dictionaries miss organization-specific terms
+- pairs well with John the Ripper, Hashcat, Hydra, and Medusa
+
+Suggested metadata:
+- type: `tool`
+- category: `password-cracking`
+
+### Crunch
+
+Open source wordlist generator that creates custom password candidate lists from character sets, patterns, and length ranges. It is commonly used to prepare targeted dictionaries before running tools such as Hydra, John the Ripper, or Hashcat.
+
+- GitHub mirror: https://github.com/crunchsec/crunch
+- Kali tool page: https://www.kali.org/tools/crunch/
+
+Why it matters:
+- common companion tool in Kali password attack workflows
+- useful when default wordlists do not fit the target password pattern
+- simple way to generate rule-based candidate lists
+
+Suggested metadata:
+- type: `tool`
+- category: `password-cracking`
+
+### ophcrack
+
+Open source Windows password recovery tool best known for cracking LM and NTLM hashes with rainbow tables. It is commonly used in legacy Windows password recovery and forensic lab workflows.
+
+- GitHub: https://github.com/ophcrack/ophcrack
+- Official site: https://ophcrack.sourceforge.io/
+
+Why it matters:
+- recognized open source option for Windows hash recovery
+- especially relevant for LM and NTLM-focused recovery use cases
+- adds historical and forensic coverage to the password-cracking section
+
+Suggested metadata:
+- type: `tool`
+- category: `password-cracking`
+
+### CUPP
+
+Common User Passwords Profiler is an open source password profiling tool that generates targeted wordlists from personal information, keywords, and user-provided patterns. It is typically used for authorized password auditing and red team simulations.
+
+- GitHub: https://github.com/Mebus/cupp
+- Kali tool page: https://www.kali.org/tools/cupp/
+- Documentation: https://github.com/Mebus/cupp/blob/master/README.md
+
+Why it matters:
+- useful in Kali when a more tailored wordlist is needed
+- generates candidate passwords from names, dates, and custom keywords
+- lightweight tool that pairs well with Hydra, John the Ripper, and Hashcat
+
+Suggested metadata:
+- type: `tool`
+- category: `password-cracking`
+
 ### brutus
 
 Fast, zero-dependency credential testing tool in Go. Brute force SSH, MySQL, PostgreSQL, Redis, MongoDB, SMB, and 20+ protocols. Hydra alternative with native nerva/naabu pipeline integration.
