@@ -637,6 +637,84 @@ Suggested metadata:
 - type: `tool`
 - category: `osint`
 
+### phishing_catcher
+
+Tool for monitoring certificate transparency logs to spot suspicious domains that may be related to phishing campaigns and brand impersonation.
+
+- GitHub: https://github.com/x0rz/phishing_catcher
+- Documentation: https://github.com/x0rz/phishing_catcher/blob/master/README.md
+- Topics: certstream, phishing, phishing-detection, security, threat-intelligence
+
+Why it matters:
+- useful for early detection of newly registered lookalike phishing domains
+- fits phishing monitoring and threat intelligence workflows
+- practical defensive complement to broader OSINT tooling
+
+Suggested metadata:
+- type: `tool`
+- category: `osint`
+
+### dnstwist
+
+Domain fuzzing engine that helps detect typo-squatting, phishing, and brand impersonation domains by generating and inspecting lookalike variations.
+
+- GitHub: https://github.com/elceef/dnstwist
+- Official site: https://dnstwist.it/
+- Documentation: https://github.com/elceef/dnstwist/blob/master/README.md
+
+Why it matters:
+- widely used to identify likely phishing infrastructure based on deceptive domain variants
+- useful for brand monitoring, abuse triage, and threat hunting
+- supports a defensive phishing-detection use case without enabling credential theft
+
+Suggested metadata:
+- type: `tool`
+- category: `osint`
+
+### Phishing.Database
+
+Community-maintained phishing domain and URL blocklist intended for detection, filtering, and defensive security operations.
+
+- GitHub: https://github.com/mitchellkrogza/Phishing.Database
+- Documentation: https://github.com/mitchellkrogza/Phishing.Database/blob/master/README.md
+- Topics: blacklist, blocklist, phishing, threat-intelligence, url-blocklist
+
+Why it matters:
+- useful for defenders building phishing filters and sinkholes
+- provides actionable indicators for blocking known malicious domains and URLs
+- complements hunting tools with curated defensive data
+
+Suggested metadata:
+- type: `tool`
+- category: `osint`
+
+### mrphish
+
+All In One Social Accounts Phishing With Otp Bypass In Termux.
+
+A phishing toolkit commonly referenced in security research and malware analysis contexts. It is associated with social engineering pages targeting multiple online services and is often used as a sample in phishing-awareness and detection work.
+
+- GitHub: https://github.com/noob-hackers/mrphish
+- Documentation: https://github.com/noob-hackers/mrphish/blob/master/README.md
+- Topics: blacklist, blocklist, phishing, threat-intelligence, url-blocklist
+
+Why it matters:
+- Helps defenders identify patterns used in phishing kits (UI mimicry, credential capture flows)
+- Useful for building detection rules for phishing infrastructure (domains, URLs, templates)
+- Can be used in threat intelligence pipelines to enrich known-bad indicators
+- Supports security training on real-world phishing techniques
+
+Suggested metadata:
+- type: `tool`
+- category: `threat-intel / osint`
+- threat_type: `phishing-kit`
+- use_case: `defensive_analysis`
+- tags: `phishing, social-engineering, credential-harvesting, ioc`
+
+Note: 
+- This is a dual-use artifact; should be handled strictly for analysis, detection, and security research
+- Not intended for deployment, reuse, or operational activity
+
 ## AI Agent Security and Tooling
 
 
