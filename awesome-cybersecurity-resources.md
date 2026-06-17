@@ -451,6 +451,22 @@ Suggested metadata:
 - type: `tool`
 - category: `reconnaissance`
 
+### urlfinder
+
+A high-speed tool for passively gathering URLs, optimized for efficient and comprehensive web asset discovery without active scanning.
+
+- GitHub: https://github.com/projectdiscovery/urlfinder
+- Documentation: https://github.com/projectdiscovery/urlfinder/blob/dev/README.md
+- Topics: bugbounty, endpoint, hacking, osint, reconnaissance, url, urls
+
+Why it matters:
+- active open source project with 877 GitHub stars at discovery time
+- useful for the `reconnaissance` category
+
+Suggested metadata:
+- type: `tool`
+- category: `reconnaissance`
+
 ## Scanning
 
 
@@ -1033,6 +1049,22 @@ Gram is Klarna's own threat model diagramming tool
 
 Why it matters:
 - active open source project with 334 GitHub stars at discovery time
+- useful for the `general-security` category
+
+Suggested metadata:
+- type: `tool`
+- category: `general-security`
+
+### automotive-skills-suite
+
+100+ installable Claude skills covering Engineering areas such as, ISO 26262 functional safety, ISO/SAE 21434 cybersecurity, ISO 21448 SOTIF, AIAG-VDA quality (APQP/PPAP/FMEA), Automotive SPICE, and continuous improve...
+
+- GitHub: https://github.com/jherrodthomas/automotive-skills-suite
+- Documentation: https://github.com/jherrodthomas/automotive-skills-suite/blob/main/README.md
+- Topics: apqp, aspice, automotive, autosar, engineering, fusa, hardware, software-engineering
+
+Why it matters:
+- active open source project with 1516 GitHub stars at discovery time
 - useful for the `general-security` category
 
 Suggested metadata:
