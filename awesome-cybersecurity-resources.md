@@ -764,6 +764,37 @@ Suggested metadata:
 - type: `tool`
 - category: `osint`
 
+### Void-Tools
+
+Python terminal multitool — OSINT, network utilities, Rich TUI dashboard. Educational use only.
+
+- GitHub: https://github.com/v0id4real/Void-Tools
+- Documentation: https://github.com/v0id4real/Void-Tools/blob/main/README.md
+- Topics: discord-joiner, discord-multi-tool, discord-multitool, discord-multitools, discord-nuke-bot, discord-nuker, discord-nukers, discord-raid
+
+Why it matters:
+- active open source project with 1321 GitHub stars at discovery time
+- useful for the `osint` category
+
+Suggested metadata:
+- type: `tool`
+- category: `osint`
+### Void-Tools-v2.0
+
+Python terminal multitool — OSINT, Discord, web & network utilities. Rich TUI, 13 themes, remote updates. Educational use only.
+
+- GitHub: https://github.com/V0id-v2/Void-Tools-v2.0
+- Documentation: https://github.com/V0id-v2/Void-Tools-v2.0/blob/main/README.md
+- Topics: discord-joiner, discord-multi-tool, discord-multitool, discord-multitools, discord-nuke-bot, discord-nuker, discord-nukers, discord-raid
+
+Why it matters:
+- active open source project with 2230 GitHub stars at discovery time
+- useful for the `osint` category
+
+Suggested metadata:
+- type: `tool`
+- category: `osint`
+
 ## AI Agent Security and Tooling
 
 
