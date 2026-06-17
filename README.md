@@ -1,5 +1,6 @@
 # awesome-cybersecurity-resources
-Awesome Cybersecurity Resources
+Awesome Cybersecurity Resources, [`more`](awesome-cybersecurity-resources.md).
+
 
 ## Purpose
 
@@ -12,12 +13,13 @@ The canonical format is:
 
 ## Structure
 
-- `data/resources/`: structured resource entries
-- `data/templates/`: reusable frontmatter templates
-- `data/automation/`: automation state
-- `doc/`: agent and workflow documentation
-- `scripts/`: local and CI automation
-- `.github/workflows/`: scheduled GitHub Actions jobs
+- [`data/resources/`](data/resources/): structured resource entries
+- [`data/templates/`](data/templates/): reusable frontmatter templates
+- [`data/automation/`](data/automation/): automation state
+- [`doc/`](doc/): agent and workflow documentation
+- [`doc/ai-agent.md`](doc/ai-agent.md): agent workflow notes
+- [`scripts/discover_resources.py`](scripts/discover_resources.py): local discovery automation
+- [`.github/workflows/discover-resources.yml`](.github/workflows/discover-resources.yml): scheduled GitHub Actions job
 
 ## Workflow
 
@@ -32,7 +34,7 @@ The canonical format is:
 
 ## GitHub Automation
 
-The repository includes an hourly GitHub Action at `.github/workflows/discover-resources.yml`.
+The repository includes an hourly GitHub Action at [`.github/workflows/discover-resources.yml`](.github/workflows/discover-resources.yml).
 
 What it does:
 - searches GitHub for five candidate cybersecurity repositories every hour
