@@ -715,6 +715,23 @@ Note:
 - This is a dual-use artifact; should be handled strictly for analysis, detection, and security research
 - Not intended for deployment, reuse, or operational activity
 
+### haylxon
+
+⚡ Blazing-fast tool to grab screenshots of your domain list right from terminal.
+
+- GitHub: https://github.com/pwnwriter/haylxon
+- Official site: https://hxn.pwnwriter.me
+- Documentation: https://github.com/pwnwriter/haylxon/blob/main/README.md
+- Topics: bug-hunting-tools, hactoberfest, osint, pwnwriter, rust, rustlang, screenshot-utility
+
+Why it matters:
+- active open source project with 439 GitHub stars at discovery time
+- useful for the `osint` category
+
+Suggested metadata:
+- type: `tool`
+- category: `osint`
+
 ## AI Agent Security and Tooling
 
 
@@ -984,6 +1001,22 @@ Open-source security suite for OSINT reconnaissance, web security testing, API s
 
 Why it matters:
 - combines multiple common security workflows in one project, including OSINT, scanning, API testing, and reporting
+- useful for the `general-security` category
+
+Suggested metadata:
+- type: `tool`
+- category: `general-security`
+
+### GraphQLer
+
+🔍A cutting edge context aware GraphQL API fuzzing tool!
+
+- GitHub: https://github.com/omar2535/GraphQLer
+- Documentation: https://github.com/omar2535/GraphQLer/blob/main/README.md
+- Topics: api, api-testing-framework, appsec, automated-testing, cybersecurity, fuzzing, graphql, llm-fuzzing
+
+Why it matters:
+- active open source project with 165 GitHub stars at discovery time
 - useful for the `general-security` category
 
 Suggested metadata:
