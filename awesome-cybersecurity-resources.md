@@ -1023,6 +1023,22 @@ Suggested metadata:
 - type: `tool`
 - category: `general-security`
 
+### gram
+
+Gram is Klarna's own threat model diagramming tool
+
+- GitHub: https://github.com/klarna-incubator/gram
+- Documentation: https://github.com/klarna-incubator/gram/blob/main/README.md
+- Topics: appsec, cybersecurity, infosec, threat-modeling
+
+Why it matters:
+- active open source project with 334 GitHub stars at discovery time
+- useful for the `general-security` category
+
+Suggested metadata:
+- type: `tool`
+- category: `general-security`
+
 ## Web Security
 
 
