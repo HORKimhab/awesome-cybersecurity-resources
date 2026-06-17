@@ -467,6 +467,22 @@ Suggested metadata:
 - type: `tool`
 - category: `reconnaissance`
 
+### WhatsMyName
+
+Community-maintained dataset of 700+ websites for finding accounts by username — powers OSINT and digital footprint tools.
+
+- GitHub: https://github.com/WebBreacher/WhatsMyName
+- Documentation: https://github.com/WebBreacher/WhatsMyName/blob/main/README.md
+- Topics: cybersecurity, dataset, json, osint, osint-tool, recon, user-enumeration, username
+
+Why it matters:
+- active open source project with 2586 GitHub stars at discovery time
+- useful for the `reconnaissance` category
+
+Suggested metadata:
+- type: `tool`
+- category: `reconnaissance`
+
 ## Scanning
 
 
@@ -1065,6 +1081,23 @@ Suggested metadata:
 
 Why it matters:
 - active open source project with 1516 GitHub stars at discovery time
+- useful for the `general-security` category
+
+Suggested metadata:
+- type: `tool`
+- category: `general-security`
+
+### pentest-copilot
+
+Pentest Copilot is an AI-powered browser based ethical hacking assistant tool designed to streamline pentesting workflows.
+
+- GitHub: https://github.com/bugbasesecurity/pentest-copilot
+- Official site: https://pentest.bugbase.ai
+- Documentation: https://github.com/bugbasesecurity/pentest-copilot/blob/main/README.md
+- Topics: ai, cybersecurity, cybersecurity-tools, llms, pentesting
+
+Why it matters:
+- active open source project with 911 GitHub stars at discovery time
 - useful for the `general-security` category
 
 Suggested metadata:
