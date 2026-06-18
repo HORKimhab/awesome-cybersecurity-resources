@@ -811,6 +811,23 @@ Suggested metadata:
 - type: `tool`
 - category: `osint`
 
+### OSINT-for-countries-V2.0
+
+OSINT resources and tools by country, structured for fact-checkers and digital profilers
+
+- GitHub: https://github.com/paulpogoda/OSINT-for-countries-V2.0
+- Official site: https://t.me/pavelbannikov
+- Documentation: https://github.com/paulpogoda/OSINT-for-countries-V2.0/blob/main/README.md
+- Topics: fact-checking, open-data, osint, osint-tools, profiling
+
+Why it matters:
+- active open source project with 153 GitHub stars at discovery time
+- useful for the `osint` category
+
+Suggested metadata:
+- type: `tool`
+- category: `osint`
+
 ## AI Agent Security and Tooling
 
 
