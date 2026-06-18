@@ -795,6 +795,22 @@ Suggested metadata:
 - type: `tool`
 - category: `osint`
 
+### The-Pika-s-OSINT-ToolBox
+
+A curated list of free OSINT tools ⚡️
+
+- GitHub: https://github.com/passthesh3ll/The-Pika-s-OSINT-ToolBox
+- Official site: https://pikaosint.pages.dev
+- Documentation: https://github.com/passthesh3ll/The-Pika-s-OSINT-ToolBox/blob/main/README.md
+
+Why it matters:
+- active open source project with 204 GitHub stars at discovery time
+- useful for the `osint` category
+
+Suggested metadata:
+- type: `tool`
+- category: `osint`
+
 ## AI Agent Security and Tooling
 
 
