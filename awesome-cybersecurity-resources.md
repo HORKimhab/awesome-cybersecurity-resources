@@ -1168,6 +1168,23 @@ Suggested metadata:
 - type: `tool`
 - category: `general-security`
 
+### attack-flow
+
+Attack Flow helps executives, SOC managers, and defenders easily understand how attackers compose ATT&CK techniques into attacks by developing a representation of attack flows, modeling attack flows for a small corpus...
+
+- GitHub: https://github.com/center-for-threat-informed-defense/attack-flow
+- Official site: https://ctid.io/flow
+- Documentation: https://github.com/center-for-threat-informed-defense/attack-flow/blob/main/README.md
+- Topics: ctid, cyber-threat-intelligence, cybersecurity, mitre-attack, threat-informed-defense
+
+Why it matters:
+- active open source project with 747 GitHub stars at discovery time
+- useful for the `general-security` category
+
+Suggested metadata:
+- type: `tool`
+- category: `general-security`
+
 ## Web Security
 
 
