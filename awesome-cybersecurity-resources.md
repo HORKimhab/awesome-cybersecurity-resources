@@ -625,6 +625,13 @@ Attack Flow helps executives, SOC managers, and defenders easily understand how 
 - Documentation: https://github.com/center-for-threat-informed-defense/attack-flow/blob/main/README.md
 - Topics: ctid, cyber-threat-intelligence, cybersecurity, mitre-attack, threat-informed-defense
 
+### Wonka
+
+Wonka is a sweet Windows tool that extracts Kerberos tickets from the Local Security Authority (LSA) cache. Like finding a ticket, but for security research and penetration testing! 🎫
+
+- GitHub: https://github.com/Shac0x/Wonka
+- Documentation: https://github.com/Shac0x/Wonka/blob/main/README.md
+
 ## Web Security
 
 
