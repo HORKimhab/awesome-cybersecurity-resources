@@ -663,6 +663,15 @@ LockKnife: The Ultimate Android Security Research Tool. A unified TUI workspace 
 - Official site: https://lockknife.vercel.app
 - Documentation: https://github.com/ImKKingshuk/LockKnife/blob/main/README.md
 - Topics: adb, ai-agents, ai-assisted-hacking, ai-hacking, android-forensics, android-hacking, android-reverse-engineering, android-security
+
+### RecoverPy
+
+Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
+
+- GitHub: https://github.com/PabloLec/RecoverPy
+- Documentation: https://github.com/PabloLec/RecoverPy/blob/main/README.md
+- Topics: cli, console, cybersecurity, data, data-recovery, files, forensics, hacking
+
 ## Reverse Engineering
 
 
