@@ -241,6 +241,15 @@ Community-maintained dataset of 700+ websites for finding accounts by username â
 - Documentation: https://github.com/WebBreacher/WhatsMyName/blob/main/README.md
 - Topics: cybersecurity, dataset, json, osint, osint-tool, recon, user-enumeration, username
 
+### leaker
+
+Passive leak enumeration tool.
+
+- GitHub: https://github.com/vflame6/leaker
+- Official site: https://maksimradaev.com/posts/introducing-leaker/
+- Documentation: https://github.com/vflame6/leaker/blob/main/README.md
+- Topics: bugbounty, hacking, leak-detection, leaks, osint, reconnaissance
+
 ## Scanning
 
 
