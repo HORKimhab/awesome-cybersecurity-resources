@@ -445,6 +445,15 @@ OSINT resources and tools by country, structured for fact-checkers and digital p
 - Documentation: https://github.com/paulpogoda/OSINT-for-countries-V2.0/blob/main/README.md
 - Topics: fact-checking, open-data, osint, osint-tools, profiling
 
+### dpulse
+
+DPULSE - Tool for complex approach to domain OSINT
+
+- GitHub: https://github.com/OSINT-TECHNOLOGIES/dpulse
+- Official site: https://pypi.org/project/dpulse/
+- Documentation: https://github.com/OSINT-TECHNOLOGIES/dpulse/blob/main/README.md
+- Topics: cybersecurity, cybersecurity-education, cybersecurity-tool, data-gathering, domain-analysis, google-dorking, information-gathering, information-security
+
 ## AI Agent Security and Tooling
 
 
