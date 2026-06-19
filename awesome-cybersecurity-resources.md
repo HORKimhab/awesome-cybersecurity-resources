@@ -697,3 +697,32 @@ A port scanner and service detection tool that uses 1000 goroutines at once to s
 - GitHub: https://github.com/mytechnotalent/turbo-scanner
 - Documentation: https://github.com/mytechnotalent/turbo-scanner/blob/main/README.md
 - Topics: blue-team, blue-teams, cyber, cybersecurity, defensive-security, go, golang, malware
+
+### clamav
+
+ClamAV is an open source antivirus engine for detecting trojans, viruses, malware, and other malicious threats. It is commonly used for on-demand file scanning, mail gateway inspection, and automated signature updates in defensive workflows.
+
+- GitHub: https://github.com/Cisco-Talos/clamav
+- Official site: https://www.clamav.net/
+- Documentation: https://docs.clamav.net/
+
+### YARA
+
+YARA is a pattern-matching toolkit widely used in malware research and threat hunting to identify suspicious files and behaviors with reusable detection rules. It is a foundational building block for signature-based malware triage and detection engineering.
+
+- GitHub: https://github.com/VirusTotal/yara
+- Documentation: https://yara.readthedocs.io/
+
+### Loki
+
+Loki is a simple IOC and YARA scanner designed for host-based threat detection. It is useful for incident response and compromise assessment where defenders want to scan endpoints against known indicators and rule sets.
+
+- GitHub: https://github.com/Neo23x0/Loki
+- Documentation: https://github.com/Neo23x0/Loki/blob/master/README.md
+
+### signature-base
+
+signature-base is a curated YARA signature and IOC database used by malware scanners and threat hunting tools such as Loki. It is a practical companion resource when building or maintaining detection content for malware analysis workflows.
+
+- GitHub: https://github.com/Neo23x0/signature-base
+- Documentation: https://github.com/Neo23x0/signature-base/blob/master/README.md
