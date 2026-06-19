@@ -42,6 +42,14 @@ Example:
 - prefer official sources such as the project website, GitHub repository, wiki, or docs
 - create a curated entry in `awesome-cybersecurity-resources.md`
 
+Curated list format for `awesome-cybersecurity-resources.md`:
+- keep each entry lean
+- include only the heading, one short description, and source links
+- include `Topics` only when they add signal
+- do not add `Why it matters`
+- do not add `Suggested metadata`
+- keep `type` and `category` in YAML-only structured files under `data/resources/`, not in the curated Markdown list
+
 Preferred source order:
 1. official project site
 2. official GitHub repository

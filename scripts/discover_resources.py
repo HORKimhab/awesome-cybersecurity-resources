@@ -174,19 +174,7 @@ def format_entry(entry: RepoEntry) -> str:
         lines.append(f"- Documentation: {entry.docs_url}")
     if entry.topics:
         lines.append(f"- Topics: {', '.join(entry.topics[:8])}")
-    lines.extend(
-        [
-            "",
-            "Why it matters:",
-            f"- active open source project with {entry.stars} GitHub stars at discovery time",
-            f"- useful for the `{entry.category_slug}` category",
-            "",
-            "Suggested metadata:",
-            "- type: `tool`",
-            f"- category: `{entry.category_slug}`",
-            "",
-        ]
-    )
+    lines.append("")
     return "\n".join(lines)
 
 
