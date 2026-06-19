@@ -1,7 +1,6 @@
 # awesome-cybersecurity-resources
 Awesome Cybersecurity Resources, [`more`](awesome-cybersecurity-resources.md).
 
-
 ## Purpose
 
 This repository stores curated cybersecurity resources gathered from the internet, repository documentation, and selected local notes.
@@ -66,3 +65,12 @@ Search the internet for a keyword such as `hashcat`, gather the official URLs, t
 
 ## TODO
 - [ ] https://docs.google.com/document/d/12KLm2Pfypw1QPobGN6QUBgj8Yq7C3PY-Q6Z_WoxI-WQ/edit?usp=sharing
+
+
+## Donate
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=GHBZLGLY76KNA)
+
+<p>
+  <img src="data/images/qr-code-hkimhab-merchant-988.png" alt="QR code for donation" height="180">
+</p>
