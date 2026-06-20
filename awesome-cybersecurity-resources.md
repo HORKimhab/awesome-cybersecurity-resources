@@ -266,6 +266,15 @@ Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, c
 - Documentation: https://github.com/Armur-Ai/Pentest-Swarm-AI/blob/main/README.md
 - Topics: ai-agents, bug-bounty, cybersecurity, offensive-security, penetration-testing, penetration-testing-framework, penetration-testing-tools
 
+### Nightingale
+
+Nightingale Docker for Pentesters is a comprehensive Dockerized environment tailored for penetration testing and vulnerability assessment. It comes preconfigured with all essential tools and utilities required for eff...
+
+- GitHub: https://github.com/RAJANAGORI/Nightingale
+- Official site: https://nightingale-security.com/
+- Documentation: https://github.com/RAJANAGORI/Nightingale/blob/main/README.md
+- Topics: bugbounty, cybersecurity, docker-image, hacking, hacking-tools, htb, nightingale, osint
+
 ## Scanning
 
 
