@@ -250,6 +250,14 @@ Passive leak enumeration tool.
 - Documentation: https://github.com/vflame6/leaker/blob/main/README.md
 - Topics: bugbounty, hacking, leak-detection, leaks, osint, reconnaissance
 
+### Pentest-Swarm-AI
+
+Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous monitoring, and CTF modes....
+
+- GitHub: https://github.com/Armur-Ai/Pentest-Swarm-AI
+- Documentation: https://github.com/Armur-Ai/Pentest-Swarm-AI/blob/main/README.md
+- Topics: ai-agents, bug-bounty, cybersecurity, offensive-security, penetration-testing, penetration-testing-framework, penetration-testing-tools
+
 ## Scanning
 
 
