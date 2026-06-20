@@ -98,6 +98,14 @@ A list of practical projects that anyone can solve in any programming language (
 - Documentation: https://github.com/noraj/haiti/blob/master/README.md
 - Topics: ctf, ctf-tools, cyber, cybersecurity, digest, hacking, hackthebox, hacktoberfest
 
+### sippts
+
+Set of tools to audit SIP based VoIP Systems
+
+- GitHub: https://github.com/Pepelux/sippts
+- Documentation: https://github.com/Pepelux/sippts/blob/master/README.md
+- Topics: asterisk, elastix, freepbx, hacking, hacking-tool, password-cracker, pbx, penetration-testing
+
 ## Attack Surface Discovery
 
 ### Amass
