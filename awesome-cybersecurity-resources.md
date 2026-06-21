@@ -701,6 +701,15 @@ Wonka is a sweet Windows tool that extracts Kerberos tickets from the Local Secu
 - GitHub: https://github.com/Shac0x/Wonka
 - Documentation: https://github.com/Shac0x/Wonka/blob/main/README.md
 
+### rawsec-cybersecurity-inventory
+
+An inventory of tools and resources about CyberSecurity that aims to help people to find everything related to CyberSecurity.
+
+- GitHub: https://github.com/noraj/rawsec-cybersecurity-inventory
+- Official site: https://inventory.raw.pm
+- Documentation: https://github.com/noraj/rawsec-cybersecurity-inventory/blob/master/README.md
+- Topics: cyber, cyber-security, cyberdefense, cybersecurity, hacktoberfest, infosec, inventory, ressources
+
 ## Web Security
 
 
