@@ -275,6 +275,14 @@ Nightingale Docker for Pentesters is a comprehensive Dockerized environment tail
 - Documentation: https://github.com/RAJANAGORI/Nightingale/blob/main/README.md
 - Topics: bugbounty, cybersecurity, docker-image, hacking, hacking-tools, htb, nightingale, osint
 
+### nomore403
+
+🚫 Advanced tool for security researchers to bypass 403/40X restrictions through smart techniques and adaptive request manipulation. Fast. Precise. Effective.
+
+- GitHub: https://github.com/devploit/nomore403
+- Documentation: https://github.com/devploit/nomore403/blob/main/README.md
+- Topics: 403, 403-bypass, bugbounty, bypass, ctf, go, http, pentest
+
 ## Scanning
 
 
