@@ -283,6 +283,15 @@ Nightingale Docker for Pentesters is a comprehensive Dockerized environment tail
 - Documentation: https://github.com/devploit/nomore403/blob/main/README.md
 - Topics: 403, 403-bypass, bugbounty, bypass, ctf, go, http, pentest
 
+### findme
+
+FindME is a CLI tool for searching social media and online profiles linked to a username. It’s ideal for reconnaissance, digital footprint verification, or checking username availability.
+
+- GitHub: https://github.com/0xSaikat/findme
+- Official site: https://findme.hackzar.com
+- Documentation: https://github.com/0xSaikat/findme/blob/main/README.md
+- Topics: osint, osint-python, osint-reconnaissance, osint-resources, osint-tool, osint-toolkit, osint-tools, osinttool
+
 ## Scanning
 
 
