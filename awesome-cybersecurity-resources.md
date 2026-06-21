@@ -292,6 +292,15 @@ FindME is a CLI tool for searching social media and online profiles linked to a 
 - Documentation: https://github.com/0xSaikat/findme/blob/main/README.md
 - Topics: osint, osint-python, osint-reconnaissance, osint-resources, osint-tool, osint-toolkit, osint-tools, osinttool
 
+### Awesome-OSINT-List
+
+📡 Comprehensive collection of OSINT tools for cybersecurity professionals, researchers, and bug bounty hunters. Topics: information gathering, reverse search, red team, trust & safety, AI.
+
+- GitHub: https://github.com/Astrosp/Awesome-OSINT-List
+- Official site: https://astrosp.github.io/osint-web/
+- Documentation: https://github.com/Astrosp/Awesome-OSINT-List/blob/main/README.md
+- Topics: ai, ai-tools, awesome-list, bug-bounty, cybersecurity, information-gathering, osint, pentest
+
 ## Scanning
 
 
@@ -495,6 +504,15 @@ DPULSE - Tool for complex approach to domain OSINT
 - Official site: https://pypi.org/project/dpulse/
 - Documentation: https://github.com/OSINT-TECHNOLOGIES/dpulse/blob/main/README.md
 - Topics: cybersecurity, cybersecurity-education, cybersecurity-tool, data-gathering, domain-analysis, google-dorking, information-gathering, information-security
+
+### Ransomware-Tool-Matrix
+
+A resource containing all the tools each ransomware gangs uses
+
+- GitHub: https://github.com/BushidoUK/Ransomware-Tool-Matrix
+- Official site: https://blog.bushidotoken.net/2024/08/the-ransomware-tool-matrix.html
+- Documentation: https://github.com/BushidoUK/Ransomware-Tool-Matrix/blob/main/README.md
+- Topics: cti, cybersecurity, detection-engineering, hacking, osint, ransomware, threat-hunting, threat-intelligence
 
 ## AI Agent Security and Tooling
 
