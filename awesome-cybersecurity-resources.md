@@ -934,6 +934,15 @@ OWASP Mutillidae II is a free, open-source, deliberately vulnerable web applicat
 - Documentation: https://github.com/webpwnized/mutillidae/blob/main/README.md
 - Topics: 10, application, appsec, cybersecurity, owasp, owasp-top-10, penetration-testing, security
 
+### cve-mcp-server
+
+Production-grade MCP server giving Claude 27 security intelligence tools across 21 APIs — CVE lookup, EPSS scoring, CISA KEV, MITRE ATT&CK, Shodan, VirusTotal, and more.
+
+- GitHub: https://github.com/mukul975/cve-mcp-server
+- Official site: https://www.mahipal.engineer/CVE-MCP-Server/
+- Documentation: https://github.com/mukul975/cve-mcp-server/blob/main/README.md
+- Topics: cisa-kev, claude-ai, cve, cybersecurity, devsecops, epss, fastmcp, mcp
+
 ## Malware Analysis
 
 
