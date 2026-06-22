@@ -790,6 +790,14 @@ Jok3r v3 BETA 2 - Network and Web Pentest Automation Framework
 - Documentation: https://github.com/koutto/jok3r/blob/master/README.md
 - Topics: automation, automation-framework, docker, exploiting-vulnerabilities, framework, hacking, hacking-tool, network
 
+### mutillidae
+
+OWASP Mutillidae II is a free, open-source, deliberately vulnerable web application providing a target for web-security training. This is an easy-to-use web hacking environment designed for labs, security enthusiasts,...
+
+- GitHub: https://github.com/webpwnized/mutillidae
+- Documentation: https://github.com/webpwnized/mutillidae/blob/main/README.md
+- Topics: 10, application, appsec, cybersecurity, owasp, owasp-top-10, penetration-testing, security
+
 ## Malware Analysis
 
 
