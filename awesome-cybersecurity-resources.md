@@ -514,6 +514,15 @@ A resource containing all the tools each ransomware gangs uses
 - Documentation: https://github.com/BushidoUK/Ransomware-Tool-Matrix/blob/main/README.md
 - Topics: cti, cybersecurity, detection-engineering, hacking, osint, ransomware, threat-hunting, threat-intelligence
 
+### Awesome-Blackhat-Tools
+
+A curated list of tools officially presented at Black Hat events
+
+- GitHub: https://github.com/UCYBERS/Awesome-Blackhat-Tools
+- Official site: https://ucybers.com
+- Documentation: https://github.com/UCYBERS/Awesome-Blackhat-Tools/blob/master/README.md
+- Topics: appsec, awesome-list, blackhat, blue-teaming, cybersecurity, defensive-security, forensics, hacker-tools
+
 ## AI Agent Security and Tooling
 
 
