@@ -106,6 +106,133 @@ Set of tools to audit SIP based VoIP Systems
 - Documentation: https://github.com/Pepelux/sippts/blob/master/README.md
 - Topics: asterisk, elastix, freepbx, hacking, hacking-tool, password-cracker, pbx, penetration-testing
 
+## Bluetooth Security and Analysis
+
+### Wireshark
+
+Open source network protocol analyzer with support for inspecting Bluetooth traffic captures. Commonly used for Bluetooth protocol study, packet troubleshooting, and defensive traffic analysis.
+
+- Official site: https://www.wireshark.org/
+- User guide: https://www.wireshark.org/docs/
+- Wiki: https://wiki.wireshark.org/
+
+### Ubertooth One
+
+Open source 2.4 GHz wireless development platform for Bluetooth experimentation and packet capture workflows. Frequently used in Bluetooth lab setups for monitoring and protocol analysis.
+
+- Official site: https://greatscottgadgets.com/ubertoothone/
+- GitHub: https://github.com/greatscottgadgets/ubertooth
+- Documentation: https://ubertooth.readthedocs.io/
+
+### BlueZ
+
+Official Linux Bluetooth protocol stack with utilities for device management, diagnostics, and traffic inspection. Useful for Bluetooth development, protocol testing, and host-side troubleshooting on Linux.
+
+- GitHub: https://github.com/bluez/bluez
+- Documentation: https://github.com/bluez/bluez/tree/master/doc
+
+### btmon
+
+Bluetooth monitoring utility included with BlueZ for capturing and inspecting Bluetooth activity at the host stack level. Useful for debugging adapters, pairing flows, and protocol behavior on Linux systems.
+
+- Source and docs: https://github.com/bluez/bluez
+- BlueZ documentation: https://github.com/bluez/bluez/tree/master/doc
+
+### Kismet
+
+Wireless monitoring platform with Bluetooth support for discovering nearby devices and collecting wireless telemetry. Useful for passive monitoring, inventory, and situational awareness in authorized environments.
+
+- Official site: https://www.kismetwireless.net/
+- GitHub: https://github.com/kismetwireless/kismet
+
+### Scapy
+
+Extensible packet manipulation framework that supports low-level protocol analysis and custom packet workflows. Useful for controlled Bluetooth-related protocol research and defensive lab automation.
+
+- Documentation: https://scapy.readthedocs.io/en/latest/
+- GitHub: https://github.com/secdev/scapy
+
+### PyShark
+
+Python wrapper around TShark and Wireshark dissectors for scripted packet parsing. Useful for automating Bluetooth capture analysis and extracting protocol metadata from packet traces.
+
+- GitHub: https://github.com/KimiNewt/pyshark
+
+### Bleak
+
+Cross-platform Python Bluetooth Low Energy client library for discovering and interacting with BLE devices. Useful for inventory, diagnostics, and testing of devices you own or are authorized to assess.
+
+- GitHub: https://github.com/hbldh/bleak
+- Documentation: https://bleak.readthedocs.io/
+
+### Bless
+
+Cross-platform Python Bluetooth Low Energy server library for creating BLE peripherals in test environments. Useful for building mock devices and validating Bluetooth application behavior in a controlled lab.
+
+- GitHub: https://github.com/kevincar/bless
+
+### Frida
+
+Dynamic instrumentation toolkit for observing and modifying application behavior at runtime. Commonly used to inspect how Android and iOS apps interact with Bluetooth APIs during security reviews.
+
+- Official site: https://frida.re/
+- Documentation: https://frida.re/docs/home/
+- GitHub: https://github.com/frida/frida
+
+### Objection
+
+Runtime mobile application exploration toolkit built on top of Frida. Useful for authorized assessment of Android and iOS applications, including inspection of Bluetooth-related application logic.
+
+- GitHub: https://github.com/sensepost/objection
+- Wiki: https://github.com/sensepost/objection/wiki
+
+### MobSF
+
+Automated mobile application security testing framework for static and dynamic analysis. Useful for reviewing Android and iOS apps that use Bluetooth features, permissions, or device communication workflows.
+
+- GitHub: https://github.com/MobSF/Mobile-Security-Framework-MobSF
+- Documentation: https://mobsf.github.io/docs/
+
+### Ghidra
+
+Software reverse engineering framework widely used for firmware and binary analysis. Useful for studying Bluetooth-enabled device firmware during defensive research and hardware security reviews.
+
+- GitHub: https://github.com/NationalSecurityAgency/ghidra
+- Documentation: https://github.com/NationalSecurityAgency/ghidra/tree/master/Docs
+
+### Binwalk
+
+Firmware analysis tool for extracting and inspecting embedded system images. Commonly used before reverse engineering Bluetooth device firmware and related update packages.
+
+- GitHub: https://github.com/ReFirmLabs/binwalk
+
+### Firmware Mod Kit
+
+Utilities for unpacking, modifying, and rebuilding embedded Linux firmware images in lab workflows. Useful for understanding firmware layout before deeper Bluetooth-related device analysis.
+
+- GitHub: https://github.com/rampageX/firmware-mod-kit
+
+### Bluetooth SIG Specifications
+
+Official Bluetooth specifications, assigned numbers, and developer resources from the Bluetooth Special Interest Group. Essential reference material for protocol learning, interoperability, and standards-based analysis.
+
+- Official specifications: https://www.bluetooth.com/specifications/specs/
+- Assigned numbers: https://www.bluetooth.com/specifications/assigned-numbers/
+
+### OWASP Mobile Security Testing Guide
+
+Open security testing guidance for mobile applications, including methodology relevant to Bluetooth-enabled app assessments. Useful for structuring defensive reviews and mobile testing workflows.
+
+- Project page: https://owasp.org/www-project-mobile-security-testing-guide/
+- OWASP MAS portal: https://owasp.org/mas
+
+### OWASP Mobile Security Project
+
+OWASP mobile security project resources covering best practices, testing methodology, and defensive guidance for Android and iOS applications.
+
+- Project page: https://owasp.org/www-project-mobile-security/
+- OWASP MAS portal: https://owasp.org/mas
+
 ## Attack Surface Discovery
 
 ### Amass
