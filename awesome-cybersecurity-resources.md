@@ -657,6 +657,14 @@ Methodology, links, tools for OSINT in different countries
 - GitHub: https://github.com/wddadk/OSINT-for-countries
 - Documentation: https://github.com/wddadk/OSINT-for-countries/blob/main/README.md
 
+### OSINT-BIBLE
+
+A comprehensive 2026 guide to Open-Source Intelligence (OSINT): tools, methodologies, ethics, and techniques for responsible research and investigation.
+
+- GitHub: https://github.com/frangelbarrera/OSINT-BIBLE
+- Documentation: https://github.com/frangelbarrera/OSINT-BIBLE/blob/main/README.md
+- Topics: cybersecurity, data-analysis, ethical-hacking, forensics, investigation, open-source-intelligence, osint, privacy
+
 ## AI Agent Security and Tooling
 
 
