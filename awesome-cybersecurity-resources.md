@@ -650,6 +650,13 @@ A curated list of tools officially presented at Black Hat events
 - Documentation: https://github.com/UCYBERS/Awesome-Blackhat-Tools/blob/master/README.md
 - Topics: appsec, awesome-list, blackhat, blue-teaming, cybersecurity, defensive-security, forensics, hacker-tools
 
+### OSINT-for-countries
+
+Methodology, links, tools for OSINT in different countries
+
+- GitHub: https://github.com/wddadk/OSINT-for-countries
+- Documentation: https://github.com/wddadk/OSINT-for-countries/blob/main/README.md
+
 ## AI Agent Security and Tooling
 
 
