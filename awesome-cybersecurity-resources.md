@@ -846,6 +846,20 @@ An inventory of tools and resources about CyberSecurity that aims to help people
 - Documentation: https://github.com/noraj/rawsec-cybersecurity-inventory/blob/master/README.md
 - Topics: cyber, cyber-security, cyberdefense, cybersecurity, hacktoberfest, infosec, inventory, ressources
 
+### Pentest-Tools-Collection
+
+Curated cybersecurity resource discovered by the scheduled GitHub automation.
+
+- GitHub: https://github.com/LuemmelSec/Pentest-Tools-Collection
+- Documentation: https://github.com/LuemmelSec/Pentest-Tools-Collection/blob/main/README.md
+### adscan
+
+Active Directory pentesting tool for Linux. Automated Kerberoasting, AS-REP Roasting, ADCS/ESC exploitation, DCSync, BloodHound integration, and 40+ AD attack paths. ENS Alto / NIS2 / ISO 27001 compliance reports. No...
+
+- GitHub: https://github.com/ADScanPro/adscan
+- Official site: https://www.adscanpro.com/docs
+- Topics: active-directory, active-directory-certificate-services, adcs, bloodhound, ctf, dcsync, enumeration, kerberoasting
+
 ## Web Security
 
 
@@ -942,6 +956,15 @@ Production-grade MCP server giving Claude 27 security intelligence tools across 
 - Official site: https://www.mahipal.engineer/CVE-MCP-Server/
 - Documentation: https://github.com/mukul975/cve-mcp-server/blob/main/README.md
 - Topics: cisa-kev, claude-ai, cve, cybersecurity, devsecops, epss, fastmcp, mcp
+
+### Hacking-Tools
+
+A curated list of penetration testing and ethical hacking tools, organized by category. This compilation includes tools from Kali Linux and other notable sources.
+
+- GitHub: https://github.com/yogsec/Hacking-Tools
+- Official site: https://linktr.ee/abhinavsingwal
+- Documentation: https://github.com/yogsec/Hacking-Tools/blob/main/README.md
+- Topics: abhinav-singwal, blue-team, bugbounty, cybersecurity, ethical-hacking-tools, hackers, hacking, hacking-tools
 
 ## Malware Analysis
 

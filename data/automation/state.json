@@ -1,8 +1,9 @@
 {
-  "last_run": "2026-06-22T18:29:21Z",
+  "last_run": "2026-06-23T08:40:12Z",
   "seen_repos": [
     "https://github.com/0xSaikat/findme",
     "https://github.com/0xSteph/pentest-ai",
+    "https://github.com/ADScanPro/adscan",
     "https://github.com/Armur-Ai/Pentest-Swarm-AI",
     "https://github.com/Astrosp/Awesome-OSINT-List",
     "https://github.com/Athena-OS/athena",
@@ -10,6 +11,7 @@
     "https://github.com/Chocapikk/wpprobe",
     "https://github.com/ImKKingshuk/LockKnife",
     "https://github.com/Jieyab89/OSINT-Cheat-sheet",
+    "https://github.com/LuemmelSec/Pentest-Tools-Collection",
     "https://github.com/ManojKumarPatnaik/Major-project-list",
     "https://github.com/OSINT-TECHNOLOGIES/dpulse",
     "https://github.com/OpenOSINT/OpenOSINT",
@@ -78,6 +80,7 @@
     "https://github.com/vflame6/leaker",
     "https://github.com/vil/H4X-Tools",
     "https://github.com/webpwnized/mutillidae",
+    "https://github.com/yogsec/Hacking-Tools",
     "https://github.com/zalexdev/strykerapp",
     "https://github.com/zardus/ctf-tools"
   ]
