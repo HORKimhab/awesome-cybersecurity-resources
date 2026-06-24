@@ -489,6 +489,14 @@ DPI detection tool for internet censorship testing. It identifies TLS, TCP, HTTP
 - GitHub: https://github.com/Runnin4ik/dpi-detector
 - Documentation: https://github.com/Runnin4ik/dpi-detector/blob/main/README.md
 
+### L0p4Map
+
+Professional network monitoring & visualization tool. L0P4Map combines high-speed ARP discovery with full nmap integration and a real-time interactive network topology engine. Works on both local networks and custom I...
+
+- GitHub: https://github.com/HaxL0p4/L0p4Map
+- Documentation: https://github.com/HaxL0p4/L0p4Map/blob/main/README.md
+- Topics: arp-scan, cybersecurity, hacking-tools, infosec, kali-linux, linux, network-scanner, network-visualization
+
 ## Open Source Intelligence
 
 
