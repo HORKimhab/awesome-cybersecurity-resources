@@ -428,6 +428,14 @@ FindME is a CLI tool for searching social media and online profiles linked to a 
 - Documentation: https://github.com/Astrosp/Awesome-OSINT-List/blob/main/README.md
 - Topics: ai, ai-tools, awesome-list, bug-bounty, cybersecurity, information-gathering, osint, pentest
 
+### MailAccess
+
+Free email OSINT tool, 2500+ platforms, identity clustering, breach detection. No API keys required. pip install mailaccess
+
+- GitHub: https://github.com/KatrielMoses/MailAccess
+- Documentation: https://github.com/KatrielMoses/MailAccess/blob/main/README.md
+- Topics: cybersecurity, email, email-automation, email-osint, holehe, infosec, maltego, open-source
+
 ## Scanning
 
 
