@@ -700,6 +700,14 @@ Open-source TypeScript AI agent framework with built-in support for guardrails, 
 - Documentation: https://voltagent.dev/docs/
 - LLM guide: https://voltagent.dev/llms.txt
 
+### BoxPwnr
+
+Modular framework for benchmarking LLMs and agentic strategies on security labs and CTF-style challenges across Hack The Box, PortSwigger Labs, picoCTF, TryHackMe, and similar platforms.
+
+- GitHub: https://github.com/0ca/BoxPwnr
+- Official site: https://boxpwnr.info/
+- Documentation: https://github.com/0ca/BoxPwnr/blob/main/README.md
+
 ### taranis-ai
 
 Taranis AI is an advanced Open-Source Intelligence (OSINT) tool, leveraging Artificial Intelligence to revolutionize information gathering and situational analysis.
