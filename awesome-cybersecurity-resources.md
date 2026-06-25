@@ -443,6 +443,15 @@ Free email OSINT tool, 2500+ platforms, identity clustering, breach detection. N
 - Documentation: https://github.com/KatrielMoses/MailAccess/blob/main/README.md
 - Topics: cybersecurity, email, email-automation, email-osint, holehe, infosec, maltego, open-source
 
+### Refloow-Geo-Forensics
+
+❤️ Free batch image & video geolocation digital forensics tool. Automatically extract EXIF data, visualize GPS coordinates on maps, and reconstruct event timelines for OSINT
+
+- GitHub: https://github.com/Refloow/Refloow-Geo-Forensics
+- Official site: https://refloow.com/open-source-software/refloow-geo-forensics
+- Documentation: https://github.com/Refloow/Refloow-Geo-Forensics/blob/main/README.md
+- Topics: digital-forensics, exif, geolocation, image-forensics, investigation-tool, metadata-extraction, open-source, osint
+
 ## Scanning
 
 
