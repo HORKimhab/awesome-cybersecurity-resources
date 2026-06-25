@@ -200,6 +200,13 @@ Software reverse engineering framework widely used for firmware and binary analy
 - GitHub: https://github.com/NationalSecurityAgency/ghidra
 - Documentation: https://github.com/NationalSecurityAgency/ghidra/tree/master/Docs
 
+### reverse-skill
+
+AI agent workflow router and tool orchestration pack for reverse engineering, security analysis, and CTF-oriented tasks. Useful as a structured skill pack for authorized research and lab workflows.
+
+- GitHub: https://github.com/zhaoxuya520/reverse-skill
+- Overview: https://github.com/zhaoxuya520/reverse-skill/blob/main/OVERVIEW.md
+
 ### Binwalk
 
 Firmware analysis tool for extracting and inspecting embedded system images. Commonly used before reverse engineering Bluetooth device firmware and related update packages.
