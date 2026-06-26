@@ -930,6 +930,14 @@ Active Directory pentesting tool for Linux. Automated Kerberoasting, AS-REP Roas
 - Official site: https://www.adscanpro.com/docs
 - Topics: active-directory, active-directory-certificate-services, adcs, bloodhound, ctf, dcsync, enumeration, kerberoasting
 
+### deadend-cli
+
+Agentic pentest tooling. Currently achieving 81% (KIMI K2.5) on XBOW's benchmark in full black-box. Completely Self-hosted. Every model available on LiteLLM (Ollama, anthropic, openai...)
+
+- GitHub: https://github.com/straylabs-ai/deadend-cli
+- Documentation: https://github.com/straylabs-ai/deadend-cli/blob/main/README.md
+- Topics: agentic-ai, ai, cybersecurity, cybersecurity-tools, offensive-security, pentesting, secure-coding
+
 ## Web Security
 
 
