@@ -712,6 +712,15 @@ A comprehensive 2026 guide to Open-Source Intelligence (OSINT): tools, methodolo
 - Documentation: https://github.com/frangelbarrera/OSINT-BIBLE/blob/main/README.md
 - Topics: cybersecurity, data-analysis, ethical-hacking, forensics, investigation, open-source-intelligence, osint, privacy
 
+### misp-modules
+
+Modules for expansion services, enrichment, import and export in MISP and other tools.
+
+- GitHub: https://github.com/MISP/misp-modules
+- Official site: http://misp.github.io/misp-modules
+- Documentation: https://github.com/MISP/misp-modules/blob/main/README.md
+- Topics: cti, domaintools, enrichment, expansion, misp, misp-modules, osint, passive-dns
+
 ## AI Agent Security and Tooling
 
 
