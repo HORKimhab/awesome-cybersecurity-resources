@@ -459,6 +459,14 @@ Free email OSINT tool, 2500+ platforms, identity clustering, breach detection. N
 - Documentation: https://github.com/Refloow/Refloow-Geo-Forensics/blob/main/README.md
 - Topics: digital-forensics, exif, geolocation, image-forensics, investigation-tool, metadata-extraction, open-source, osint
 
+### reconftw
+
+reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
+
+- GitHub: https://github.com/six2dez/reconftw
+- Official site: https://docs.reconftw.com/
+- Topics: bug-bounty, bugbounty, bugbounty-tool, dns, hacking, nuclei, osint, penetration-testing
+
 ## Scanning
 
 
