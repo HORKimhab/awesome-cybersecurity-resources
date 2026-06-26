@@ -200,6 +200,13 @@ Software reverse engineering framework widely used for firmware and binary analy
 - GitHub: https://github.com/NationalSecurityAgency/ghidra
 - Documentation: https://github.com/NationalSecurityAgency/ghidra/tree/master/Docs
 
+### ida-pro-mcp
+
+MCP server for integrating IDA Pro into reverse engineering workflows.
+
+- GitHub: https://github.com/mrexodia/ida-pro-mcp
+- Documentation: https://github.com/mrexodia/ida-pro-mcp/blob/master/README.md
+
 ### reverse-skill
 
 AI agent workflow router and tool orchestration pack for reverse engineering, security analysis, and CTF-oriented tasks. Useful as a structured skill pack for authorized research and lab workflows.
