@@ -947,6 +947,15 @@ Agentic pentest tooling. Currently achieving 81% (KIMI K2.5) on XBOW's benchmark
 - Documentation: https://github.com/straylabs-ai/deadend-cli/blob/main/README.md
 - Topics: agentic-ai, ai, cybersecurity, cybersecurity-tools, offensive-security, pentesting, secure-coding
 
+### athena-nix
+
+Athena OS Nix configuration files focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
+
+- GitHub: https://github.com/Athena-OS/athena-nix
+- Official site: https://athenaos.org
+- Documentation: https://github.com/Athena-OS/athena-nix/blob/main/README.md
+- Topics: athenaos, cybersecurity, hacking, infosec, learning, linux, nix, nixos
+
 ## Web Security
 
 
