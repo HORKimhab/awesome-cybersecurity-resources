@@ -467,6 +467,15 @@ reconFTW is a tool designed to perform automated recon on a target domain by run
 - Official site: https://docs.reconftw.com/
 - Topics: bug-bounty, bugbounty, bugbounty-tool, dns, hacking, nuclei, osint, penetration-testing
 
+### tookie-osint
+
+Tookie is a advanced OSINT information gathering tool that finds social media accounts based on inputs.
+
+- GitHub: https://github.com/Alfredredbird/tookie-osint
+- Official site: https://alfredredbird.github.io/tookie-osint/
+- Documentation: https://github.com/Alfredredbird/tookie-osint/blob/main/README.md
+- Topics: cyber-security, cybersecurity, hacking-tool, hacking-tools, information-gathering, osint, osint-framework, osint-kali
+
 ## Scanning
 
 
