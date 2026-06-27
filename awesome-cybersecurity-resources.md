@@ -728,6 +728,14 @@ CTI Cyber Threat Intelligence OSINT Dark Web Deep Web Research. Ransomware gang 
 - GitHub: https://github.com/aryanguenthner/darkfox
 - Documentation: https://github.com/aryanguenthner/darkfox/blob/main/README.md
 
+### The-Black-Tiger
+
+The Black Tiger is all in one OSINT Tool, which has the best methods to collect Information about something or someone just by few mouse clicks.
+
+- GitHub: https://github.com/VirusZzHkP/The-Black-Tiger
+- Documentation: https://github.com/VirusZzHkP/The-Black-Tiger/blob/main/README.md
+- Topics: cybersecurity, cybersecurity-tools, email-osint, hacking, hacking-tools, information, information-gathering, linux
+
 ## AI Agent Security and Tooling
 
 
