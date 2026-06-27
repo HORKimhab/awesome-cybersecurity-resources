@@ -745,6 +745,15 @@ The Black Tiger is all in one OSINT Tool, which has the best methods to collect 
 - Documentation: https://github.com/VirusZzHkP/The-Black-Tiger/blob/main/README.md
 - Topics: cybersecurity, cybersecurity-tools, email-osint, hacking, hacking-tools, information, information-gathering, linux
 
+### E4GL30S1NT
+
+E4GL30S1NT - Simple Information Gathering Tool
+
+- GitHub: https://github.com/C0MPL3XDEV/E4GL30S1NT
+- Official site: https://carminedev.it
+- Documentation: https://github.com/C0MPL3XDEV/E4GL30S1NT/blob/main/README.md
+- Topics: dorker, information-gathering, osint, osint-python, python, reversedns, reverseip, social-media
+
 ## AI Agent Security and Tooling
 
 
