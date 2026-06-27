@@ -721,6 +721,13 @@ Modules for expansion services, enrichment, import and export in MISP and other 
 - Documentation: https://github.com/MISP/misp-modules/blob/main/README.md
 - Topics: cti, domaintools, enrichment, expansion, misp, misp-modules, osint, passive-dns
 
+### darkfox
+
+CTI Cyber Threat Intelligence OSINT Dark Web Deep Web Research. Ransomware gang information gathering tool.
+
+- GitHub: https://github.com/aryanguenthner/darkfox
+- Documentation: https://github.com/aryanguenthner/darkfox/blob/main/README.md
+
 ## AI Agent Security and Tooling
 
 
