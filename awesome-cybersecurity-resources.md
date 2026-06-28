@@ -776,6 +776,14 @@ Search tools to help you find people, focused towards UK resources.
 - Documentation: https://github.com/The-Osint-Toolbox/People-Search-OSINT/blob/main/README.md
 - Topics: data, data-aggregation, osint, people, privacy, search, searching
 
+### GitSint
+
+🕵️ OSINT Tool (github tracker)
+
+- GitHub: https://github.com/N0rz3/GitSint
+- Documentation: https://github.com/N0rz3/GitSint/blob/master/README.md
+- Topics: email, github, github-tracker, infosec, open-source-intelligence, organization, osint, osint-python
+
 ## AI Agent Security and Tooling
 
 
