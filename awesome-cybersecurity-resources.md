@@ -754,6 +754,28 @@ E4GL30S1NT - Simple Information Gathering Tool
 - Documentation: https://github.com/C0MPL3XDEV/E4GL30S1NT/blob/main/README.md
 - Topics: dorker, information-gathering, osint, osint-python, python, reversedns, reverseip, social-media
 
+### Image-Research-OSINT
+
+Learn how to research images and the tools, techniques & tradecraft required.
+
+- GitHub: https://github.com/The-Osint-Toolbox/Image-Research-OSINT
+- Documentation: https://github.com/The-Osint-Toolbox/Image-Research-OSINT/blob/main/README.md
+- Topics: ai, exif-data-extraction, exif-metadata, face-recognition, image-forensics, photos, reverse-image-search, stock-images
+### Social-Media-OSINT
+
+Social Media OSINT collection containing - tools, techniques & tradecraft.
+
+- GitHub: https://github.com/The-Osint-Toolbox/Social-Media-OSINT
+- Documentation: https://github.com/The-Osint-Toolbox/Social-Media-OSINT/blob/main/README.md
+- Topics: bluesky, dating-app, discord, facebook, instagram, kik, linkedin, mastadon
+### People-Search-OSINT
+
+Search tools to help you find people, focused towards UK resources.
+
+- GitHub: https://github.com/The-Osint-Toolbox/People-Search-OSINT
+- Documentation: https://github.com/The-Osint-Toolbox/People-Search-OSINT/blob/main/README.md
+- Topics: data, data-aggregation, osint, people, privacy, search, searching
+
 ## AI Agent Security and Tooling
 
 
