@@ -784,6 +784,14 @@ Search tools to help you find people, focused towards UK resources.
 - Documentation: https://github.com/N0rz3/GitSint/blob/master/README.md
 - Topics: email, github, github-tracker, infosec, open-source-intelligence, organization, osint, osint-python
 
+### SoIG
+
+OSINT Tool gets a range of information from an Instagram account 🛠
+
+- GitHub: https://github.com/yezz123/SoIG
+- Documentation: https://github.com/yezz123/SoIG/blob/master/README.md
+- Topics: api, caption, information-gathering, instagram, instagram-osint, osint, osint-python, osint-tool
+
 ## AI Agent Security and Tooling
 
 
