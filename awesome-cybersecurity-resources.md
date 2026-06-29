@@ -1027,6 +1027,15 @@ Athena OS Nix configuration files focused on Cybersecurity. Learn, practice and 
 - Documentation: https://github.com/Athena-OS/athena-nix/blob/main/README.md
 - Topics: athenaos, cybersecurity, hacking, infosec, learning, linux, nix, nixos
 
+### strix
+
+Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
+
+- GitHub: https://github.com/usestrix/strix
+- Official site: https://strix.ai
+- Documentation: https://github.com/usestrix/strix/blob/main/README.md
+- Topics: agents, ai-hacking, ai-penetration-testing, ai-pentesting, ai-security, artificial-intelligence, bug-bounty, code-quality
+
 ## Web Security
 
 
@@ -1181,3 +1190,14 @@ Malwoverview is a first response tool for threat hunting across VirusTotal, Hybr
 - Official site: https://github.com/alexandreborges/malwoverview
 - Documentation: https://github.com/alexandreborges/malwoverview/blob/master/README.md
 - Topics: alienvault, cve, cve-search, cybersecurity, malpedia, malshare, malware, malware-analysis
+
+## Cloud Security
+
+
+### DevSecOps
+
+Ultimate DevSecOps library
+
+- GitHub: https://github.com/sottlmarek/DevSecOps
+- Documentation: https://github.com/sottlmarek/DevSecOps/blob/master/README.md
+- Topics: automation, awesome, awesome-list, aws, azure, ci-cd, cloud, containers
