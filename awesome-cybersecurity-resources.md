@@ -1202,6 +1202,14 @@ Malwoverview is a first response tool for threat hunting across VirusTotal, Hybr
 - Documentation: https://github.com/alexandreborges/malwoverview/blob/master/README.md
 - Topics: alienvault, cve, cve-search, cybersecurity, malpedia, malshare, malware, malware-analysis
 
+### njrat-config-analyzer
+
+Best RAT Builder Analysis Tool 2026 for Cybersecurity Education & Malware Detection
+
+- GitHub: https://github.com/fintanpyren-coder/njrat-config-analyzer
+- Documentation: https://github.com/fintanpyren-coder/njrat-config-analyzer/blob/main/README.md
+- Topics: njrat, njrat-attacker, njrat-download
+
 ## Cloud Security
 
 
