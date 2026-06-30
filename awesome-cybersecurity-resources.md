@@ -589,6 +589,17 @@ A list of tools to search accounts by username
 - Documentation: https://github.com/soxoj/osint-namecheckers-list/blob/master/README.md
 - Topics: account-search, awesome-osint, awesome-osint-tools, namechecker, nickname-search, osint, osint-list, osint-resources
 
+### maigret
+
+Collect a dossier on a person by username from 3000+ sites
+
+- GitHub: https://github.com/soxoj/maigret
+- Official site: https://maigret.app
+- Documentation: https://maigret.readthedocs.io/
+- Topics: cli, cybersecurity, identification, information-gathering, infosec, investigation, open-source, osint
+- Topics: osint-framework, osint-python, pentesting, python, python3, reconnaissance, redteam, scraping
+- Topics: sherlock, social-network, socmint, username
+
 ### kitphishr
 
 A tool designed to hunt for Phishing Kit source code
