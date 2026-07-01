@@ -48,6 +48,12 @@ Manual local run:
 python3 scripts/discover_resources.py
 ```
 
+Import missing entries from the ParrotSec package index in the simplified format:
+
+```sh
+python3 scripts/discover_resources.py --parrot-packages
+```
+
 Notes:
 - the workflow uses the built-in `GITHUB_TOKEN`
 - the workflow is scheduled hourly at minute `22` in UTC, not local time
