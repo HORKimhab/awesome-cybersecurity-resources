@@ -6119,3 +6119,20 @@ passive network traffic analyzer Zeek is primarily a security monitor that inspe
 
 - http://www.zeek.org/
 - https://gitlab.com/parrotsec/packages/zeek
+
+### ghost_eye
+
+Ghost Eye Informationgathering Footprinting Scanner and Recon Tool Release. Ghost Eye is an Information Gathering Tool I made in python 3. To run Ghost Eye, it only needs a domain or ip. Ghost Eye can work with any Li...
+
+- GitHub: https://github.com/BullsEye0/ghost_eye
+- Official site: https://hackingpassion.com
+- Documentation: https://github.com/BullsEye0/ghost_eye/blob/master/README.md
+- Topics: clickjacking-vulnerability, cms-detector, cookie-scraper, cybersecurity, dns-lookup, etherape, ethical-hacking, gathering
+
+### linWinPwn
+
+linWinPwn is a bash script that streamlines the use of a number of Active Directory tools
+
+- GitHub: https://github.com/lefayjey/linWinPwn
+- Documentation: https://github.com/lefayjey/linWinPwn/blob/main/README.md
+- Topics: active-directory, adcs, adsecurity, bloodhound, enumeration, exploitation, hacking, impacket
