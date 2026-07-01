@@ -1705,6 +1705,13 @@ Open-source AI penetration testing tool to find and fix your app’s vulnerabili
 - Documentation: https://github.com/usestrix/strix/blob/main/README.md
 - Topics: agents, ai-hacking, ai-penetration-testing, ai-pentesting, ai-security, artificial-intelligence, bug-bounty, code-quality
 
+### hexstrike-ai
+
+HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug bounty automation, and security research. Seamlessly bridge LLMs with real-world offensive security capabilities.
+
+- GitHub: https://github.com/0x4m4/hexstrike-ai
+- https://www.kali.org/tools/hexstrike-ai
+
 ### 0trace
 
 traceroute tool that can run within an existing TCP connection The package is traceroute tool that can be run within an existing, open TCP connection, therefore bypassing some types of stateful packet filters with ease.
