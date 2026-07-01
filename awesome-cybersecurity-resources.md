@@ -1179,6 +1179,15 @@ Automated phishing attacks against Wi-Fi networks This package contains a securi
 - https://github.com/sophron/wifiphisher
 - https://gitlab.com/parrotsec/packages/wifiphisher
 
+### prismor
+
+Runtime security for Agents. Blocks dangerous commands, prevent secret leaks, stop prompt injection, gate risky package installs and visibility and control over tool calls.
+
+- GitHub: https://github.com/PrismorSec/prismor
+- Official site: https://prismor.dev
+- Documentation: https://github.com/PrismorSec/prismor/blob/main/README.md
+- Topics: agent-security, agentic-ai, agents, ai-agents, ai-security, claude-code, cursor, cybersecurity
+
 
 ## Open Source Intelligence
 
