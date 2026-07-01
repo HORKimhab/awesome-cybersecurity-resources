@@ -1460,6 +1460,13 @@ OWASP Maryam is a modular/optional open source framework bas This package contai
 - https://github.com/saeeddhqan/Maryam
 - https://gitlab.com/parrotsec/packages/maryam
 
+### EMAIL-CRAWL
+
+EmailCrawl - is a professional-grade OSINT (Open Source Intelligence) tool designed for advanced email address extraction through comprehensive web crawling. Built for cybersecurity professionals, penetration testers,...
+
+- GitHub: https://github.com/techenthusiast167/EMAIL-CRAWL
+- Documentation: https://github.com/techenthusiast167/EMAIL-CRAWL/blob/main/README.md
+
 
 ## AI Agent Security and Tooling
 
