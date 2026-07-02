@@ -1497,6 +1497,14 @@ Modular framework for benchmarking LLMs and agentic strategies on security labs 
 - Official site: https://boxpwnr.info/
 - Documentation: https://github.com/0ca/BoxPwnr/blob/main/README.md
 
+### Decepticon
+
+Autonomous red team agent for browser-based or self-hosted engagements, with support for orchestrated specialist workloads and a terminal-first workflow.
+
+- GitHub: https://github.com/PurpleAILAB/Decepticon
+- Official site: https://decepticon.red/
+- Documentation: https://docs.decepticon.red/
+
 ### taranis-ai
 
 Taranis AI is an advanced Open-Source Intelligence (OSINT) tool, leveraging Artificial Intelligence to revolutionize information gathering and situational analysis.
