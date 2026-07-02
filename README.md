@@ -1518,6 +1518,13 @@ Autonomous red team agent for browser-based or self-hosted engagements, with sup
 - Official site: https://decepticon.red/
 - Documentation: https://docs.decepticon.red/
 
+### Shadowbroker
+
+Real-time geospatial OSINT and recon platform that aggregates multi-domain public telemetry into a unified interface, with a self-hosted backend and an agent command channel for AI-assisted analysis.
+
+- GitHub: https://github.com/BigBodyCobain/Shadowbroker
+- Documentation: https://github.com/BigBodyCobain/Shadowbroker/blob/main/README.md
+
 ### taranis-ai
 
 Taranis AI is an advanced Open-Source Intelligence (OSINT) tool, leveraging Artificial Intelligence to revolutionize information gathering and situational analysis.
