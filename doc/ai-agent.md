@@ -40,9 +40,9 @@ Search the internet for useful tools, repositories, articles, and documentation.
 Example:
 - search for `hashcat`
 - prefer official sources such as the project website, GitHub repository, wiki, or docs
-- create a curated entry in `awesome-cybersecurity-resources.md`
+- create a curated entry in `README.md`
 
-Curated list format for `awesome-cybersecurity-resources.md`:
+Curated list format for `README.md`:
 - keep each entry lean
 - include only the heading, one short description, and source links
 - include `Topics` only when they add signal
@@ -149,13 +149,13 @@ Internet-first example:
 
 1. Search for `hashcat`
 2. Verify the official GitHub repository and project site
-3. Add an entry to `awesome-cybersecurity-resources.md`
+3. Add an entry to `README.md`
 4. Optionally create `data/resources/hashcat.md` if a structured standalone record is useful
 
 ## GitHub Action Usage
 
 Primary output file:
-- `awesome-cybersecurity-resources.md`
+- `README.md`
 
 Automation files:
 - `.github/workflows/discover-resources.yml`
@@ -166,7 +166,7 @@ Behavior:
 1. GitHub Actions runs every hour
 2. the script searches GitHub for candidate cybersecurity repositories
 3. it selects up to five repositories not already stored
-4. it appends them under category headings in `awesome-cybersecurity-resources.md`
+4. it appends them under category headings in `README.md`
 5. it updates the automation state file
 6. the workflow commits and pushes the result
 

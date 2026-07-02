@@ -14,7 +14,7 @@ from typing import Dict, Iterable, List, Optional, Set
 
 
 ROOT = Path(__file__).resolve().parents[1]
-RESOURCE_FILE = ROOT / "awesome-cybersecurity-resources.md"
+RESOURCE_FILE = ROOT / "README.md"
 STATE_FILE = ROOT / "data" / "automation" / "state.json"
 PARROT_PACKAGES_URL = "https://parrotsec.gitlab.io/infra/night-watch-json/packages.json"
 PER_RUN = 10

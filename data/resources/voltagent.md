@@ -9,7 +9,7 @@ resources:
   - "https://voltagent.dev/docs/"
   - "https://voltagent.dev/llms.txt"
 suggestion: "Use this entry for agent security tooling and secure AI agent engineering references."
-source_file: "awesome-cybersecurity-resources.md"
+source_file: "README.md"
 source_section: "AI Agent Security and Tooling"
 source_repo: "https://github.com/VoltAgent/voltagent"
 source_url: "https://voltagent.dev/"
