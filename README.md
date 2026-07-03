@@ -5744,6 +5744,12 @@ MSFvenom Payload Creator (MSFPC) A quick way to generate various "basic" Meterpr
 - https://github.com/g0tmi1k/msfpc
 - https://gitlab.com/parrotsec/packages/msfpc
 
+### ms-photos_NTLM_Leak
+
+Microsoft Photos NTLM leak proof of concept.
+
+- https://github.com/rubenformation/ms-photos_NTLM_Leak
+
 ### multimac
 
 Create multiple MACs on an adapter Multimac is a linux virtual ethernet tap allocator to emulate and use multiple virtual interfaces (with different MAC addresses) on a LAN using a single network adapter.
