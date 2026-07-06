@@ -1598,6 +1598,12 @@ Some setup scripts for security research tools.
 - GitHub: https://github.com/zardus/ctf-tools
 - Documentation: https://github.com/zardus/ctf-tools/blob/master/README.md
 
+### OSCE3-Complete-Guide
+
+Comprehensive study guide and lab notes for the OffSec OSCE3 certification path, covering exploit development, web exploitation, and advanced offensive tradecraft practice.
+
+- GitHub: https://github.com/JoasASantos/OSCE3-Complete-Guide
+
 ### Awesome-LLM4Security
 
 This project aims to consolidate and share high-quality resources and tools across the cybersecurity domain.
