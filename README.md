@@ -1518,6 +1518,12 @@ Autonomous red team agent for browser-based or self-hosted engagements, with sup
 - Official site: https://decepticon.red/
 - Documentation: https://docs.decepticon.red/
 
+### claude-red
+
+Claude-focused red team toolkit for agentic offensive security workflows and experimentation.
+
+- GitHub: https://github.com/SnailSploit/claude-red
+
 ### Shadowbroker
 
 Real-time geospatial OSINT and recon platform that aggregates multi-domain public telemetry into a unified interface, with a self-hosted backend and an agent command channel for AI-assisted analysis.
@@ -1611,12 +1617,14 @@ This project aims to consolidate and share high-quality resources and tools acro
 - GitHub: https://github.com/liu673/Awesome-LLM4Security
 - Documentation: https://github.com/liu673/Awesome-LLM4Security/blob/main/README.md
 - Topics: cybersecurity, llm, sec, security, security-tools, tools
+
 ### strykerapp
 
 Magic tool for pentest from your android device!
 
 - GitHub: https://github.com/zalexdev/strykerapp
 - Documentation: https://github.com/zalexdev/strykerapp/blob/main/README.md
+
 ### nix-security-box
 
 Tool set for Information security professionals and all others
