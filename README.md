@@ -825,6 +825,23 @@ Public Zone Database (program) This package provides a free, open-source databas
 - https://github.com/zonedb/zonedb
 - https://gitlab.com/parrotsec/packages/zonedb
 
+### JShunter
+
+jshunter is a command-line tool designed for analyzing JavaScript files and extracting endpoints. This tool specializes in identifying sensitive data, such as API endpoints and potential security vulnerabilities, maki...
+
+- GitHub: https://github.com/cc1a2b/JShunter
+- Documentation: https://github.com/cc1a2b/JShunter/blob/main/README.md
+- Topics: appsec, attack-surface, bug-bounty, cybersecurity, ethical-hacking, golang, javascript, recon
+
+### Ominis-OSINT
+
+This Python application is an OSINT (Open Source Intelligence) tool called "Ominis OSINT - Web Hunter." It performs online information gathering by querying Google for search results related to a user-inputted query....
+
+- GitHub: https://github.com/AnonCatalyst/Ominis-OSINT
+- Official site: https://pypi.org/project/Ominis-OSINT/
+- Documentation: https://github.com/AnonCatalyst/Ominis-OSINT/blob/main/README.md
+- Topics: finder, forensics, information-gathering, infosec, offsec, ominis-osint, osint, osint-resources
+
 
 ## Scanning
 
@@ -4561,6 +4578,15 @@ Real time type-ahead completion for ZSH This package is a plugin of ZSH that sug
 - https://github.com/marlonrichert/zsh-autocomplete
 - https://gitlab.com/parrotsec/packages/zsh-autocomplete
 
+### awesome-security-newsletters
+
+Periodic cyber security newsletters that capture the latest news, summaries of conference talks, research, best practices, tools, events, vulnerabilities, and analysis of trending threats and attacks
+
+- GitHub: https://github.com/TalEliyahu/awesome-security-newsletters
+- Official site: https://linktr.ee/AISECHUB
+- Documentation: https://github.com/TalEliyahu/awesome-security-newsletters/blob/main/README.md
+- Topics: cybersecurity, newsletter
+
 
 ## Web Security
 
@@ -5111,6 +5137,14 @@ Black box WordPress vulnerability scanner WPScan scans remote WordPress installa
 
 - https://wpscan.com/wordpress-security-scanner
 - https://gitlab.com/parrotsec/packages/wpscan
+
+### afrog
+
+A Security Tool for Bug Bounty, Pentest and Red Teaming.
+
+- GitHub: https://github.com/zan8in/afrog
+- Documentation: https://github.com/zan8in/afrog/blob/main/README.md
+- Topics: afrog, bug-bounty, penetration-testing, pentest, poc, red-teaming, vulnerability-scanner, vulnerability-scanning-tools
 
 
 ## Malware Analysis
@@ -6193,3 +6227,28 @@ linWinPwn is a bash script that streamlines the use of a number of Active Direct
 - GitHub: https://github.com/lefayjey/linWinPwn
 - Documentation: https://github.com/lefayjey/linWinPwn/blob/main/README.md
 - Topics: active-directory, adcs, adsecurity, bloodhound, enumeration, exploitation, hacking, impacket
+
+### darknet-mcp-server
+
+66-tool MCP server for dark web intelligence — breach data, ransomware tracking, Tor .onion access, malware analysis, blockchain intel, exploit search, stealer logs
+
+- GitHub: https://github.com/badchars/darknet-mcp-server
+- Official site: https://www.npmjs.com/package/darknet-mcp-server
+- Documentation: https://github.com/badchars/darknet-mcp-server/blob/main/README.md
+- Topics: ai-agent, breach, claude, cybersecurity, dark-web, darknet, exploit, malware
+
+### knowsmore
+
+KnowsMore is a swiss army knife tool for pentesting Microsoft Active Directory (NTLM Hashes, BloodHound, NTDS and DCSync).
+
+- GitHub: https://github.com/helviojunior/knowsmore
+- Documentation: https://github.com/helviojunior/knowsmore/blob/main/README.md
+
+### pineapple_pager_loki
+
+LAN Orchestrated Key Infiltrator - Autonomous network recon payload for the Hak5 WiFi Pineapple Pager — inspired by Bjorn, rebuilt with themes, web UI, and expanded functionality.
+
+- GitHub: https://github.com/pineapple-pager-projects/pineapple_pager_loki
+- Official site: https://www.brainphreak.net
+- Documentation: https://github.com/pineapple-pager-projects/pineapple_pager_loki/blob/main/README.md
+- Topics: hacking, hak5, pager, pineapplepager, scanner, security

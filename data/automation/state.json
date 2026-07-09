@@ -1,10 +1,11 @@
 {
-  "last_run": "2026-07-01T19:14:18Z",
+  "last_run": "2026-07-09T05:16:13Z",
   "seen_repos": [
     "https://github.com/0xSaikat/findme",
     "https://github.com/0xSteph/pentest-ai",
     "https://github.com/ADScanPro/adscan",
     "https://github.com/Alfredredbird/tookie-osint",
+    "https://github.com/AnonCatalyst/Ominis-OSINT",
     "https://github.com/Armur-Ai/Pentest-Swarm-AI",
     "https://github.com/Astrosp/Awesome-OSINT-List",
     "https://github.com/Athena-OS/athena",
@@ -33,6 +34,7 @@
     "https://github.com/Refloow/Refloow-Geo-Forensics",
     "https://github.com/Shac0x/Wonka",
     "https://github.com/TalEliyahu/Awesome-AI-Security",
+    "https://github.com/TalEliyahu/awesome-security-newsletters",
     "https://github.com/TermuxHackz/X-osint",
     "https://github.com/The-Osint-Toolbox/Image-Research-OSINT",
     "https://github.com/The-Osint-Toolbox/People-Search-OSINT",
@@ -43,7 +45,9 @@
     "https://github.com/WebBreacher/WhatsMyName",
     "https://github.com/alexandreborges/malwoverview",
     "https://github.com/aryanguenthner/darkfox",
+    "https://github.com/badchars/darknet-mcp-server",
     "https://github.com/bugbasesecurity/pentest-copilot",
+    "https://github.com/cc1a2b/JShunter",
     "https://github.com/center-for-threat-informed-defense/attack-flow",
     "https://github.com/christinminor459/OnionClaw",
     "https://github.com/cisagov/Malcolm",
@@ -59,6 +63,7 @@
     "https://github.com/gadievron/raptor",
     "https://github.com/google/tsunami-security-scanner",
     "https://github.com/h0tak88r/AutoAR",
+    "https://github.com/helviojunior/knowsmore",
     "https://github.com/iDoka/awesome-canbus",
     "https://github.com/ivam3/i-Haklab",
     "https://github.com/ivre/ivre",
@@ -80,6 +85,7 @@
     "https://github.com/pablosnt/rekono",
     "https://github.com/passthesh3ll/The-Pika-s-OSINT-ToolBox",
     "https://github.com/paulpogoda/OSINT-for-countries-V2.0",
+    "https://github.com/pineapple-pager-projects/pineapple_pager_loki",
     "https://github.com/praetorian-inc/brutus",
     "https://github.com/projectdiscovery/naabu",
     "https://github.com/projectdiscovery/nuclei",
@@ -107,6 +113,7 @@
     "https://github.com/yezz123/SoIG",
     "https://github.com/yogsec/Hacking-Tools",
     "https://github.com/zalexdev/strykerapp",
+    "https://github.com/zan8in/afrog",
     "https://github.com/zardus/ctf-tools"
   ]
 }
