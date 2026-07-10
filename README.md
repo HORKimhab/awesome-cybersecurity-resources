@@ -1506,6 +1506,15 @@ EmailCrawl - is a professional-grade OSINT (Open Source Intelligence) tool desig
 - GitHub: https://github.com/techenthusiast167/EMAIL-CRAWL
 - Documentation: https://github.com/techenthusiast167/EMAIL-CRAWL/blob/main/README.md
 
+### WhatsOSINT
+
+View data of a WhatsApp number, including its status, photo, etc. 🕵🏽‍♂️
+
+- GitHub: https://github.com/HackUnderway/WhatsOSINT
+- Official site: https://www.patreon.com/HackUnderway
+- Documentation: https://github.com/HackUnderway/WhatsOSINT/blob/main/README.md
+- Topics: osint, python, tool, whatsapp
+
 
 ## AI Agent Security and Tooling
 
