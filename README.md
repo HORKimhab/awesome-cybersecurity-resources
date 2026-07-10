@@ -4605,6 +4605,15 @@ An AI-powered threat modeling tool that leverages OpenAI's GPT models to generat
 - Documentation: https://github.com/mrwadams/stride-gpt/blob/master/README.md
 - Topics: ai-security, application-security, attack-trees, cybersecurity, dread, generative-ai, llm, mcp
 
+### ThreatTracer
+
+ThreatTracer - A tool to identify CVE by name & version and more by @FR13ND0x7F
+
+- GitHub: https://github.com/anmolksachan/ThreatTracer
+- Official site: https://anmolksachan.medium.com/six-browser-tabs-and-a-spreadsheet-there-had-to-be-a-better-way-6575f6b0f0c7
+- Documentation: https://github.com/anmolksachan/ThreatTracer/blob/main/README.md
+- Topics: automation, bounty, bug, bugbounty, cve, cves, hacker, outdated
+
 
 ## Web Security
 
