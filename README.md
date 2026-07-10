@@ -4596,6 +4596,15 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 - Documentation: https://github.com/TalEliyahu/awesome-security-newsletters/blob/main/README.md
 - Topics: cybersecurity, newsletter
 
+### stride-gpt
+
+An AI-powered threat modeling tool that leverages OpenAI's GPT models to generate threat models for a given application based on the STRIDE methodology.
+
+- GitHub: https://github.com/mrwadams/stride-gpt
+- Official site: https://stridegpt.streamlit.app
+- Documentation: https://github.com/mrwadams/stride-gpt/blob/master/README.md
+- Topics: ai-security, application-security, attack-trees, cybersecurity, dread, generative-ai, llm, mcp
+
 
 ## Web Security
 
