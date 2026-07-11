@@ -4614,6 +4614,15 @@ ThreatTracer - A tool to identify CVE by name & version and more by @FR13ND0x7F
 - Documentation: https://github.com/anmolksachan/ThreatTracer/blob/main/README.md
 - Topics: automation, bounty, bug, bugbounty, cve, cves, hacker, outdated
 
+### huntkit
+
+Docker - Ubuntu with a bunch of PenTesting tools and wordlists
+
+- GitHub: https://github.com/mcnamee/huntkit
+- Official site: https://hub.docker.com/r/mcnamee/huntkit
+- Documentation: https://github.com/mcnamee/huntkit/blob/master/README.md
+- Topics: docker, penetration-testing, pentest, pentesting
+
 
 ## Web Security
 
