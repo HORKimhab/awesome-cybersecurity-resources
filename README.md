@@ -1515,6 +1515,15 @@ View data of a WhatsApp number, including its status, photo, etc. 🕵🏽‍♂
 - Documentation: https://github.com/HackUnderway/WhatsOSINT/blob/main/README.md
 - Topics: osint, python, tool, whatsapp
 
+### D4N155
+
+OWASP D4N155 - Intelligent and dynamic wordlist using OSINT
+
+- GitHub: https://github.com/OWASP/D4N155
+- Official site: https://owasp.org/www-project-d4n155/
+- Documentation: https://github.com/OWASP/D4N155/blob/master/README.md
+- Topics: crawler, dorking, duckduckgo, dynamic, google, osint, owasp-d4n155, raport
+
 
 ## AI Agent Security and Tooling
 
