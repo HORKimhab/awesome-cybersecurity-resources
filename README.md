@@ -5256,6 +5256,14 @@ DNS proxy for penetration testers DNSChef is a highly configurable DNS proxy for
 - https://github.com/iphelix/dnschef
 - https://gitlab.com/parrotsec/packages/dnschef
 
+### hacksguard
+
+A blazingly fast, multi-threaded TUI malware analysis tool built in Rust. Features deep PE parsing, YARA scanning, and heuristic risk scoring.
+
+- GitHub: https://github.com/Rhacknarok/hacksguard
+- Documentation: https://github.com/Rhacknarok/hacksguard/blob/main/README.md
+- Topics: cybersecurity, malware, malware-analysis, pe-parser, reverse-engineering, rust, static-analysis, threat-hunting
+
 
 ## Cloud Security
 
