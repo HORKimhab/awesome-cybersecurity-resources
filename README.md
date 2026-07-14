@@ -856,6 +856,12 @@ The Network Execution Tool
 - Documentation: https://github.com/Pennyw0rth/NetExec/blob/main/README.md
 - Topics: active-directory, hacking, infosec, infosectools, networks, pentest, pentest-tool, pentest-tools
 
+### netdiscover
+
+Active/passive ARP reconnaissance tool for discovering live hosts on local networks.
+
+- GitHub: https://github.com/netdiscover-scanner/netdiscover
+
 ### tsunami-security-scanner
 
 Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.
