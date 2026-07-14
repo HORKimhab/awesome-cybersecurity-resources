@@ -5197,6 +5197,24 @@ A Security Tool for Bug Bounty, Pentest and Red Teaming.
 - Documentation: https://github.com/zan8in/afrog/blob/main/README.md
 - Topics: afrog, bug-bounty, penetration-testing, pentest, poc, red-teaming, vulnerability-scanner, vulnerability-scanning-tools
 
+### LFISuite
+
+LFISuite is an automated Local File Inclusion exploitation tool built to help identify and abuse LFI vectors during web application testing.
+
+- GitHub: https://github.com/D35m0nd142/LFISuite
+
+### LFImap
+
+LFImap is a utility for automating Local File Inclusion discovery and exploitation against web targets.
+
+- GitHub: https://github.com/hansmach1ne/LFImap
+
+### Panoptic
+
+Panoptic is a Local File Inclusion focused exploitation tool intended to assist with identifying and leveraging LFI issues in web applications.
+
+- GitHub: https://github.com/lightos/Panoptic
+
 
 ## Malware Analysis
 
