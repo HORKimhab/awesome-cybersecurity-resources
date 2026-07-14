@@ -1538,6 +1538,13 @@ OWASP D4N155 - Intelligent and dynamic wordlist using OSINT
 - Documentation: https://github.com/OWASP/D4N155/blob/master/README.md
 - Topics: crawler, dorking, duckduckgo, dynamic, google, osint, owasp-d4n155, raport
 
+### Dark-Web-Osint-Tools-
+
+OSINT Tools for the Dark Web
+
+- GitHub: https://github.com/danieldurnea/Dark-Web-Osint-Tools-
+- Documentation: https://github.com/danieldurnea/Dark-Web-Osint-Tools-/blob/master/README.md
+
 
 ## AI Agent Security and Tooling
 
