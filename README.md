@@ -4981,6 +4981,14 @@ Network Forensic Analysis Tool (NFAT) The goal of Xplico is extract from an inte
 - https://www.xplico.org
 - https://gitlab.com/parrotsec/packages/xplico
 
+### KSword
+
+Ksword 5.1 is an open-source ARK, kernel debugging tool, and system forensics analysis toolset for Windows. | 中文： Ksword5.1 是面向 Windows 的开源 ARK、内核调试与系统取证分析工具集。项目由完整 Qt/ADS 主程序、轻量原生 Win32 版本 KswordARKLight、R0 驱动 Ksword...
+
+- GitHub: https://github.com/KSwordDEV/KSword
+- Documentation: https://github.com/KSwordDEV/KSword/blob/main/README.md
+- Topics: anti-rootkit, antirootkit, cyber-security, cybersecurity, cybersecurity-tools, dpi, driver, kernel
+
 
 ## Reverse Engineering
 
