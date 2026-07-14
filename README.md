@@ -4653,6 +4653,14 @@ Docker - Ubuntu with a bunch of PenTesting tools and wordlists
 - Documentation: https://github.com/mcnamee/huntkit/blob/master/README.md
 - Topics: docker, penetration-testing, pentest, pentesting
 
+### PhoneSploit-Pro
+
+An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session.
+
+- GitHub: https://github.com/AzeemIdrisi/PhoneSploit-Pro
+- Documentation: https://github.com/AzeemIdrisi/PhoneSploit-Pro/blob/main/README.md
+- Topics: adb, android, android-debug-bridge, android-hacking, collaborate, cybersecurity, exploit, hack
+
 
 ## Web Security
 
