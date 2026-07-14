@@ -842,6 +842,14 @@ This Python application is an OSINT (Open Source Intelligence) tool called "Omin
 - Documentation: https://github.com/AnonCatalyst/Ominis-OSINT/blob/main/README.md
 - Topics: finder, forensics, information-gathering, infosec, offsec, ominis-osint, osint, osint-resources
 
+### dorks_hunter
+
+Simple Google Dorks search tool
+
+- GitHub: https://github.com/six2dez/dorks_hunter
+- Documentation: https://github.com/six2dez/dorks_hunter/blob/main/README.md
+- Topics: bugbounty, dorks, google, hacking, offensive, osint, pentest, recon
+
 
 ## Scanning
 
