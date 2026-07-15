@@ -842,6 +842,14 @@ This Python application is an OSINT (Open Source Intelligence) tool called "Omin
 - Documentation: https://github.com/AnonCatalyst/Ominis-OSINT/blob/main/README.md
 - Topics: finder, forensics, information-gathering, infosec, offsec, ominis-osint, osint, osint-resources
 
+### dorks_hunter
+
+Simple Google Dorks search tool
+
+- GitHub: https://github.com/six2dez/dorks_hunter
+- Documentation: https://github.com/six2dez/dorks_hunter/blob/main/README.md
+- Topics: bugbounty, dorks, google, hacking, offensive, osint, pentest, recon
+
 
 ## Scanning
 
@@ -1529,6 +1537,13 @@ OWASP D4N155 - Intelligent and dynamic wordlist using OSINT
 - Official site: https://owasp.org/www-project-d4n155/
 - Documentation: https://github.com/OWASP/D4N155/blob/master/README.md
 - Topics: crawler, dorking, duckduckgo, dynamic, google, osint, owasp-d4n155, raport
+
+### Dark-Web-Osint-Tools-
+
+OSINT Tools for the Dark Web
+
+- GitHub: https://github.com/danieldurnea/Dark-Web-Osint-Tools-
+- Documentation: https://github.com/danieldurnea/Dark-Web-Osint-Tools-/blob/master/README.md
 
 
 ## AI Agent Security and Tooling
@@ -4638,6 +4653,14 @@ Docker - Ubuntu with a bunch of PenTesting tools and wordlists
 - Documentation: https://github.com/mcnamee/huntkit/blob/master/README.md
 - Topics: docker, penetration-testing, pentest, pentesting
 
+### PhoneSploit-Pro
+
+An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session.
+
+- GitHub: https://github.com/AzeemIdrisi/PhoneSploit-Pro
+- Documentation: https://github.com/AzeemIdrisi/PhoneSploit-Pro/blob/main/README.md
+- Topics: adb, android, android-debug-bridge, android-hacking, collaborate, cybersecurity, exploit, hack
+
 
 ## Web Security
 
@@ -4980,6 +5003,14 @@ Network Forensic Analysis Tool (NFAT) The goal of Xplico is extract from an inte
 
 - https://www.xplico.org
 - https://gitlab.com/parrotsec/packages/xplico
+
+### KSword
+
+Ksword 5.1 is an open-source ARK, kernel debugging tool, and system forensics analysis toolset for Windows. | 中文： Ksword5.1 是面向 Windows 的开源 ARK、内核调试与系统取证分析工具集。项目由完整 Qt/ADS 主程序、轻量原生 Win32 版本 KswordARKLight、R0 驱动 Ksword...
+
+- GitHub: https://github.com/KSwordDEV/KSword
+- Documentation: https://github.com/KSwordDEV/KSword/blob/main/README.md
+- Topics: anti-rootkit, antirootkit, cyber-security, cybersecurity, cybersecurity-tools, dpi, driver, kernel
 
 
 ## Reverse Engineering
