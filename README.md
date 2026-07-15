@@ -1545,6 +1545,14 @@ OSINT Tools for the Dark Web
 - GitHub: https://github.com/danieldurnea/Dark-Web-Osint-Tools-
 - Documentation: https://github.com/danieldurnea/Dark-Web-Osint-Tools-/blob/master/README.md
 
+### robin
+
+AI-Powered Dark Web OSINT Tool
+
+- GitHub: https://github.com/apurvsinghgautam/robin
+- Documentation: https://github.com/apurvsinghgautam/robin/blob/main/README.md
+- Topics: ai-tool, darkweb, darkweb-osint, investigation-tool, llm-powered, osint, osint-tool
+
 
 ## AI Agent Security and Tooling
 
