@@ -850,6 +850,15 @@ Simple Google Dorks search tool
 - Documentation: https://github.com/six2dez/dorks_hunter/blob/main/README.md
 - Topics: bugbounty, dorks, google, hacking, offensive, osint, pentest, recon
 
+### WebCheck-OSINT
+
+🕵️‍♂️ All-in-one OSINT reconnaissance tool for dissecting any website. 🧠🌐💥
+
+- GitHub: https://github.com/mwakidenis/WebCheck-OSINT
+- Official site: https://web-check.xyz/
+- Documentation: https://github.com/mwakidenis/WebCheck-OSINT/blob/main/README.md
+- Topics: astro, docker, html, javascript, osint-tools, scss, serverjs, svelte
+
 
 ## Scanning
 
