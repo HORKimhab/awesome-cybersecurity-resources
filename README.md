@@ -5902,6 +5902,12 @@ library to remotely dump domain users' credentials thanks to an ADCS (Python 3) 
 - https://github.com/Z4kSec/Masky
 - https://gitlab.com/parrotsec/packages/masky
 
+### MHDDoS
+
+Layer 4 and Layer 7 traffic generation and stress testing toolkit.
+
+- https://github.com/MatrixTM/MHDDoS
+
 ### mfterm
 
 Terminal for working with Mifare Classic 1-4k Tags mfterm is a terminal interface for working with Mifare Classic tags. Tab completion on commands is available. Also, commands that have file name arguments provide tab completion on files. There is also a command history, like in most normal shells.
