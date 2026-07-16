@@ -1562,6 +1562,13 @@ AI-Powered Dark Web OSINT Tool
 - Documentation: https://github.com/apurvsinghgautam/robin/blob/main/README.md
 - Topics: ai-tool, darkweb, darkweb-osint, investigation-tool, llm-powered, osint, osint-tool
 
+### osint-timeline
+
+OSINT Timeline Weekly Newsletter with collection of tools, services and investigations
+
+- GitHub: https://github.com/bormaxi8080/osint-timeline
+- Documentation: https://github.com/bormaxi8080/osint-timeline/blob/main/README.md
+
 
 ## AI Agent Security and Tooling
 
@@ -6391,3 +6398,12 @@ LAN Orchestrated Key Infiltrator - Autonomous network recon payload for the Hak5
 - Official site: https://www.brainphreak.net
 - Documentation: https://github.com/pineapple-pager-projects/pineapple_pager_loki/blob/main/README.md
 - Topics: hacking, hak5, pager, pineapplepager, scanner, security
+
+### xint
+
+Local-first X Intelligence CLI for search, monitoring, analysis, exports, OAuth actions, and agent tooling.
+
+- GitHub: https://github.com/0xNyk/xint
+- Official site: https://www.nyk.dev/oss/xint
+- Documentation: https://github.com/0xNyk/xint/blob/main/README.md
+- Topics: ai-agents, bun, claude, cli, openclaw, openclaw-skill, osint, skill
