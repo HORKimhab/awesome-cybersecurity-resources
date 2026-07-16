@@ -6407,3 +6407,12 @@ Local-first X Intelligence CLI for search, monitoring, analysis, exports, OAuth 
 - Official site: https://www.nyk.dev/oss/xint
 - Documentation: https://github.com/0xNyk/xint/blob/main/README.md
 - Topics: ai-agents, bun, claude, cli, openclaw, openclaw-skill, osint, skill
+
+### LAN-Orangutan
+
+LAN Orangutan is a lightweight network scanner with persistent device labeling, multi-network support, and Tailscale integration. Built by 291 Group.
+
+- GitHub: https://github.com/291-Group/LAN-Orangutan
+- Official site: https://291grp.com/open-src/
+- Documentation: https://github.com/291-Group/LAN-Orangutan/blob/main/README.md
+- Topics: cli, device-discovery, golang, homelab, internet-of-things, lan, network-discovery, network-monitoring
