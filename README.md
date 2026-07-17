@@ -4973,6 +4973,15 @@ Testing tool for finding vulnerabilities in web applications The OWASP Zed Attac
 - https://github.com/zaproxy/zaproxy
 - https://gitlab.com/parrotsec/packages/zaproxy
 
+### CyberStrike
+
+The first open-source AI agent for autonomous offensive security. 13+ specialized agents, 150+ LLM providers, 5,300+ models, 7,600+ Ed25519-signed attack skills, 56+ built-in tools, 176+ MCP tools. MITRE ATT&CK, OWASP...
+
+- GitHub: https://github.com/CyberStrikeus/CyberStrike
+- Official site: https://cyberstrike.io
+- Documentation: https://github.com/CyberStrikeus/CyberStrike/blob/main/README.md
+- Topics: ai, ai-agent, ai-security, bug-bounty, cybersecurity, devsecops, ethical-hacking, hacking
+
 
 ## Forensics
 
