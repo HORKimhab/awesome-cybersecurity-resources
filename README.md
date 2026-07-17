@@ -6416,3 +6416,11 @@ LAN Orangutan is a lightweight network scanner with persistent device labeling, 
 - Official site: https://291grp.com/open-src/
 - Documentation: https://github.com/291-Group/LAN-Orangutan/blob/main/README.md
 - Topics: cli, device-discovery, golang, homelab, internet-of-things, lan, network-discovery, network-monitoring
+
+### TorBot
+
+Dark Web OSINT Tool
+
+- GitHub: https://github.com/DedSecInside/TorBot
+- Documentation: https://github.com/DedSecInside/TorBot/blob/dev/README.md
+- Topics: algorithm, crawler, dark-web, dedsec-inside, deepweb, go, hacking, hacktoberfest
