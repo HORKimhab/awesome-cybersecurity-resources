@@ -6424,3 +6424,10 @@ Dark Web OSINT Tool
 - GitHub: https://github.com/DedSecInside/TorBot
 - Documentation: https://github.com/DedSecInside/TorBot/blob/dev/README.md
 - Topics: algorithm, crawler, dark-web, dedsec-inside, deepweb, go, hacking, hacktoberfest
+
+### GitDump
+
+A pentesting tool that dumps the source code from .git even when the directory traversal is disabled
+
+- GitHub: https://github.com/Ebryx/GitDump
+- Documentation: https://github.com/Ebryx/GitDump/blob/master/README.md
