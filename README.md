@@ -6447,3 +6447,12 @@ A pentesting tool that dumps the source code from .git even when the directory t
 
 - GitHub: https://github.com/Ebryx/GitDump
 - Documentation: https://github.com/Ebryx/GitDump/blob/master/README.md
+
+### CyberSources
+
+A curated list of cybersecurity tools and resources.
+
+- GitHub: https://github.com/bst04/CyberSources
+- Official site: https://www.cybersources.site
+- Documentation: https://github.com/bst04/CyberSources/blob/main/README.md
+- Topics: awesome-cybersources, awesome-list, blueteam-tools, certifications, course, cyber-security, cybersecurity, documentation
