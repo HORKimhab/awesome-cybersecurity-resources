@@ -5294,6 +5294,15 @@ Panoptic is a Local File Inclusion focused exploitation tool intended to assist 
 
 - GitHub: https://github.com/lightos/Panoptic
 
+### Bjorn
+
+Bjorn is a powerful network scanning and offensive security tool for the Raspberry Pi with a 2.13-inch e-Paper HAT. It discovers network targets, identifies open ports, exposed services, and potential vulnerabilities....
+
+- GitHub: https://github.com/infinition/Bjorn
+- Official site: https://infinition.github.io/Bjorn/
+- Documentation: https://github.com/infinition/Bjorn/blob/main/README.md
+- Topics: automated-pentesting, bruteforce, cybersecurity, e-paper, hacking, hardware-hacking, network-scanning, network-security
+
 
 ## Malware Analysis
 
