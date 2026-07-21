@@ -1551,6 +1551,12 @@ OWASP D4N155 - Intelligent and dynamic wordlist using OSINT
 - Documentation: https://github.com/OWASP/D4N155/blob/master/README.md
 - Topics: crawler, dorking, duckduckgo, dynamic, google, osint, owasp-d4n155, raport
 
+### Nettacker
+
+Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management
+
+- GitHub: [OWASP/Nettacker](https://github.com/OWASP/Nettacker)
+
 ### Dark-Web-Osint-Tools-
 
 OSINT Tools for the Dark Web
