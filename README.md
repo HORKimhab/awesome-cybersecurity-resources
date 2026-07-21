@@ -859,6 +859,14 @@ Simple Google Dorks search tool
 - Documentation: https://github.com/mwakidenis/WebCheck-OSINT/blob/main/README.md
 - Topics: astro, docker, html, javascript, osint-tools, scss, serverjs, svelte
 
+### awesome-osint-arsenal
+
+🔍 Curated OSINT & recon toolkit for Kali Linux — 100+ tools, one-command installer, covering SOCMINT, GEOINT, network recon, dark web, forensics & more.
+
+- GitHub: https://github.com/rawfilejson/awesome-osint-arsenal
+- Documentation: https://github.com/rawfilejson/awesome-osint-arsenal/blob/main/README.md
+- Topics: cybersecurity, data-breach, ethical-hacking, goverment-data, hacking, information-gathering, infosec, intelligence
+
 
 ## Scanning
 
