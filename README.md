@@ -903,6 +903,10 @@ Tsunami is a general purpose network security scanner with an extensible plugin 
 - GitHub: https://github.com/google/tsunami-security-scanner
 - Documentation: https://github.com/google/tsunami-security-scanner/blob/master/README.md
 
+### VulnHunter
+
+- GitHub: https://github.com/capitalone/VulnHunter
+
 ### Malcolm
 
 Malcolm is a powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.
