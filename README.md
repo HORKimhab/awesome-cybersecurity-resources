@@ -1827,6 +1827,14 @@ Curated cybersecurity resource discovered by the scheduled GitHub automation.
 
 - GitHub: https://github.com/LuemmelSec/Pentest-Tools-Collection
 - Documentation: https://github.com/LuemmelSec/Pentest-Tools-Collection/blob/main/README.md
+
+### Cybersecurity-Projects
+
+A collection of cybersecurity projects and resources.
+
+- GitHub: https://github.com/CarterPerez-dev/Cybersecurity-Projects
+- Documentation: https://github.com/CarterPerez-dev/Cybersecurity-Projects/blob/main/README.md
+
 ### adscan
 
 Active Directory pentesting tool for Linux. Automated Kerberoasting, AS-REP Roasting, ADCS/ESC exploitation, DCSync, BloodHound integration, and 40+ AD attack paths. ENS Alto / NIS2 / ISO 27001 compliance reports. No...
@@ -6344,6 +6352,12 @@ Searches through git repositories for secrets This package contains a utitlity t
 
 - https://github.com/trufflesecurity/truffleHog
 - https://gitlab.com/parrotsec/packages/trufflehog
+
+### noseyparker
+
+Searches codebases and Git history for secrets and other sensitive information.
+
+- https://github.com/praetorian-inc/noseyparker
 
 ### unix-privesc-check
 
