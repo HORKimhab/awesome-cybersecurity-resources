@@ -4733,6 +4733,13 @@ AI-powered cybersecurity attack flow visualization tool using MITRE ATT&CK
 - GitHub: https://github.com/davidljohnson/flowviz
 - Documentation: https://github.com/davidljohnson/flowviz/blob/main/README.md
 
+### python-pentest-tools
+
+Python tools for penetration testers
+
+- GitHub: https://github.com/dloss/python-pentest-tools
+- Documentation: https://github.com/dloss/python-pentest-tools/blob/master/README.md
+
 
 ## Web Security
 
