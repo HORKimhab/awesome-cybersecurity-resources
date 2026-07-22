@@ -5007,6 +5007,14 @@ The first open-source AI agent for autonomous offensive security. 13+ specialize
 - Documentation: https://github.com/CyberStrikeus/CyberStrike/blob/main/README.md
 - Topics: ai, ai-agent, ai-security, bug-bounty, cybersecurity, devsecops, ethical-hacking, hacking
 
+### Alien
+
+A C#-based webshell management tool for penetration testing.
+
+- GitHub: https://github.com/iss4cf0ng/Alien
+- Documentation: https://github.com/iss4cf0ng/Alien/blob/Version-5.0.0/README.md
+- Topics: asp-classic, asp-net, backdoor, cybersecurity, management, oneshell, pentest, pentest-tool
+
 
 ## Forensics
 
