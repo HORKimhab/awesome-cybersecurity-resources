@@ -5267,6 +5267,12 @@ OWASP Joomla Vulnerability Scanner Project This package contains JoomScan, short
 - https://www.owasp.org/index.php/Category:OWASP_Joomla_Vulnerability_Scanner_Project
 - https://gitlab.com/parrotsec/packages/joomscan
 
+### Kittysploit-framework
+
+Python Exploitation Framework, V8 Engine Debugger, Proxy interceptor, marketplace, post-exploitation, backdoor generator,....
+
+- GitHub: https://github.com/SIA-IOTechnology/Kittysploit-framework
+
 ### metasploit-framework
 
 Framework for exploit development and vulnerability research The Metasploit Framework is an open source platform that supports vulnerability research, exploit development, and the creation of custom security tools.
