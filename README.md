@@ -1702,6 +1702,13 @@ Some setup scripts for security research tools.
 - GitHub: https://github.com/zardus/ctf-tools
 - Documentation: https://github.com/zardus/ctf-tools/blob/master/README.md
 
+### OverTheWire Wargames
+
+The wargames offered by the OverTheWire community can help you to learn and practice security concepts in the form of fun-filled games.
+To find out more about a certain wargame, just visit its page linked from the menu on the left.
+
+- Official site: https://overthewire.org/wargames/
+
 ### OSCE3-Complete-Guide
 
 Comprehensive study guide and lab notes for the OffSec OSCE3 certification path, covering exploit development, web exploitation, and advanced offensive tradecraft practice.
