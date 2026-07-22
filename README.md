@@ -6483,3 +6483,11 @@ A curated list of cybersecurity tools and resources.
 - Official site: https://www.cybersources.site
 - Documentation: https://github.com/bst04/CyberSources/blob/main/README.md
 - Topics: awesome-cybersources, awesome-list, blueteam-tools, certifications, course, cyber-security, cybersecurity, documentation
+
+### Supernova
+
+Shellcode encryptor & obfuscator tool
+
+- GitHub: https://github.com/nickvourd/Supernova
+- Documentation: https://github.com/nickvourd/Supernova/blob/main/README.md
+- Topics: aes, aes-128-cbc, aes-192-cbc, aes-256-cbc, caesar-cipher, chacha20, decryption, encryption
