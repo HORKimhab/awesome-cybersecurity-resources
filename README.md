@@ -6533,3 +6533,11 @@ Shellcode encryptor & obfuscator tool
 - GitHub: https://github.com/nickvourd/Supernova
 - Documentation: https://github.com/nickvourd/Supernova/blob/main/README.md
 - Topics: aes, aes-128-cbc, aes-192-cbc, aes-256-cbc, caesar-cipher, chacha20, decryption, encryption
+
+### awesome-password-cracking
+
+A curated list of awesome tools, research, papers and other projects related to password cracking and password security.
+
+- GitHub: https://github.com/n0kovo/awesome-password-cracking
+- Documentation: https://github.com/n0kovo/awesome-password-cracking/blob/main/README.md
+- Topics: awesome, awesome-list, hash-cracking, hashcat, human-made, john-the-ripper, made-by-humans, no-ai
