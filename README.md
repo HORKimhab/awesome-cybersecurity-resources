@@ -4740,6 +4740,15 @@ Python tools for penetration testers
 - GitHub: https://github.com/dloss/python-pentest-tools
 - Documentation: https://github.com/dloss/python-pentest-tools/blob/master/README.md
 
+### Cybersecurity-Mastery-Roadmap
+
+A comprehensive, step-by-step guide to mastering cybersecurity from beginner to expert level with curated resources, tools, and career guidance
+
+- GitHub: https://github.com/Hamed233/Cybersecurity-Mastery-Roadmap
+- Official site: https://hamedesam.info
+- Documentation: https://github.com/Hamed233/Cybersecurity-Mastery-Roadmap/blob/main/README.md
+- Topics: cybersecurity, cybersecurity-education, cybersecurity-projects, cybersecurity-tools, cybersecurity-training, ethical-hacking
+
 
 ## Web Security
 
@@ -5356,6 +5365,15 @@ Bjorn is a powerful network scanning and offensive security tool for the Raspber
 - Official site: https://infinition.github.io/Bjorn/
 - Documentation: https://github.com/infinition/Bjorn/blob/main/README.md
 - Topics: automated-pentesting, bruteforce, cybersecurity, e-paper, hacking, hardware-hacking, network-scanning, network-security
+
+### XSSRocket
+
+XSSRocket it is a tool designed for offensive security and XSS (Cross-Site Scripting) attacks.
+
+- GitHub: https://github.com/blackhatethicalhacking/XSSRocket
+- Official site: https://www.blackhatethicalhacking.com
+- Documentation: https://github.com/blackhatethicalhacking/XSSRocket/blob/main/README.md
+- Topics: bugbounty, cybersecurity, hacking, infosec, offensive, penetration-testing, pentesting, xss
 
 
 ## Malware Analysis
