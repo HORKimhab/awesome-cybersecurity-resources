@@ -45,6 +45,10 @@ Example:
 Curated list format for `README.md`:
 - keep each entry lean
 - include only the heading, one short description, and source links
+- never add a link-only entry when a description can be obtained from the official repo, docs, or site
+- when the request only provides a URL, still look up and add a one-sentence factual description
+- prefer what the project is or does over marketing copy
+- keep descriptions concrete, usually one sentence, and avoid placeholders such as `TBD` or generic fallback text
 - include `Topics` only when they add signal
 - do not add `Why it matters`
 - do not add `Suggested metadata`
@@ -124,12 +128,18 @@ Do not store archive downloads locally or in this repository.
 
 1. Confirm the item is relevant to cybersecurity.
 2. Search the internet and prefer official sources.
-3. Write a short, factual description.
+3. Write a short, factual description sourced from the official repository, documentation, or site.
 4. Set one primary `type`.
 5. Set one primary `category`.
 6. Add all relevant source URLs to `resources`.
 7. Add provenance fields when extracted from docs or repositories.
 8. Add `archive_url` when available.
+
+Description rules:
+- describe the project itself, not your opinion of it
+- use one or two concise sentences at most
+- prefer benchmark, framework, dataset, guide, tool, or platform language when accurate
+- do not leave curated `README.md` entries with only links unless the description is genuinely unavailable
 
 ## Example Commands
 
@@ -165,7 +175,7 @@ Automation files:
 Behavior:
 1. GitHub Actions runs every hour
 2. the script searches GitHub for candidate cybersecurity repositories
-3. it selects up to five repositories not already stored
+3. it selects up to five repositories not already stored that also expose a usable description
 4. it appends them under category headings in `README.md`
 5. it updates the automation state file
 6. the workflow commits and pushes the result

@@ -139,11 +139,15 @@ def categorize(repo: Dict) -> tuple[str, str]:
 
 def shorten_description(text: Optional[str]) -> str:
     if not text:
-        return "Curated cybersecurity resource discovered by the scheduled GitHub automation."
+        return ""
     text = re.sub(r"\s+", " ", text).strip()
+    text = text.strip(" .")
+    if not text:
+        return ""
     if len(text) <= 220:
-        return text
-    return text[:217].rstrip() + "..."
+        return text + ("." if text[-1].isalnum() else "")
+    shortened = text[:217].rstrip()
+    return shortened.rstrip(".") + "..."
 
 
 def clean_package_description(text: Optional[str]) -> str:
@@ -208,7 +212,10 @@ def search_github(token: Optional[str], existing_urls: Set[str], seen_repos: Set
                 continue
             if repo.get("archived") or repo.get("fork"):
                 continue
-            selected.append(build_entry(repo))
+            entry = build_entry(repo)
+            if not entry.description:
+                continue
+            selected.append(entry)
             selected_urls.add(repo_url)
             if len(selected) >= PER_RUN:
                 return selected
