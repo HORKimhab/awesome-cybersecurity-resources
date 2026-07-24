@@ -1593,6 +1593,15 @@ OSINT Timeline Weekly Newsletter with collection of tools, services and investig
 - GitHub: https://github.com/bormaxi8080/osint-timeline
 - Documentation: https://github.com/bormaxi8080/osint-timeline/blob/main/README.md
 
+### OSINT-Kit
+
+Osint-kit is a curated collection of tools for OSINT investigations, from auditing and screen recording to aggregation. Build your ultimate OSINT toolkit.
+
+- GitHub: https://github.com/buddhsen-tripathi/OSINT-Kit
+- Official site: https://buddhsen-tripathi.github.io/OSINT-Kit/
+- Documentation: https://github.com/buddhsen-tripathi/OSINT-Kit/blob/main/README.md
+- Topics: osint, osint-resources
+
 
 ## AI Agent Security and Tooling
 
