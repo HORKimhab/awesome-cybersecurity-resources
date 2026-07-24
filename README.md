@@ -1702,6 +1702,12 @@ Some setup scripts for security research tools.
 - GitHub: https://github.com/zardus/ctf-tools
 - Documentation: https://github.com/zardus/ctf-tools/blob/master/README.md
 
+### exploitgym
+
+ExploitGym is a large-scale, realistic benchmark built from real-world vulnerabilities designed to evaluate AI agents' ability to develop exploits.
+
+- GitHub: https://github.com/sunblaze-ucb/exploitgym
+
 ### OverTheWire Wargames
 
 The wargames offered by the OverTheWire community can help you to learn and practice security concepts in the form of fun-filled games.
