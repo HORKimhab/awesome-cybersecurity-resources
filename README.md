@@ -1,5 +1,11 @@
 # Awesome Cybersecurity Resources
 
+This repository brings together useful cybersecurity tools, repositories, guides, labs, and research in one place.
+
+The goal is to make it easier to discover practical resources for learning, research, and day-to-day security work across areas like OSINT, web security, reverse engineering, forensics, malware analysis, and penetration testing.
+
+Each entry is kept simple and useful, usually with a short description, the GitHub repository, and other relevant resource links such as official sites or documentation.
+
 ## Donate
 
 Support the maintenance of this project with PayPal or by scanning the QR code below.
