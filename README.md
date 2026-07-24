@@ -4770,6 +4770,15 @@ A comprehensive, step-by-step guide to mastering cybersecurity from beginner to 
 - Documentation: https://github.com/Hamed233/Cybersecurity-Mastery-Roadmap/blob/main/README.md
 - Topics: cybersecurity, cybersecurity-education, cybersecurity-projects, cybersecurity-tools, cybersecurity-training, ethical-hacking
 
+### API-Pentesting-Tools
+
+API Pentesting Tools are specialized security tools used to test and analyze the security of Application Programming Interfaces (APIs)
+
+- GitHub: https://github.com/yogsec/API-Pentesting-Tools
+- Official site: https://linktr.ee/abhinavsingwal
+- Documentation: https://github.com/yogsec/API-Pentesting-Tools/blob/main/README.md
+- Topics: abhinavsingwal, api, api-pentesting-tools, api-security, api-security-tools, apis, apisec, cybersecurity-tools
+
 
 ## Web Security
 
