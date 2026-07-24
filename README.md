@@ -5221,6 +5221,14 @@ Powerful framework for rogue access point attack This package contains a powerfu
 - https://github.com/P0cL4bs/wifipumpkin3
 - https://gitlab.com/parrotsec/packages/wifipumpkin3
 
+### awesome-ai-security-tools
+
+A curated list of public-source, research, and commercial tools for AI security and AI-assisted cybersecurity — autotriage, agent security, AI/ML supply chain, pentest agents, AI SAST, LLM-driven fuzzing, threat intel...
+
+- GitHub: https://github.com/scadastrangelove/awesome-ai-security-tools
+- Documentation: https://github.com/scadastrangelove/awesome-ai-security-tools/blob/main/README.md
+- Topics: agentic-ai, agents, awesome, awesome-list, awesome-lists, llm, security
+
 
 ## Vulnerability Research
 
