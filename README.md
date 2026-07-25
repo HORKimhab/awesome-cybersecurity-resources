@@ -5534,6 +5534,15 @@ DNS-over-HTTPS Command & Control Proof of Concept This package contains a proof 
 - https://github.com/sensepost/goDoH
 - https://gitlab.com/parrotsec/packages/godoh
 
+### redc
+
+Next-generation IaC tools | 下一代基础设施管理工具.
+
+- GitHub: https://github.com/wgpsec/redc
+- Official site: https://redc.wgpsec.org
+- Documentation: https://github.com/wgpsec/redc/blob/master/README.md
+- Topics: agent, ai, automation, cloud, cybersecurity, iac, infrastructure, multi-cloud
+
 
 ## Privacy and Anonymity
 
