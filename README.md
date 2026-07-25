@@ -4779,6 +4779,14 @@ API Pentesting Tools are specialized security tools used to test and analyze the
 - Documentation: https://github.com/yogsec/API-Pentesting-Tools/blob/main/README.md
 - Topics: abhinavsingwal, api, api-pentesting-tools, api-security, api-security-tools, apis, apisec, cybersecurity-tools
 
+### awesome-pentest
+
+A collection of awesome penetration testing resources, tools and other shiny things.
+
+- GitHub: https://github.com/enaqx/awesome-pentest
+- Documentation: https://github.com/enaqx/awesome-pentest/blob/master/README.md
+- Topics: awesome, awesome-list
+
 
 ## Web Security
 
