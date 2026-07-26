@@ -6631,3 +6631,12 @@ First ever tool to view "Instagram private posts" anonymously.
 - GitHub: https://github.com/obitouka/InstagramPrivSniffer
 - Documentation: https://github.com/obitouka/InstagramPrivSniffer/blob/main/README.md
 - Topics: awesome, awesome-cli, awesome-hacking, awesome-osint, awesome-python, awesome-tool, cli, cli-tool
+
+### Coeus-OSINT-ToolBox
+
+Coeus 🌐 is an OSINT ToolBox empowering users with tools for effective intelligence gathering from open sources. From social media monitoring 📱 to data analysis 📊, it offers a centralized platform for seamless OSINT in...
+
+- GitHub: https://github.com/AnonCatalyst/Coeus-OSINT-ToolBox
+- Official site: https://scrapingant.com/?ref=nwu2nzh
+- Documentation: https://github.com/AnonCatalyst/Coeus-OSINT-ToolBox/blob/main/README.md
+- Topics: data-science, data-visualization, database, forensic-analysis, forensics, forensics-tools, framework, information-retrieval
