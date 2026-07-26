@@ -6623,3 +6623,11 @@ A curated list of awesome tools, research, papers and other projects related to 
 - GitHub: https://github.com/n0kovo/awesome-password-cracking
 - Documentation: https://github.com/n0kovo/awesome-password-cracking/blob/main/README.md
 - Topics: awesome, awesome-list, hash-cracking, hashcat, human-made, john-the-ripper, made-by-humans, no-ai
+
+### InstagramPrivSniffer
+
+First ever tool to view "Instagram private posts" anonymously.
+
+- GitHub: https://github.com/obitouka/InstagramPrivSniffer
+- Documentation: https://github.com/obitouka/InstagramPrivSniffer/blob/main/README.md
+- Topics: awesome, awesome-cli, awesome-hacking, awesome-osint, awesome-python, awesome-tool, cli, cli-tool
