@@ -1602,6 +1602,15 @@ Osint-kit is a curated collection of tools for OSINT investigations, from auditi
 - Documentation: https://github.com/buddhsen-tripathi/OSINT-Kit/blob/main/README.md
 - Topics: osint, osint-resources
 
+### opensquat
+
+The openSquat is an open-source tool for detecting domain look-alikes by searching for newly registered domains that might be impersonating legit domains and brands.
+
+- GitHub: https://github.com/atenreiro/opensquat
+- Official site: https://opensquat.com
+- Documentation: https://github.com/atenreiro/opensquat/blob/master/README.md
+- Topics: blue-team, cybersecurity, cybersquatting, domain-name, domain-squatting, homograph-attack, infosec, malware
+
 
 ## AI Agent Security and Tooling
 
