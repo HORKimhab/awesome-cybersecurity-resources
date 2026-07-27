@@ -4805,6 +4805,13 @@ bypass-url-parser.
 - Documentation: https://github.com/laluka/bypass-url-parser/blob/main/README.md
 - Topics: bypass, differential, exploit, hacking, offensive, parser, pentest, security
 
+### Windows-Penetration-Testing
+
+Technical notes, AD pentest methodology, list of tools, scripts and Windows commands that are useful for internal penetration tests and assumed breach exercises (red teaming)
+
+- GitHub: https://github.com/JFR-C/Windows-Penetration-Testing
+- Documentation: https://github.com/JFR-C/Windows-Penetration-Testing/blob/master/README.md
+
 
 ## Web Security
 
