@@ -4796,6 +4796,15 @@ A collection of awesome penetration testing resources, tools and other shiny thi
 - Documentation: https://github.com/enaqx/awesome-pentest/blob/master/README.md
 - Topics: awesome, awesome-list
 
+### bypass-url-parser
+
+bypass-url-parser.
+
+- GitHub: https://github.com/laluka/bypass-url-parser
+- Official site: https://linktr.ee/TheLaluka
+- Documentation: https://github.com/laluka/bypass-url-parser/blob/main/README.md
+- Topics: bypass, differential, exploit, hacking, offensive, parser, pentest, security
+
 
 ## Web Security
 
