@@ -6656,3 +6656,12 @@ Coeus 🌐 is an OSINT ToolBox empowering users with tools for effective intelli
 - Official site: https://scrapingant.com/?ref=nwu2nzh
 - Documentation: https://github.com/AnonCatalyst/Coeus-OSINT-ToolBox/blob/main/README.md
 - Topics: data-science, data-visualization, database, forensic-analysis, forensics, forensics-tools, framework, information-retrieval
+
+### Findomain
+
+The fastest and complete solution for domain recognition. Supports screenshoting, port scan, HTTP check, data import from other tools, subdomain monitoring, alerts via Discord, Slack and Telegram, multiple API Keys fo...
+
+- GitHub: https://github.com/Findomain/Findomain
+- Official site: https://findomain.app
+- Documentation: https://github.com/Findomain/Findomain/blob/master/README.md
+- Topics: bugbounty, dns, osint, subdomains
