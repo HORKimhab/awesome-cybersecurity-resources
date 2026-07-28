@@ -4812,6 +4812,14 @@ Technical notes, AD pentest methodology, list of tools, scripts and Windows comm
 - GitHub: https://github.com/JFR-C/Windows-Penetration-Testing
 - Documentation: https://github.com/JFR-C/Windows-Penetration-Testing/blob/master/README.md
 
+### CobaltStrike_OpenBeacon
+
+Fully functional, from-scratch alternative to the Cobalt Strike Beacon (red teaming tool), offering transparency and flexibility for security professionals and enthusiasts.
+
+- GitHub: https://github.com/ElJaviLuki/CobaltStrike_OpenBeacon
+- Documentation: https://github.com/ElJaviLuki/CobaltStrike_OpenBeacon/blob/master/README.md
+- Topics: beacon, c, c2, cobalt-strike, cobaltstrike, cybersecurity, payload
+
 
 ## Web Security
 
