@@ -5382,6 +5382,12 @@ Open-sourced remote vulnerability testing framework Pocsuite3 is an open-sourced
 - https://pocsuite.org
 - https://gitlab.com/parrotsec/packages/pocsuite3
 
+### PoCEvolve
+
+LLM-based research tool for iteratively generating and refining proof-of-concept exploits for vulnerable npm packages.
+
+- GitHub: [manh-td/pocevolve](https://github.com/manh-td/pocevolve)
+
 ### python-gvm
 
 Greenbone Vulnerability Management Python Library (common documentation) This module gvm contains the Greenbone Vulnerability Management Python API library. It's a collection of APIs that help with remote controlling a Greenbone Security Manager (GSM) appliance and its underlying Greenbone Vulnerability Manager (GVM). The library essentially abstracts accessing the communication protocols Greenbone Management Protocol (GMP) and Open Scanner Protocol (OSP). This is the common documentation package.
