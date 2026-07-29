@@ -1611,6 +1611,13 @@ The openSquat is an open-source tool for detecting domain look-alikes by searchi
 - Documentation: https://github.com/atenreiro/opensquat/blob/master/README.md
 - Topics: blue-team, cybersecurity, cybersquatting, domain-name, domain-squatting, homograph-attack, infosec, malware
 
+### tosint
+
+Tosint is a Telegram OSINT tool that extracts actionable intelligence from bot tokens and chat IDs for security investigations.
+
+- GitHub: https://github.com/drego85/tosint
+- Documentation: https://github.com/drego85/tosint/blob/main/README.md
+
 
 ## AI Agent Security and Tooling
 
