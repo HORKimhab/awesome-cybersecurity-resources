@@ -6686,3 +6686,11 @@ The fastest and complete solution for domain recognition. Supports screenshoting
 - Official site: https://findomain.app
 - Documentation: https://github.com/Findomain/Findomain/blob/master/README.md
 - Topics: bugbounty, dns, osint, subdomains
+
+### navi-multitool
+
+🌌 Advanced Terminal Multitool: Discord Automation, OSINT Intelligence, Malicious Security Tools, and a professional Python Bytecode Obfuscator. All wrapped in a sleek, customizable aesthetic.
+
+- GitHub: https://github.com/glockinhand/navi-multitool
+- Documentation: https://github.com/glockinhand/navi-multitool/blob/main/README.md
+- Topics: ddos-tool, discord-rat, discord-selfbot, discord-tools, multi-tool, multitool, obfuscator, osint
