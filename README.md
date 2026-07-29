@@ -1618,6 +1618,14 @@ Tosint is a Telegram OSINT tool that extracts actionable intelligence from bot t
 - GitHub: https://github.com/drego85/tosint
 - Documentation: https://github.com/drego85/tosint/blob/main/README.md
 
+### horus
+
+An OSINT / digital forensics tool built in Python.
+
+- GitHub: https://github.com/6abd/horus
+- Official site: https://horusdocs.gitbook.io
+- Topics: api, crypto, cryptocurrency, cybersecurity, decryption, digital-forensics, encryption, forensics
+
 
 ## AI Agent Security and Tooling
 
