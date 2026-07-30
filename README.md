@@ -4835,6 +4835,13 @@ Fully functional, from-scratch alternative to the Cobalt Strike Beacon (red team
 - Documentation: https://github.com/ElJaviLuki/CobaltStrike_OpenBeacon/blob/master/README.md
 - Topics: beacon, c, c2, cobalt-strike, cobaltstrike, cybersecurity, payload
 
+### cybersentinel-ai
+
+Agentic-AI CyberSecurity Arsenal || 33 real tools, runs 100% locally and 100% Free.
+
+- GitHub: https://github.com/3sk1nt4n/cybersentinel-ai
+- Documentation: https://github.com/3sk1nt4n/cybersentinel-ai/blob/main/README.md
+
 
 ## Web Security
 
