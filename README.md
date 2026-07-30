@@ -873,6 +873,14 @@ Simple Google Dorks search tool
 - Documentation: https://github.com/rawfilejson/awesome-osint-arsenal/blob/main/README.md
 - Topics: cybersecurity, data-breach, ethical-hacking, goverment-data, hacking, information-gathering, infosec, intelligence
 
+### Offensive-OSINT-Tools
+
+OffSec OSINT Pentest/RedTeam Tools.
+
+- GitHub: https://github.com/wddadk/Offensive-OSINT-Tools
+- Documentation: https://github.com/wddadk/Offensive-OSINT-Tools/blob/main/README.md
+- Topics: awesome-list, hacking, information-gathering, infosec, osint, osint-tool, pentest, pentest-scripts
+
 
 ## Scanning
 
