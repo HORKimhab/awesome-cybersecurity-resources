@@ -4858,6 +4858,15 @@ Supply Chain Security Research - Living Off The Pipeline tools.
 - Documentation: https://github.com/boostsecurityio/lotp/blob/main/README.md
 - Topics: living-off-the-pipeline, lotp, supply-chain-security
 
+### wisent
+
+Representation-engineering tools for reproducible local model research.
+
+- GitHub: https://github.com/wisent-ai/wisent
+- Official site: https://www.wisent.ai/documentation
+- Documentation: https://github.com/wisent-ai/wisent/blob/main/README.md
+- Topics: ai, explainability, interpretability, llms, machine-learning, reproducible-research, safeguards, security
+
 
 ## Web Security
 
