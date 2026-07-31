@@ -4850,6 +4850,14 @@ Agentic-AI CyberSecurity Arsenal || 33 real tools, runs 100% locally and 100% Fr
 - GitHub: https://github.com/3sk1nt4n/cybersentinel-ai
 - Documentation: https://github.com/3sk1nt4n/cybersentinel-ai/blob/main/README.md
 
+### lotp
+
+Supply Chain Security Research - Living Off The Pipeline tools.
+
+- GitHub: https://github.com/boostsecurityio/lotp
+- Documentation: https://github.com/boostsecurityio/lotp/blob/main/README.md
+- Topics: living-off-the-pipeline, lotp, supply-chain-security
+
 
 ## Web Security
 
