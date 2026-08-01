@@ -1634,6 +1634,15 @@ An OSINT / digital forensics tool built in Python.
 - Official site: https://horusdocs.gitbook.io
 - Topics: api, crypto, cryptocurrency, cybersecurity, decryption, digital-forensics, encryption, forensics
 
+### BCHackTool
+
+All-in-one launcher and installer for popular penetration-testing and OSINT tools on Kali Linux and Termux.
+
+- GitHub: https://github.com/ByCh4n/BCHackTool
+- Official site: https://github.com/ByCh4n/BCHackTool
+- Documentation: https://github.com/ByCh4n/BCHackTool/blob/main/README.md
+- Topics: bash, cybersecurity, ethical-hacking, hacking-tools, kali-linux, osint, penetration-testing, security-tools
+
 
 ## AI Agent Security and Tooling
 
