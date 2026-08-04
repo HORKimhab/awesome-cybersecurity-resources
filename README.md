@@ -1672,6 +1672,13 @@ Autonomous red team agent for browser-based or self-hosted engagements, with sup
 - Official site: https://decepticon.red/
 - Documentation: https://docs.decepticon.red/
 
+### Shannon
+
+Autonomous AI pentester for web applications and APIs that combines source-code analysis with live exploitation to validate vulnerabilities.
+
+- GitHub: https://github.com/KeygraphHQ/shannon
+- Documentation: https://github.com/KeygraphHQ/shannon/tree/main/docs
+
 ### claude-red
 
 Claude-focused red team toolkit for agentic offensive security workflows and experimentation.
@@ -5600,6 +5607,13 @@ Ultimate DevSecOps library
 - GitHub: https://github.com/sottlmarek/DevSecOps
 - Documentation: https://github.com/sottlmarek/DevSecOps/blob/master/README.md
 - Topics: automation, awesome, awesome-list, aws, azure, ci-cd, cloud, containers
+
+### GraphSpy
+
+Initial-access and post-exploitation tool for Microsoft Entra ID and Microsoft 365 with a browser-based graphical interface.
+
+- GitHub: https://github.com/RedByte1337/GraphSpy
+- Documentation: https://github.com/RedByte1337/GraphSpy/blob/main/README.md
 
 ### cloudbrute
 
