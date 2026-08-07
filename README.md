@@ -1660,6 +1660,14 @@ OwlTrack OSINT Tools | This tracking tool can provide information about the phon
 - Documentation: https://github.com/IccTeam/OwlTrack/blob/main/README.md
 - Topics: ddos, dos, dos-attack, information-gathering, information-gathering-tools, iptracker, logoutwa, osint
 
+### awesome-blackhat-arsenal
+
+Curated collection of cybersecurity tools featured in Black Hat Arsenal events.
+
+- GitHub: https://github.com/elbraino/awesome-blackhat-arsenal
+- Documentation: https://github.com/elbraino/awesome-blackhat-arsenal/blob/main/README.md
+- Topics: awesome, awesome-list, blackhat-arsenal, blue-teaming, cybersecurity, defensive-security, hacking-tools, malware-analysis
+
 
 ## AI Agent Security and Tooling
 
