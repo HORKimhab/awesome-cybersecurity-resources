@@ -5205,6 +5205,14 @@ A C#-based webshell management tool for penetration testing.
 - Documentation: https://github.com/iss4cf0ng/Alien/blob/Version-5.0.0/README.md
 - Topics: asp-classic, asp-net, backdoor, cybersecurity, management, oneshell, pentest, pentest-tool
 
+### evilwaf
+
+evilwaf is a penetration testing tool designed to detect and bypass common Web Application Firewalls (WAFs)
+
+- GitHub: https://github.com/matrixleons/evilwaf
+- Documentation: https://github.com/matrixleons/evilwaf/blob/main/README.md
+- Topics: bug-bounty-tools, firewall, mitm-proxy, pentest, proxy, red-team, waf, waf-bypass
+
 
 ## Forensics
 
