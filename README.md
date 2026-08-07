@@ -1668,6 +1668,14 @@ Curated collection of cybersecurity tools featured in Black Hat Arsenal events.
 - Documentation: https://github.com/elbraino/awesome-blackhat-arsenal/blob/main/README.md
 - Topics: awesome, awesome-list, blackhat-arsenal, blue-teaming, cybersecurity, defensive-security, hacking-tools, malware-analysis
 
+### dark-web-osint-tools
+
+OSINT Tools for the Dark Web.
+
+- GitHub: https://github.com/apurvsinghgautam/dark-web-osint-tools
+- Documentation: https://github.com/apurvsinghgautam/dark-web-osint-tools/blob/main/README.md
+- Topics: darkweb, osint-tools, scraping-tools, search-engines
+
 
 ## AI Agent Security and Tooling
 
