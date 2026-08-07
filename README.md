@@ -881,6 +881,14 @@ OffSec OSINT Pentest/RedTeam Tools.
 - Documentation: https://github.com/wddadk/Offensive-OSINT-Tools/blob/main/README.md
 - Topics: awesome-list, hacking, information-gathering, infosec, osint, osint-tool, pentest, pentest-scripts
 
+### coldcard-poc
+
+Coldcard Mk3 RNG vulnerability PoC — BIP39 seed reconstruction tool for the Block security disclosure (July 2026)
+
+- GitHub: https://github.com/domaup/coldcard-poc
+- Documentation: https://github.com/domaup/coldcard-poc/blob/main/README.md
+- Topics: bip32, bip39, bitcoin, coinkite, coldcard, coldcard-mk2, coldcard-mk3, coldcard-mk4
+
 
 ## Scanning
 
@@ -1642,6 +1650,15 @@ All-in-one launcher and installer for popular penetration-testing and OSINT tool
 - Official site: https://github.com/ByCh4n/BCHackTool
 - Documentation: https://github.com/ByCh4n/BCHackTool/blob/main/README.md
 - Topics: bash, cybersecurity, ethical-hacking, hacking-tools, kali-linux, osint, penetration-testing, security-tools
+
+### OwlTrack
+
+OwlTrack OSINT Tools | This tracking tool can provide information about the phone number you enter. Not only that, this tool is able to scan telephone numbers with up to 5 different methods. Developed by Mr.OwlBird05...
+
+- GitHub: https://github.com/IccTeam/OwlTrack
+- Official site: https://github.com/IccTeam/OwlTrack.git
+- Documentation: https://github.com/IccTeam/OwlTrack/blob/main/README.md
+- Topics: ddos, dos, dos-attack, information-gathering, information-gathering-tools, iptracker, logoutwa, osint
 
 
 ## AI Agent Security and Tooling
