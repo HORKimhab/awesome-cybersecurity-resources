@@ -4916,6 +4916,15 @@ Representation-engineering tools for reproducible local model research.
 - Documentation: https://github.com/wisent-ai/wisent/blob/main/README.md
 - Topics: ai, explainability, interpretability, llms, machine-learning, reproducible-research, safeguards, security
 
+### noid-privacy
+
+🛡️ Security & Privacy Hardening Tool for Windows 11 25H2 — 630+ Settings, 7 Modules, BAVR Pattern.
+
+- GitHub: https://github.com/NexusOne23/noid-privacy
+- Official site: https://noid-privacy.com/
+- Documentation: https://github.com/NexusOne23/noid-privacy/blob/main/README.md
+- Topics: attack-surface-reduction, automation, cis-benchmark, compliance, cybersecurity, enterprise-security, hardening, microsoft-defender
+
 
 ## Web Security
 
