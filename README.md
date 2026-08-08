@@ -1676,6 +1676,15 @@ OSINT Tools for the Dark Web.
 - Documentation: https://github.com/apurvsinghgautam/dark-web-osint-tools/blob/main/README.md
 - Topics: darkweb, osint-tools, scraping-tools, search-engines
 
+### x-tweet-fetcher
+
+Fetch X/Twitter tweets, replies, timelines, and articles without login or API keys — field tool for AI agents.
+
+- GitHub: https://github.com/ythx-101/x-tweet-fetcher
+- Official site: https://github.com/ythx-101/openclaw-qa
+- Documentation: https://github.com/ythx-101/x-tweet-fetcher/blob/main/README.md
+- Topics: agent-tools, ai-agent, automation, no-api, osint, scraper, twitter, x-twitter
+
 
 ## AI Agent Security and Tooling
 
