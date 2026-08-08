@@ -5573,6 +5573,15 @@ XSSRocket it is a tool designed for offensive security and XSS (Cross-Site Scrip
 - Documentation: https://github.com/blackhatethicalhacking/XSSRocket/blob/main/README.md
 - Topics: bugbounty, cybersecurity, hacking, infosec, offensive, penetration-testing, pentesting, xss
 
+### Wazuh-MCP-Server
+
+Production-grade MCP server for Wazuh SIEM — 55 security tools for alert triage, threat hunting, vulnerability management, compliance (PCI DSS, GDPR, HIPAA, NIST CSF, ISO 27001) and active response. Connect Claude or...
+
+- GitHub: https://github.com/gensecaihq/Wazuh-MCP-Server
+- Official site: https://wazuhmcp.netlify.app/
+- Documentation: https://github.com/gensecaihq/Wazuh-MCP-Server/blob/main/README.md
+- Topics: active-response, ai, claude, compliance, cybersecurity, devsecops, incident-response, llm
+
 
 ## Malware Analysis
 
