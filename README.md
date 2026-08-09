@@ -5591,6 +5591,15 @@ Production-grade MCP server for Wazuh SIEM — 55 security tools for alert triag
 - Documentation: https://github.com/gensecaihq/Wazuh-MCP-Server/blob/main/README.md
 - Topics: active-response, ai, claude, compliance, cybersecurity, devsecops, incident-response, llm
 
+### open-kritt
+
+Open-source, self-hosted AI vulnerability research tool that orchestrates agents to find and validate security issues in code.
+
+- GitHub: https://github.com/Kritt-ai/open-kritt
+- Official site: https://kritt.ai/
+- Documentation: https://github.com/Kritt-ai/open-kritt/blob/main/README.md
+- Topics: ai, ai-agents, ai-security, bug-bounty, bugbounty-tools, code-security, hackenproof, hackerone
+
 
 ## Malware Analysis
 
