@@ -4934,6 +4934,14 @@ Representation-engineering tools for reproducible local model research.
 - Documentation: https://github.com/NexusOne23/noid-privacy/blob/main/README.md
 - Topics: attack-surface-reduction, automation, cis-benchmark, compliance, cybersecurity, enterprise-security, hardening, microsoft-defender
 
+### EvilFontTool
+
+A font-based deception tool for red teaming, security research, and whatever else.
+
+- GitHub: https://github.com/DoctorEww/EvilFontTool
+- Official site: https://doctoreww.github.io/EvilFontTool/
+- Documentation: https://github.com/DoctorEww/EvilFontTool/blob/main/README.md
+
 
 ## Web Security
 
