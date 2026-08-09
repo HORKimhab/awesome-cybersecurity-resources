@@ -5247,6 +5247,15 @@ evilwaf is a penetration testing tool designed to detect and bypass common Web A
 - Documentation: https://github.com/matrixleons/evilwaf/blob/main/README.md
 - Topics: bug-bounty-tools, firewall, mitm-proxy, pentest, proxy, red-team, waf, waf-bypass
 
+### owtf
+
+Offensive Web Testing Framework (OWTF), is a framework which tries to unite great tools and make pen testing more efficient http://owtf.org https://twitter.com/owtfp.
+
+- GitHub: https://github.com/owtf/owtf
+- Official site: https://medium.com/@owtf 
+- Documentation: https://github.com/owtf/owtf/blob/develop/README.md
+- Topics: framework, kali-linux, owasp, owtf, pentest, python, security, web-application-security
+
 
 ## Forensics
 
