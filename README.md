@@ -458,13 +458,6 @@ MCP server for integrating IDA Pro into reverse engineering workflows.
 - GitHub: https://github.com/mrexodia/ida-pro-mcp
 - Documentation: https://github.com/mrexodia/ida-pro-mcp/blob/master/README.md
 
-### reverse-skill
-
-AI agent workflow router and tool orchestration pack for reverse engineering, security analysis, and CTF-oriented tasks. Useful as a structured skill pack for authorized research and lab workflows.
-
-- GitHub: https://github.com/zhaoxuya520/reverse-skill
-- Overview: https://github.com/zhaoxuya520/reverse-skill/blob/main/OVERVIEW.md
-
 ### Binwalk
 
 Firmware analysis tool for extracting and inspecting embedded system images. Commonly used before reverse engineering Bluetooth device firmware and related update packages.
@@ -5330,6 +5323,13 @@ Ksword 5.1 is an open-source ARK, kernel debugging tool, and system forensics an
 
 ## Reverse Engineering
 
+
+### reverse-skill
+
+AI agent workflow router and tool orchestration pack for reverse engineering, authorized penetration testing, security analysis, and CTF tasks.
+
+- GitHub: https://github.com/zhaoxuya520/reverse-skill
+- Documentation: https://github.com/zhaoxuya520/reverse-skill/blob/main/README.md
 
 ### awesome-canbus
 
