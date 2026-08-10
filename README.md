@@ -437,9 +437,11 @@ Runtime mobile application exploration toolkit built on top of Frida. Useful for
 - GitHub: https://github.com/sensepost/objection
 - Wiki: https://github.com/sensepost/objection/wiki
 
-### MobSF
+### MobSF - Mobile-Security-Framework-MobSF
 
 Automated mobile application security testing framework for static and dynamic analysis. Useful for reviewing Android and iOS apps that use Bluetooth features, permissions, or device communication workflows.
+
+Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.
 
 - GitHub: https://github.com/MobSF/Mobile-Security-Framework-MobSF
 - Documentation: https://mobsf.github.io/docs/
