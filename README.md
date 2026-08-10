@@ -5619,6 +5619,14 @@ Open-source, self-hosted AI vulnerability research tool that orchestrates agents
 - Documentation: https://github.com/Kritt-ai/open-kritt/blob/main/README.md
 - Topics: ai, ai-agents, ai-security, bug-bounty, bugbounty-tools, code-security, hackenproof, hackerone
 
+### SSRFmap
+
+Automatic SSRF fuzzer and exploitation tool.
+
+- GitHub: https://github.com/swisskyrepo/SSRFmap
+- Documentation: https://github.com/swisskyrepo/SSRFmap/blob/master/README.md
+- Topics: ctf, exploitation, hacktoberfest, pentest, server-side-request-forgery, ssrf, ssrfmap, vulnerability
+
 
 ## Malware Analysis
 
