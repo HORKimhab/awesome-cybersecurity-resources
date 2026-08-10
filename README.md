@@ -4937,6 +4937,14 @@ A font-based deception tool for red teaming, security research, and whatever els
 - Official site: https://doctoreww.github.io/EvilFontTool/
 - Documentation: https://github.com/DoctorEww/EvilFontTool/blob/main/README.md
 
+### misconfig-mapper
+
+Misconfig Mapper is a fast tool to help you uncover security misconfigurations on popular third-party services used by your company and/or bug bounty targets!
+
+- GitHub: https://github.com/intigriti/misconfig-mapper
+- Official site: https://bugology.intigriti.io/misconfig-mapper-docs
+- Topics: bug-bounty, bugbounty, cybersecurity, hacking, hacking-tool, misconfig, misfconfiguration, services
+
 
 ## Web Security
 
