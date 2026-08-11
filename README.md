@@ -1680,6 +1680,14 @@ Fetch X/Twitter tweets, replies, timelines, and articles without login or API ke
 - Documentation: https://github.com/ythx-101/x-tweet-fetcher/blob/main/README.md
 - Topics: agent-tools, ai-agent, automation, no-api, osint, scraper, twitter, x-twitter
 
+### awesome-cyber-ai-arsenal
+
+A curated collection of offensive, defensive and AI/LLM security tools.
+
+- GitHub: https://github.com/pazo01/awesome-cyber-ai-arsenal
+- Documentation: https://github.com/pazo01/awesome-cyber-ai-arsenal/blob/main/README.md
+- Topics: ai, ai-agents, ai-security, blue-team, bug-bounty, cybersecurity, hacking-tools, infosec
+
 
 ## AI Agent Security and Tooling
 
