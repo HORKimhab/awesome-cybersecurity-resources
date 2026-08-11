@@ -4948,6 +4948,13 @@ Misconfig Mapper is a fast tool to help you uncover security misconfigurations o
 
 ## Web Security
 
+### pass-the-passkey
+
+A collection of tools and resources for researching Pass-the-Passkey attacks against WebAuthn and FIDO2 authentication mechanisms in Windows environments.
+
+- GitHub: https://github.com/SpecterOps/pass-the-passkey
+- Documentation: https://github.com/SpecterOps/pass-the-passkey/blob/main/README.md
+- Topics: dotnet, entra-id, fido2, passkeys, security-tools, webauthn, windows
 
 ### ToolHunt
 
