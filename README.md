@@ -884,6 +884,14 @@ Coldcard Mk3 RNG vulnerability PoC — BIP39 seed reconstruction tool for the Bl
 - Documentation: https://github.com/domaup/coldcard-poc/blob/main/README.md
 - Topics: bip32, bip39, bitcoin, coinkite, coldcard, coldcard-mk2, coldcard-mk3, coldcard-mk4
 
+### awesome-recon-tools
+
+A compiled list of tools for reconnaissance and footprinting.
+
+- GitHub: https://github.com/nateahess/awesome-recon-tools
+- Documentation: https://github.com/nateahess/awesome-recon-tools/blob/main/README.md
+- Topics: awesome, awesome-list, cybersecurity, footprinting, recon, reconnaissance, red-team, security
+
 
 ## Scanning
 
