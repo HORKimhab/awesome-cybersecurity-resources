@@ -357,6 +357,146 @@ tool to relay phase 2 authentication attempts to access corporate wireless This 
 - https://gitlab.com/parrotsec/packages/wpa-sycophant
 
 
+## Evil Twin Attack
+
+An evil twin is a rogue Wi-Fi access point that impersonates a trusted network, usually by copying its SSID, to entice clients into connecting. It can support credential capture, traffic interception, or other adversary-in-the-middle activity. Use the assessment tools below only in an isolated lab or on networks for which you have explicit written authorization.
+
+**Threat model and defensive guidance**
+
+### MITRE ATT&CK T1557.004 - Evil Twin
+
+ATT&CK description of the technique, documented procedures, mitigations, and detection ideas for fraudulent Wi-Fi access points.
+
+- Technique: https://attack.mitre.org/techniques/T1557/004/
+
+### NIST Mobile Threat Catalogue - Rogue Access Points
+
+Concise threat entry describing rogue access point risks and countermeasures for mobile users and enterprises.
+
+- Threat entry: https://pages.nist.gov/mobile-threat-catalogue/lan-pan-threats/LPN-0.html
+
+### NIST SP 800-153 - Guidelines for Securing WLANs
+
+Lifecycle guidance for securely designing, configuring, maintaining, and monitoring IEEE 802.11 wireless networks.
+
+- Publication: https://csrc.nist.gov/pubs/sp/800/153/final
+- DOI: https://doi.org/10.6028/NIST.SP.800-153
+
+### CISA Wireless Security Guidance
+
+User-oriented explanation of wireless threats, including evil twins, with practical precautions for public Wi-Fi.
+
+- Guide: https://www.cisa.gov/sites/default/files/publications/Wireless-Security.pdf
+- Enterprise Wi-Fi guide: https://www.cisa.gov/sites/default/files/publications/A_Guide_to_Securing_Networks_for_Wi-Fi.pdf
+
+**Authorized assessment tools**
+
+### airgeddon
+
+Menu-driven Bash toolkit for Linux wireless security assessments, including evil twin and captive-portal test workflows.
+
+- GitHub: https://github.com/v1s1t0r1sh3r3/airgeddon
+- Wiki: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki
+- ParrotSec package: https://gitlab.com/parrotsec/packages/airgeddon
+
+### Wifiphisher
+
+Rogue access point framework for authorized Wi-Fi association and phishing assessments, with Evil Twin, KARMA, and Known Beacons techniques.
+
+- GitHub: https://github.com/wifiphisher/wifiphisher
+- Documentation: https://wifiphisher.readthedocs.io/
+- ParrotSec package: https://gitlab.com/parrotsec/packages/wifiphisher
+
+### EAPHammer
+
+Wireless assessment toolkit focused on targeted evil twin tests against WPA2-Enterprise networks and hostile portal scenarios.
+
+- GitHub: https://github.com/s0lst1c3/eaphammer
+- Wiki: https://github.com/s0lst1c3/eaphammer/wiki
+- ParrotSec package: https://gitlab.com/parrotsec/packages/eaphammer
+
+### Fluxion
+
+Wireless auditing framework that uses a cloned access point and captive portal to test WPA/WPA2 user-awareness and network controls.
+
+- GitHub: https://github.com/FluxionNetwork/fluxion
+- Wiki: https://github.com/FluxionNetwork/fluxion/wiki
+
+### WiFi-Pumpkin3
+
+Extensible rogue access point framework for controlled wireless security research, traffic inspection, and captive-portal testing.
+
+- GitHub: https://github.com/P0cL4bs/wifipumpkin3
+- Documentation: https://docs.wifipumpkin3.com/community/installation
+- ParrotSec package: https://gitlab.com/parrotsec/packages/wifipumpkin3
+
+### hostapd-mana
+
+Modified hostapd implementation for authorized MANA and KARMA-style rogue access point assessments.
+
+- GitHub: https://github.com/sensepost/hostapd-mana
+- ParrotSec package: https://gitlab.com/parrotsec/packages/hostapd-mana
+
+### hostapd-wpe
+
+Wireless Pwnage Edition patches for hostapd, intended for evaluating IEEE 802.1X and enterprise Wi-Fi client credential protections.
+
+- Source: https://github.com/aircrack-ng/aircrack-ng/tree/master/patches/wpe
+- ParrotSec package: https://gitlab.com/parrotsec/packages/hostapd-wpe
+
+### roguehostapd
+
+Hostapd fork with Python bindings and additional wireless assessment features, originally developed as a Wifiphisher component.
+
+- GitHub: https://github.com/wifiphisher/roguehostapd
+
+### Aircrack-ng
+
+Command-line Wi-Fi security assessment suite for monitoring, packet capture, injection testing, deauthentication testing, and fake access point lab workflows.
+
+- Official site: https://www.aircrack-ng.org/
+- GitHub: https://github.com/aircrack-ng/aircrack-ng
+- Documentation: https://www.aircrack-ng.org/documentation.html
+
+**Detection and analysis**
+
+### Kismet WIDS Alerts
+
+Kismet can operate as a wireless intrusion detection system and flag indicators associated with AP spoofing, encryption downgrades, unexpected channel changes, and deauthentication floods.
+
+- Official site: https://www.kismetwireless.net/
+- Alert documentation: https://www.kismetwireless.net/docs/readme/alerts/alerts/
+- GitHub: https://github.com/kismetwireless/kismet
+
+### Wireshark IEEE 802.11 Analysis
+
+Protocol analyzer for reviewing beacon, probe, authentication, association, EAPOL, and deauthentication frames captured during wireless incident response or lab validation.
+
+- Official site: https://www.wireshark.org/
+- User guide: https://www.wireshark.org/docs/wsug_html_chunked/
+- WLAN display filters: https://wiki.wireshark.org/Wi-Fi
+
+**Training and research**
+
+### Hack The Box Academy - Wi-Fi Evil Twin Attacks
+
+Hands-on training module covering WPA2, WPA3, enterprise evil twins, common frameworks, and related adversary-in-the-middle techniques in managed lab environments.
+
+- Course: https://academy.hackthebox.com/course/preview/wi-fi-evil-twin-attacks
+
+### ETGuard
+
+Research paper presenting a real-time, fingerprinting-based mechanism for detecting wireless evil twins before client association.
+
+- Paper: https://arxiv.org/abs/1903.05843
+
+### iTieProbe
+
+Research project and paper for testing whether IoT Wi-Fi setup processes are resilient to modern evil twin attacks.
+
+- Paper: https://arxiv.org/abs/2304.12041
+
+
 ## Bluetooth Security and Analysis
 
 ### Wireshark
@@ -964,12 +1104,6 @@ Professional network monitoring & visualization tool. L0P4Map combines high-spee
 - Documentation: https://github.com/HaxL0p4/L0p4Map/blob/main/README.md
 - Topics: arp-scan, cybersecurity, hacking-tools, infosec, kali-linux, linux, network-scanner, network-visualization
 
-### airgeddon
-
-a multi-use bash script to audit wireless networks a multi-use bash script to audit wireless networks
-
-- https://gitlab.com/parrotsec/packages/airgeddon
-
 ### asleap
 
 A tool for exploiting Cisco LEAP networks Demonstrates a serious deficiency in proprietary Cisco LEAP networks.
@@ -1025,13 +1159,6 @@ DNS tunnel (metapackage) This tool is designed to create an encrypted command-an
 
 - https://github.com/iagox86/dnscat2
 - https://gitlab.com/parrotsec/packages/dnscat2
-
-### eaphammer
-
-toolkit for targeted evil twin attacks against WPA2-Enterprise networks This package contains a toolkit for performing targeted evil twin attacks against WPA2-Enterprise networks. It is designed to be used in full scope wireless assessments and red team engagements. As such, focus is placed on providing an easy-to-use interface that can be leveraged to execute powerful wireless attacks with minimal manual configuration. To illustrate just how fast this tool is, the Quick Start section provides an example of how to execute a credential stealing evil twin attack against a WPA/2-EAP network in just commands.
-
-- https://github.com/s0lst1c3/eaphammer
-- https://gitlab.com/parrotsec/packages/eaphammer
 
 ### fern-wifi-cracker
 
@@ -1261,13 +1388,6 @@ helper for network settings This package contains a small C program that will he
 
 - http://www.laffeycomputer.com/whatmask.html
 - https://gitlab.com/parrotsec/packages/whatmask
-
-### wifiphisher
-
-Automated phishing attacks against Wi-Fi networks This package contains a security tool that mounts automated phishing attacks against Wi-Fi networks in order to obtain secret passphrases or other credentials. It is a social engineering attack that unlike other methods it does not include any brute forcing. It is an easy way for obtaining credentials from captive portals and third party login pages or WPA/WPA2 secret passphrases.
-
-- https://github.com/sophron/wifiphisher
-- https://gitlab.com/parrotsec/packages/wifiphisher
 
 ### prismor
 
@@ -2934,13 +3054,6 @@ Sidejacking tool Hamster is tool or "sidejacking". It acts as a proxy server tha
 
 - http://www.erratasec.com/research.html
 - https://gitlab.com/parrotsec/packages/hamster-sidejack
-
-### hostapd-mana
-
-featureful rogue access point This package contains a eatureful rogue access point first presented at Defcon 22.
-
-- https://github.com/sensepost/hostapd-mana
-- https://gitlab.com/parrotsec/packages/hostapd-mana
 
 ### hostsman
 
@@ -5436,13 +5549,6 @@ High level C2 framework Villain is a C2 framework that can handle multiple TCP s
 - https://github.com/t3l3machus/Villain
 - https://gitlab.com/parrotsec/packages/villain
 
-### wifipumpkin3
-
-Powerful framework for rogue access point attack This package contains a powerful framework for rogue access point attack, written in Python, that allow and offer to security researchers, red teamers and reverse engineers to mount a wireless network to conduct a man-in-the-middle attack.
-
-- https://github.com/P0cL4bs/wifipumpkin3
-- https://gitlab.com/parrotsec/packages/wifipumpkin3
-
 ### awesome-ai-security-tools
 
 A curated list of public-source, research, and commercial tools for AI security and AI-assisted cybersecurity — autotriage, agent security, AI/ML supply chain, pentest agents, AI SAST, LLM-driven fuzzing, threat intel...
@@ -6201,13 +6307,6 @@ Versatile packet injector and sniffer HexInject is a very versatile packet injec
 
 - https://hexinject.sourceforge.net/
 - https://gitlab.com/parrotsec/packages/hexinject
-
-### hostapd-wpe
-
-Modified hostapd to facilitate AP impersonation attacks This package contains hostapd modified with hostapd-wpe.patch. It implements IEEE 802.1x Authenticator and Authentication Server impersonation attacks to obtain client credentials, establish connectivity to the client, and launch other attacks where applicable. hostapd-wpe supports the following EAP types for impersonation: 1. EAP-FAST/MSCHAPv2 (Phase 0) 2. PEAP/MSCHAPv2 3. EAP-TTLS/MSCHAPv2 4. EAP-TTLS/MSCHAP 5. EAP-TTLS/CHAP 6. EAP-TTLS/PAP Once impersonation is underway, hostapd-wpe will return an EAP-Success message so that the client believes they are connected to their legitimate authenticator. For 802.11 clients, hostapd-wpe also implements Karma-style gratuitous probe responses. Inspiration for this was provided by JoMo-Kun's patch for older versions of hostapd. http://www.foofus.net/?page_id=115 hostapd-wpe also implements CVE-2014-0160 (Heartbleed) attacks against vulnerable clients. Inspiration for this was provided by the Cupid PoC: https://github.com/lgrangeia/cupid hostapd-wpe logs all data to stdout and hostapd-wpe.log
-
-- https://github.com/aircrack-ng/aircrack-ng/tree/master/patches/wpe
-- https://gitlab.com/parrotsec/packages/hostapd-wpe
 
 ### htshells
 
