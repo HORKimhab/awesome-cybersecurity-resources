@@ -5074,6 +5074,14 @@ Misconfig Mapper is a fast tool to help you uncover security misconfigurations o
 - Official site: https://bugology.intigriti.io/misconfig-mapper-docs
 - Topics: bug-bounty, bugbounty, cybersecurity, hacking, hacking-tool, misconfig, misfconfiguration, services
 
+### frida-gadget
+
+Automated tool for patching APKs to enable the use of Frida gadget by downloading the library and injecting code into the main activity.
+
+- GitHub: https://github.com/ksg97031/frida-gadget
+- Documentation: https://github.com/ksg97031/frida-gadget/blob/trunk/README.md
+- Topics: android, apk, frida, frida-gadget, pentest, reversing, security
+
 
 ## Web Security
 
