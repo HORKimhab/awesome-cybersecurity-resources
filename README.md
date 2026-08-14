@@ -1032,6 +1032,14 @@ A compiled list of tools for reconnaissance and footprinting.
 - Documentation: https://github.com/nateahess/awesome-recon-tools/blob/main/README.md
 - Topics: awesome, awesome-list, cybersecurity, footprinting, recon, reconnaissance, red-team, security
 
+### querytool
+
+A local-first, standalone OSINT query tool for filtering sources and opening targeted searches.
+
+- GitHub: https://github.com/oryon-osint/querytool
+- Documentation: https://github.com/oryon-osint/querytool/blob/master/README.md
+- Topics: email-lookup, information-gathering, lookup, oryon-osint, osint, osint-framework, osint-reconnaissance, osint-resources
+
 
 ## Scanning
 
