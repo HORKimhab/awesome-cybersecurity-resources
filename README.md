@@ -1824,6 +1824,14 @@ A curated collection of offensive, defensive and AI/LLM security tools.
 - Documentation: https://github.com/pazo01/awesome-cyber-ai-arsenal/blob/main/README.md
 - Topics: ai, ai-agents, ai-security, blue-team, bug-bounty, cybersecurity, hacking-tools, infosec
 
+### world-intel-mcp
+
+100+ tool MCP server for real-time global intelligence — markets, FX, bonds, earnings, SEC filings, conflict, military, cyber, climate, news, company enrichment, and 30+ domains. Live Leaflet dashboard with 20 map lay...
+
+- GitHub: https://github.com/marc-shade/world-intel-mcp
+- Documentation: https://github.com/marc-shade/world-intel-mcp/blob/main/README.md
+- Topics: ai-tools, ai-watch, anthropic, claude, cybersecurity, dashboard, geopolitical, geospatial
+
 
 ## AI Agent Security and Tooling
 
