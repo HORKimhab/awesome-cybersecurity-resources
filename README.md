@@ -5098,6 +5098,14 @@ Automated tool for patching APKs to enable the use of Frida gadget by downloadin
 - Documentation: https://github.com/ksg97031/frida-gadget/blob/trunk/README.md
 - Topics: android, apk, frida, frida-gadget, pentest, reversing, security
 
+### Hacking-Cheatsheets
+
+A comprehensive collection of penetration testing cheatsheets, guides, and tools.
+
+- GitHub: https://github.com/Ilias1988/Hacking-Cheatsheets
+- Documentation: https://github.com/Ilias1988/Hacking-Cheatsheets/blob/main/README.md
+- Topics: cheatsheet, cybersecurity, ethical-hacking, infosec, metasploit, penetration-testing, red-team
+
 
 ## Web Security
 
