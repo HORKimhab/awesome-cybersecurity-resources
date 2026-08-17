@@ -1839,6 +1839,15 @@ A curated collection of offensive, defensive and AI/LLM security tools.
 - Documentation: https://github.com/marc-shade/world-intel-mcp/blob/main/README.md
 - Topics: ai-tools, ai-watch, anthropic, claude, cybersecurity, dashboard, geopolitical, geospatial
 
+### IG-Detective
+
+OSINT tool researched and designed to hunt down IG handles.
+
+- GitHub: https://github.com/shredzwho/IG-Detective
+- Official site: https://github.com/shredzwho/IG-Detective
+- Documentation: https://github.com/shredzwho/IG-Detective/blob/main/README.md
+- Topics: bash, forensic-analysis, forensics-investigations, forensics-tools, instagram, instagram-osint, instagram-osint-tool, osint
+
 
 ## AI Agent Security and Tooling
 
