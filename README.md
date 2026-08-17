@@ -1140,6 +1140,13 @@ fast TCP/UDP tunnel over HTTP (program) This package contains a fast TCP/UDP tun
 - https://github.com/jpillora/chisel
 - https://gitlab.com/parrotsec/packages/chisel
 
+### Reverse SSH
+
+SSH-based reverse shell for managing remote sessions with native SSH syntax. It supports local, remote, and dynamic port forwarding; SCP and SFTP file transfers; Windows shells; and transports including HTTP, WebSockets, and TLS.
+
+- GitHub: https://github.com/NHAS/reverse_ssh
+- Documentation: https://github.com/NHAS/reverse_ssh/blob/main/README.md
+
 ### cisco-ocs
 
 Mass Cisco scanner A mass Cisco scanning tool.
