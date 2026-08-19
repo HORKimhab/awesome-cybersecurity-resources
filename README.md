@@ -1273,6 +1273,13 @@ The Network Mapper Nmap is a utility for network exploration or security auditin
 - https://nmap.org/
 - https://gitlab.com/parrotsec/packages/nmap
 
+### nmap-vulners
+
+Nmap NSE scripts that turn service scan results into lists of known CVEs, CVSS scores, and exploits by querying the Vulners database.
+
+- GitHub: [https://github.com/vulnersCom/nmap-vulners](https://github.com/vulnersCom/nmap-vulners)
+- [vulners.com](vulners.com)
+
 ### oracle-instantclient-basic
 
 Oracle Instant Client Basic This package contains the Oracle Instant Client Basic. It enables applications to connect to a local or remote Oracle Database for development and production deployment. The Instant Client libraries provide the necessary network connectivity, as well as basic and high end data features, to make full use of Oracle Database.
