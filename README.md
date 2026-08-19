@@ -1040,6 +1040,14 @@ A local-first, standalone OSINT query tool for filtering sources and opening tar
 - Documentation: https://github.com/oryon-osint/querytool/blob/master/README.md
 - Topics: email-lookup, information-gathering, lookup, oryon-osint, osint, osint-framework, osint-reconnaissance, osint-resources
 
+### awesome-recon-tools
+
+A compiled list of tools for reconnaissance and footprinting.
+
+- GitHub: https://github.com/servicelogon/awesome-recon-tools
+- Documentation: https://github.com/servicelogon/awesome-recon-tools/blob/main/README.md
+- Topics: awesome, awesome-list, cybersecurity, footprinting, recon, reconnaissance, red-team, security
+
 
 ## Scanning
 
