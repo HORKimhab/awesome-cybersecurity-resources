@@ -5827,6 +5827,15 @@ Automatic SSRF fuzzer and exploitation tool.
 - Documentation: https://github.com/swisskyrepo/SSRFmap/blob/master/README.md
 - Topics: ctf, exploitation, hacktoberfest, pentest, server-side-request-forgery, ssrf, ssrfmap, vulnerability
 
+### Egyscan
+
+Egyscan The Best web vulnerability scanner; it's a multifaceted security powerhouse designed to fortify your web applications against malicious threats. Let's delve into the tasks and functions that make Egyscan an in...
+
+- GitHub: https://github.com/dragonked2/Egyscan
+- Official site: https://www.facebook.com/AliElTop313
+- Documentation: https://github.com/dragonked2/Egyscan/blob/main/README.md
+- Topics: command-injection, command-line, cross-site-scripting, cybersecurity, injection, lfi, python, rce
+
 
 ## Malware Analysis
 
