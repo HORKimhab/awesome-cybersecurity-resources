@@ -1885,6 +1885,15 @@ OSINT tool researched and designed to hunt down IG handles.
 - Documentation: https://github.com/shredzwho/IG-Detective/blob/main/README.md
 - Topics: bash, forensic-analysis, forensics-investigations, forensics-tools, instagram, instagram-osint, instagram-osint-tool, osint
 
+### Rosint
+
+Reddit open-source user intelligence tool.
+
+- GitHub: https://github.com/zuxu4n/Rosint
+- Official site: https://rosint.dev/
+- Documentation: https://github.com/zuxu4n/Rosint/blob/master/README.md
+- Topics: osint, osint-tool, reddit
+
 
 ## AI Agent Security and Tooling
 
@@ -7085,3 +7094,11 @@ The fastest and complete solution for domain recognition. Supports screenshoting
 - GitHub: https://github.com/glockinhand/navi-multitool
 - Documentation: https://github.com/glockinhand/navi-multitool/blob/main/README.md
 - Topics: ddos-tool, discord-rat, discord-selfbot, discord-tools, multi-tool, multitool, obfuscator, osint
+
+### osintgpt
+
+An open-source intelligence (OSINT) analysis tool leveraging GPT-powered embeddings and vector search engines for efficient data processing.
+
+- GitHub: https://github.com/estebanpdl/osintgpt
+- Documentation: https://github.com/estebanpdl/osintgpt/blob/main/README.md
+- Topics: embeddings, gpt-3-5-turbo, gpt-4, osint, osint-python, osint-tool, pinecone, python
