@@ -8,13 +8,35 @@ Each entry is kept simple and useful, usually with a short description, the GitH
 
 ## Donate
 
-Support the maintenance of this project with PayPal or by scanning the QR code below.
+<!-- Support the maintenance of this project with PayPal or by scanning the QR code below.
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=GHBZLGLY76KNA)
 
 <p>
   <img src="data/images/qr-code-hkimhab-merchant-988.png" alt="QR code for donation" height="180">
-</p>
+</p> -->
+
+<table style="border: none;">
+  <tr style="border: none;">
+    <td valign="top" width="65%" style="border: none;">
+      <p>Support the maintenance of this project with PayPal or by scanning the QR code below.</p>
+      <p>Your donation supports Awesome Cybersecurity Resources by helping me discover, verify, organize, and preserve valuable security tools, research, guides, labs, and CVE proof-of-concept repositories—including resources no longer available on GitHub.</p>
+      <p>Every contribution helps cover the time and infrastructure needed to keep this collection accurate, accessible, and up to date for cybersecurity learners, researchers, and professionals worldwide.</p>
+      <p><code>👦 សម្រាប់ការបរិច្ចាគរបស់អ្នក ១០% នឹងត្រូវបានចូលរួមចំណែកជូនមន្ទីរពេទ្យគន្ធបុប្ផា។</code></p>
+      <p><code>👦 Ten percent of your donation will be contributed to Kantha Bopha Children's Hospital.</code></p>
+    </td>
+    <td align="center" valign="top" width="35%" style="border: none;">
+      <a href="https://www.paypal.com/donate/?hosted_button_id=GHBZLGLY76KNA">
+        <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="Donate with PayPal">
+      </a>
+      <br><br>
+      <img src="data/images/aba-merchant-hkimhab.jpeg" alt="QR code for donation" height="180">
+      <br>
+       <sub>Scan with ABA Mobile · Click to enlarge</sub>
+      <!-- <sub><a href="./asset/donate-image/">View donation records and images →</a></sub> -->
+    </td>
+  </tr>
+</table>
 
 ---
 
