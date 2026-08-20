@@ -5168,6 +5168,14 @@ A comprehensive collection of penetration testing cheatsheets, guides, and tools
 - Documentation: https://github.com/Ilias1988/Hacking-Cheatsheets/blob/main/README.md
 - Topics: cheatsheet, cybersecurity, ethical-hacking, infosec, metasploit, penetration-testing, red-team
 
+### wifi-deauther
+
+802.11 deauthentication tool for Wi-Fi security testing and research.
+
+- GitHub: https://github.com/ZKAW/wifi-deauther
+- Documentation: https://github.com/ZKAW/wifi-deauther/blob/master/README.md
+- Topics: crash, cybersecurity, deauth, deauthentication-attack, deauther, kali, kali-linux, kali-scripts
+
 
 ## Web Security
 
