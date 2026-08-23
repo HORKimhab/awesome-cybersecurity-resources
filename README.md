@@ -5882,6 +5882,14 @@ Egyscan The Best web vulnerability scanner; it's a multifaceted security powerho
 - Documentation: https://github.com/dragonked2/Egyscan/blob/main/README.md
 - Topics: command-injection, command-line, cross-site-scripting, cybersecurity, injection, lfi, python, rce
 
+### BlueToolkit
+
+BlueToolkit is an extensible Bluetooth Classic vulnerability testing framework that helps uncover new and old vulnerabilities in Bluetooth-enabled devices. Could be used in the vulnerability research, penetration test...
+
+- GitHub: https://github.com/sgxgsx/BlueToolkit
+- Documentation: https://github.com/sgxgsx/BlueToolkit/blob/main/README.md
+- Topics: awesome, awesome-list, bluetooth, bluetooth-classic, bluetooth-hacking, bluetooth-security, bluetooth-toolkit, exploit
+
 
 ## Malware Analysis
 
