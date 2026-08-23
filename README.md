@@ -1894,6 +1894,13 @@ Reddit open-source user intelligence tool.
 - Documentation: https://github.com/zuxu4n/Rosint/blob/master/README.md
 - Topics: osint, osint-tool, reddit
 
+### awesome-osint
+
+🕵️ A curated list of awesome TraceLabs-endorsed OSINT tools.
+
+- GitHub: https://github.com/tracelabs/awesome-osint
+- Documentation: https://github.com/tracelabs/awesome-osint/blob/master/README.md
+
 
 ## AI Agent Security and Tooling
 
