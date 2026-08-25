@@ -5183,6 +5183,14 @@ A comprehensive collection of penetration testing cheatsheets, guides, and tools
 - Documentation: https://github.com/ZKAW/wifi-deauther/blob/master/README.md
 - Topics: crash, cybersecurity, deauth, deauthentication-attack, deauther, kali, kali-linux, kali-scripts
 
+### SSTImap
+
+Automatic SSTI detection tool with interactive interface.
+
+- GitHub: https://github.com/vladko312/SSTImap
+- Documentation: https://github.com/vladko312/SSTImap/blob/master/README.md
+- Topics: information-security, penetration-testing, penetration-testing-tools, pentest, pentest-tool, pentesting, pentesting-tools, python
+
 
 ## Web Security
 
