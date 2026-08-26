@@ -7141,3 +7141,11 @@ Project Eyes On is a high-speed, multi-threaded surveillance tool by Y0oshi (@rd
 - GitHub: https://github.com/Y0oshi/Project-Eyes-On
 - Documentation: https://github.com/Y0oshi/Project-Eyes-On/blob/main/README.md
 - Topics: automation, cctv-cameras, concurrent, cybersecurity, dorking, insecam, ip-camera, networksecurity
+
+### Project-Deep-Focus
+
+Your personal 'Mini Shodan'. A high-performance network reconnaissance engine designed for massive scale asset discovery. Specializes in identifying unsecured services (Open RTSP Cameras, No-Auth VNC, Anonymous FTP) a...
+
+- GitHub: https://github.com/Y0oshi/Project-Deep-Focus
+- Documentation: https://github.com/Y0oshi/Project-Deep-Focus/blob/main/README.md
+- Topics: asyncio, cybersecurity, ethical-hacking, ip-camera, network-discovery, network-scanner, osint-tool, port-scanner
