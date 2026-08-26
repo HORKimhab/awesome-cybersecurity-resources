@@ -7133,3 +7133,11 @@ An open-source intelligence (OSINT) analysis tool leveraging GPT-powered embeddi
 - GitHub: https://github.com/estebanpdl/osintgpt
 - Documentation: https://github.com/estebanpdl/osintgpt/blob/main/README.md
 - Topics: embeddings, gpt-3-5-turbo, gpt-4, osint, osint-python, osint-tool, pinecone, python
+
+### Project-Eyes-On
+
+Project Eyes On is a high-speed, multi-threaded surveillance tool by Y0oshi (@rde0) for locating open IP cameras worldwide. Unifies Google Dorking and Directory Scraping into a single OSINT engine.
+
+- GitHub: https://github.com/Y0oshi/Project-Eyes-On
+- Documentation: https://github.com/Y0oshi/Project-Eyes-On/blob/main/README.md
+- Topics: automation, cctv-cameras, concurrent, cybersecurity, dorking, insecam, ip-camera, networksecurity
