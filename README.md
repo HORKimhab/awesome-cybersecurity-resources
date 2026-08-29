@@ -7149,3 +7149,11 @@ Your personal 'Mini Shodan'. A high-performance network reconnaissance engine de
 - GitHub: https://github.com/Y0oshi/Project-Deep-Focus
 - Documentation: https://github.com/Y0oshi/Project-Deep-Focus/blob/main/README.md
 - Topics: asyncio, cybersecurity, ethical-hacking, ip-camera, network-discovery, network-scanner, osint-tool, port-scanner
+
+### slack-watchman
+
+Slack enumeration and exposed secrets detection tool.
+
+- GitHub: https://github.com/PaperMtn/slack-watchman
+- Documentation: https://github.com/PaperMtn/slack-watchman/blob/master/README.md
+- Topics: blue-team, blueteam, cybersecurity, infosec, monitoring, purple-team, purpleteam, red-team
