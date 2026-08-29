@@ -1901,6 +1901,14 @@ Reddit open-source user intelligence tool.
 - GitHub: https://github.com/tracelabs/awesome-osint
 - Documentation: https://github.com/tracelabs/awesome-osint/blob/master/README.md
 
+### Moriarty-Project
+
+This tool gives information about the phone number that you entered.
+
+- GitHub: https://github.com/AzizKpln/Moriarty-Project
+- Documentation: https://github.com/AzizKpln/Moriarty-Project/blob/master/README.md
+- Topics: advanced, advanced-osint-tool, amazon-aws, information, information-gathering, kali-osint, moriarty, moriarty-project
+
 
 ## AI Agent Security and Tooling
 
