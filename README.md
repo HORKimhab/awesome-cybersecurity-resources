@@ -1917,6 +1917,15 @@ This tool gives information about the phone number that you entered.
 - Documentation: https://github.com/AzizKpln/Moriarty-Project/blob/master/README.md
 - Topics: advanced, advanced-osint-tool, amazon-aws, information, information-gathering, kali-osint, moriarty, moriarty-project
 
+### youtube-geofind
+
+Web-tool to search YouTube for geographically tagged videos by channel, topic, and location. Videos are viewable in a map and exportabled to CSV.
+
+- GitHub: https://github.com/mattwright324/youtube-geofind
+- Official site: https://mattw.io/youtube-geofind/location
+- Documentation: https://github.com/mattwright324/youtube-geofind/blob/main/README.md
+- Topics: geotag, github-pages, google-maps-api, javascript, osint, osint-tool, website, youtube
+
 
 ## AI Agent Security and Tooling
 
