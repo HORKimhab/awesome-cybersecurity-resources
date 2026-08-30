@@ -1070,6 +1070,14 @@ A compiled list of tools for reconnaissance and footprinting.
 - Documentation: https://github.com/servicelogon/awesome-recon-tools/blob/main/README.md
 - Topics: awesome, awesome-list, cybersecurity, footprinting, recon, reconnaissance, red-team, security
 
+### Spectre
+
+Radio frequency scanner with recon and offensive capabilities.
+
+- GitHub: https://github.com/thomasbuilds/Spectre
+- Documentation: https://github.com/thomasbuilds/Spectre/blob/main/README.md
+- Topics: android, app, bluetooth, cellular, gnss, grapheneos, jetpack-compose, kotlin
+
 
 ## Scanning
 
