@@ -1968,6 +1968,13 @@ Claude-focused red team toolkit for agentic offensive security workflows and exp
 
 - GitHub: https://github.com/SnailSploit/claude-red
 
+### Claude-BugHunter
+
+Claude Code skill bundle for authorized bug hunting and external red-team work, with vulnerability-class playbooks, reconnaissance workflows, validation guidance, and reporting support.
+
+- GitHub: https://github.com/elementalsouls/Claude-BugHunter
+- Documentation: https://github.com/elementalsouls/Claude-BugHunter/blob/main/README.md
+
 ### Shadowbroker
 
 Real-time geospatial OSINT and recon platform that aggregates multi-domain public telemetry into a unified interface, with a self-hosted backend and an agent command channel for AI-assisted analysis.
