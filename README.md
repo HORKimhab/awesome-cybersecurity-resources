@@ -43,6 +43,14 @@ Each entry is kept simple and useful, usually with a short description, the GitH
 
 ## Password Cracking
 
+### SecLists
+
+Collection of usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and other lists used during security assessments.
+
+SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
+
+- GitHub: https://github.com/danielmiessler/SecLists
+
 ### Hashcat
 
 Advanced password recovery utility focused on high-performance cracking across CPUs, GPUs, and other accelerators. Useful for password auditing, recovery workflows, and security research.
