@@ -7197,3 +7197,11 @@ Slack enumeration and exposed secrets detection tool.
 - GitHub: https://github.com/PaperMtn/slack-watchman
 - Documentation: https://github.com/PaperMtn/slack-watchman/blob/master/README.md
 - Topics: blue-team, blueteam, cybersecurity, infosec, monitoring, purple-team, purpleteam, red-team
+
+### ScrapPY
+
+ScrapPY is a Python utility for scraping manuals, documents, and other sensitive PDFs to generate wordlists that can be utilized by offensive security tools to perform brute force, forced browsing, and dictionary atta...
+
+- GitHub: https://github.com/RoseSecurity/ScrapPY
+- Documentation: https://github.com/RoseSecurity/ScrapPY/blob/main/README.md
+- Topics: cybersecurity, hacking, pdf, python3, scraper, tools
