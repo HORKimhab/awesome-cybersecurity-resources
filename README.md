@@ -5231,6 +5231,15 @@ Automatic SSTI detection tool with interactive interface.
 - Documentation: https://github.com/vladko312/SSTImap/blob/master/README.md
 - Topics: information-security, penetration-testing, penetration-testing-tools, pentest, pentest-tool, pentesting, pentesting-tools, python
 
+### black-widow
+
+GUI based offensive penetration testing tool (Open Source)
+
+- GitHub: https://github.com/FabrizioFubelli/black-widow
+- Official site: https://fabriziofubelli.github.io/black-widow/
+- Documentation: https://github.com/FabrizioFubelli/black-widow/blob/master/README.md
+- Topics: cluster, crawler, cyber-security, cybersecurity, docker, dockerfile, gui, offensive
+
 
 ## Web Security
 
