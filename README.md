@@ -1934,6 +1934,15 @@ Web-tool to search YouTube for geographically tagged videos by channel, topic, a
 - Documentation: https://github.com/mattwright324/youtube-geofind/blob/main/README.md
 - Topics: geotag, github-pages, google-maps-api, javascript, osint, osint-tool, website, youtube
 
+### Xteam
+
+Xteam All in one Instagram,Android,phishing osint and wifi hacking tool available.
+
+- GitHub: https://github.com/xploitstech/Xteam
+- Official site: https://cynone.com
+- Documentation: https://github.com/xploitstech/Xteam/blob/main/README.md
+- Topics: adb, android, debug, hacking-tools, information-gathering, instagram, ip-logger, kali-linux
+
 
 ## AI Agent Security and Tooling
 
