@@ -1943,6 +1943,13 @@ Xteam All in one Instagram,Android,phishing osint and wifi hacking tool availabl
 - Documentation: https://github.com/xploitstech/Xteam/blob/main/README.md
 - Topics: adb, android, debug, hacking-tools, information-gathering, instagram, ip-logger, kali-linux
 
+### WireTapper
+
+WireTapper is a wireless OSINT tool that passively detects and maps Wi-Fi, Bluetooth, CCTV cameras, vehicles, headphones, TVs, IoT devices, and cell towers, turning nearby radio signals into clear situational intellig...
+
+- GitHub: https://github.com/h9zdev/WireTapper
+- Documentation: https://github.com/h9zdev/WireTapper/blob/main/README.md
+
 
 ## AI Agent Security and Tooling
 
