@@ -1956,6 +1956,22 @@ Open-source TypeScript AI agent framework with built-in support for guardrails, 
 - Documentation: https://voltagent.dev/docs/
 - LLM guide: https://voltagent.dev/llms.txt
 
+### Agentic Awesome Skills
+
+Installable library of reusable `SKILL.md` playbooks and tooling for AI coding agents, with workflows covering secure development, security reviews, infrastructure, testing, and other engineering tasks.
+
+AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,005+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.
+
+- GitHub: https://github.com/sickn33/agentic-awesome-skills
+
+### Burp Suite MCP Server
+
+Official Burp Suite extension that connects Burp to AI clients through the Model Context Protocol, with support for an SSE server and a packaged stdio proxy.
+
+MCP Server for Burp
+
+- GitHub: https://github.com/PortSwigger/mcp-server
+
 ### BoxPwnr
 
 Modular framework for benchmarking LLMs and agentic strategies on security labs and CTF-style challenges across Hack The Box, PortSwigger Labs, picoCTF, TryHackMe, and similar platforms.
