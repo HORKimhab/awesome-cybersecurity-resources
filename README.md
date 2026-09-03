@@ -5956,6 +5956,15 @@ BlueToolkit is an extensible Bluetooth Classic vulnerability testing framework t
 - Documentation: https://github.com/sgxgsx/BlueToolkit/blob/main/README.md
 - Topics: awesome, awesome-list, bluetooth, bluetooth-classic, bluetooth-hacking, bluetooth-security, bluetooth-toolkit, exploit
 
+### opentaint
+
+The open source taint analysis engine for the AI era. A formal dataflow analysis tool you can customize and self-host, built so AI agents drive your application security analysis without burning tokens on every scan...
+
+- GitHub: https://github.com/seqra/opentaint
+- Official site: https://opentaint.org
+- Documentation: https://github.com/seqra/opentaint/blob/main/README.md
+- Topics: agents, ai-security, code-quality, cybersecurity, hacking, java, kotlin, offensive-security
+
 
 ## Malware Analysis
 
