@@ -5863,7 +5863,19 @@ A Security Tool for Bug Bounty, Pentest and Red Teaming.
 
 LFISuite is an automated Local File Inclusion exploitation tool built to help identify and abuse LFI vectors during web application testing.
 
-- GitHub: https://github.com/D35m0nd142/LFISuite
+- GitHub: [https://github.com/D35m0nd142/LFISuite](https://github.com/D35m0nd142/LFISuite)
+
+### LFiFreak
+
+LFiFreak is an automated Local File Inclusion exploitation tool that supports PHP input, filter, and data URI techniques, with bind and reverse shell capabilities.
+
+- GitHub: [https://github.com/OsandaMalith/LFiFreak](https://github.com/OsandaMalith/LFiFreak)
+
+### liffy
+
+liffy is a Local File Inclusion exploitation tool with vulnerability detection, encoding and WAF bypass techniques, and support for multiple PHP wrappers.
+
+- GitHub: [https://github.com/mzfr/liffy](https://github.com/mzfr/liffy)
 
 ### LFImap
 
