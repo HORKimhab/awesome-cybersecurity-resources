@@ -1934,6 +1934,15 @@ Web-tool to search YouTube for geographically tagged videos by channel, topic, a
 - Documentation: https://github.com/mattwright324/youtube-geofind/blob/main/README.md
 - Topics: geotag, github-pages, google-maps-api, javascript, osint, osint-tool, website, youtube
 
+### Xteam
+
+Xteam All in one Instagram,Android,phishing osint and wifi hacking tool available.
+
+- GitHub: https://github.com/xploitstech/Xteam
+- Official site: https://cynone.com
+- Documentation: https://github.com/xploitstech/Xteam/blob/main/README.md
+- Topics: adb, android, debug, hacking-tools, information-gathering, instagram, ip-logger, kali-linux
+
 
 ## AI Agent Security and Tooling
 
@@ -5231,6 +5240,15 @@ Automatic SSTI detection tool with interactive interface.
 - Documentation: https://github.com/vladko312/SSTImap/blob/master/README.md
 - Topics: information-security, penetration-testing, penetration-testing-tools, pentest, pentest-tool, pentesting, pentesting-tools, python
 
+### black-widow
+
+GUI based offensive penetration testing tool (Open Source)
+
+- GitHub: https://github.com/FabrizioFubelli/black-widow
+- Official site: https://fabriziofubelli.github.io/black-widow/
+- Documentation: https://github.com/FabrizioFubelli/black-widow/blob/master/README.md
+- Topics: cluster, crawler, cyber-security, cybersecurity, docker, dockerfile, gui, offensive
+
 
 ## Web Security
 
@@ -5949,6 +5967,15 @@ BlueToolkit is an extensible Bluetooth Classic vulnerability testing framework t
 - GitHub: https://github.com/sgxgsx/BlueToolkit
 - Documentation: https://github.com/sgxgsx/BlueToolkit/blob/main/README.md
 - Topics: awesome, awesome-list, bluetooth, bluetooth-classic, bluetooth-hacking, bluetooth-security, bluetooth-toolkit, exploit
+
+### opentaint
+
+The open source taint analysis engine for the AI era. A formal dataflow analysis tool you can customize and self-host, built so AI agents drive your application security analysis without burning tokens on every scan...
+
+- GitHub: https://github.com/seqra/opentaint
+- Official site: https://opentaint.org
+- Documentation: https://github.com/seqra/opentaint/blob/main/README.md
+- Topics: agents, ai-security, code-quality, cybersecurity, hacking, java, kotlin, offensive-security
 
 
 ## Malware Analysis
@@ -7209,3 +7236,11 @@ Slack enumeration and exposed secrets detection tool.
 - GitHub: https://github.com/PaperMtn/slack-watchman
 - Documentation: https://github.com/PaperMtn/slack-watchman/blob/master/README.md
 - Topics: blue-team, blueteam, cybersecurity, infosec, monitoring, purple-team, purpleteam, red-team
+
+### ScrapPY
+
+ScrapPY is a Python utility for scraping manuals, documents, and other sensitive PDFs to generate wordlists that can be utilized by offensive security tools to perform brute force, forced browsing, and dictionary atta...
+
+- GitHub: https://github.com/RoseSecurity/ScrapPY
+- Documentation: https://github.com/RoseSecurity/ScrapPY/blob/main/README.md
+- Topics: cybersecurity, hacking, pdf, python3, scraper, tools
