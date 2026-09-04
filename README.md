@@ -6217,6 +6217,12 @@ Tool for attacking AD Certificate Services Offensive tool for enumerating and ab
 - https://github.com/ly4k/Certipy
 - https://gitlab.com/parrotsec/packages/certipy-ad
 
+### Certi-Bhai
+
+A collection of PowerShell tools for testing and exploiting Active Directory Certificate Services (AD CS) misconfigurations.
+
+- GitHub: [https://github.com/incredibleindishell/Certi-Bhai](https://github.com/incredibleindishell/Certi-Bhai)
+
 ### cisco-torch
 
 Cisco device scanner The main feature that makes cisco-torch different from similar tools is the extensive use of forking to launch multiple scanning processes on the background for maximum scanning efficiency. Also, it uses several methods of application layer fingerprinting simultaneoulsy, if needed. We wanted something fast to discover remote Cisco hosts running Telnet, SSH, Web, NTP, TFTP and SNMP services and launch dicitionary attacks against the services discovered, including SNMP community attack (you would like the community.txt list :-) and TFTP servers (configuration file name bruteforcing with following config leeching). The tool can also get device configurationfiles automatically if SNMP RW community is found.
