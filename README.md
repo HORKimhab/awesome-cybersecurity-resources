@@ -51,6 +51,12 @@ SecLists is the security tester's companion. It's a collection of multiple types
 
 - GitHub: https://github.com/danielmiessler/SecLists
 
+### drtychai Wordlists
+
+Aggregated collection of wordlists from commonly used tools for discovery, enumeration, fuzzing, and exploitation.
+
+- GitHub: [https://github.com/drtychai/wordlists](https://github.com/drtychai/wordlists)
+
 ### Hashcat
 
 Advanced password recovery utility focused on high-performance cracking across CPUs, GPUs, and other accelerators. Useful for password auditing, recovery workflows, and security research.
