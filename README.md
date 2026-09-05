@@ -1977,6 +1977,15 @@ WireTapper is a wireless OSINT tool that passively detects and maps Wi-Fi, Bluet
 - GitHub: https://github.com/h9zdev/WireTapper
 - Documentation: https://github.com/h9zdev/WireTapper/blob/main/README.md
 
+### Aether
+
+Autonomous AI Driven OSINT & security-research desktop agent (macOS/Windows) that builds a live knowledge graph. Authorized use only.
+
+- GitHub: https://github.com/fknMega/Aether
+- Official site: https://discord.gg/zjawxkDZVP
+- Documentation: https://github.com/fknMega/Aether/blob/master/README.md
+- Topics: dox, doxing, doxxing, osint, tool
+
 
 ## AI Agent Security and Tooling
 
