@@ -6012,6 +6012,12 @@ The open source taint analysis engine for the AI era. A formal dataflow analysis
 - Documentation: https://github.com/seqra/opentaint/blob/main/README.md
 - Topics: agents, ai-security, code-quality, cybersecurity, hacking, java, kotlin, offensive-security
 
+### malicious-pdf
+
+Malicious PDF Generator creates PDF test files for assessing phone-home callbacks, SSRF, XSS, XXE, NTLM credential theft, and data exfiltration in PDF viewers and processing applications.
+
+- GitHub: [https://github.com/jonaslejon/malicious-pdf](https://github.com/jonaslejon/malicious-pdf)
+
 
 ## Malware Analysis
 
