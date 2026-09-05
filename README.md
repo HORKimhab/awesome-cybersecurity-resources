@@ -57,6 +57,12 @@ Aggregated collection of wordlists from commonly used tools for discovery, enume
 
 - GitHub: [https://github.com/drtychai/wordlists](https://github.com/drtychai/wordlists)
 
+### xajkep Wordlists
+
+Infosec Wordlists and more.
+
+- GitHub: [https://github.com/xajkep/wordlists](https://github.com/xajkep/wordlists)
+
 ### Hashcat
 
 Advanced password recovery utility focused on high-performance cracking across CPUs, GPUs, and other accelerators. Useful for password auditing, recovery workflows, and security research.
