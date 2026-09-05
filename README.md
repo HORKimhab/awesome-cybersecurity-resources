@@ -63,6 +63,12 @@ Infosec Wordlists and more.
 
 - GitHub: [https://github.com/xajkep/wordlists](https://github.com/xajkep/wordlists)
 
+### Trickest Wordlists
+
+Community-curated wordlists for asset discovery, content discovery, fuzzing, and other authorized security-testing workflows.
+
+- GitHub: [https://github.com/trickest/wordlists](https://github.com/trickest/wordlists)
+
 ### Hashcat
 
 Advanced password recovery utility focused on high-performance cracking across CPUs, GPUs, and other accelerators. Useful for password auditing, recovery workflows, and security research.
@@ -109,7 +115,7 @@ High-speed network authentication cracking tool from the Nmap project, designed 
 
 Custom wordlist generator that crawls websites and builds password candidate lists from discovered words and metadata. It is commonly used to create targeted dictionaries before running offline or online password attacks.
 
-- GitHub: https://github.com/digininja/CeWL
+- GitHub: [https://github.com/digininja/CeWL](https://github.com/digininja/CeWL)
 - Official site: https://digi.ninja/projects/cewl.php
 - Documentation: https://github.com/digininja/CeWL/blob/main/README.md
 
@@ -6474,7 +6480,7 @@ Monitors data and extracts interesting data This tool extracts interesting bits 
 
 Fast web fuzzer written in Go (program) ffuf is a fast web fuzzer written in Go that allows typical directory discovery, virtual host discovery (without DNS records) and GET and POST parameter fuzzing. This program is useful for pentesters, ethical hackers and forensics experts. It also can be used for security tests.
 
-- https://github.com/ffuf/ffuf
+- [https://github.com/ffuf/ffuf](https://github.com/ffuf/ffuf)
 - https://gitlab.com/parrotsec/packages/ffuf
 
 ### flask-kvsession
