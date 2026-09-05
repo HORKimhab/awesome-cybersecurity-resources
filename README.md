@@ -1104,6 +1104,15 @@ Radio frequency scanner with recon and offensive capabilities.
 - Documentation: https://github.com/thomasbuilds/Spectre/blob/main/README.md
 - Topics: android, app, bluetooth, cellular, gnss, grapheneos, jetpack-compose, kotlin
 
+### cti-expert
+
+CTI Expert — Cyber Threat Intelligence & OSINT analysis skill for Claude Code / Codex. 120+ commands, 57 techniques, 79 typed MCP tools, deterministic case pipeline + ICD-203 reports. No API keys required for core.
+
+- GitHub: https://github.com/7onez/cti-expert
+- Official site: https://chongluadao.vn
+- Documentation: https://github.com/7onez/cti-expert/blob/main/README.md
+- Topics: claude-code, claude-code-skill, cti, cyber-threat-intelligence, digital-forensics, investigation, mcp-server, osint
+
 
 ## Scanning
 
