@@ -5308,6 +5308,15 @@ GUI based offensive penetration testing tool (Open Source)
 - Documentation: https://github.com/FabrizioFubelli/black-widow/blob/master/README.md
 - Topics: cluster, crawler, cyber-security, cybersecurity, docker, dockerfile, gui, offensive
 
+### APTRS
+
+Automated pentest reporting with custom templates, project tracking, customer dashboard and client management tools. Streamline your security workflows effortlessly!
+
+- GitHub: https://github.com/APTRS/APTRS
+- Official site: https://aptrs.com
+- Documentation: https://github.com/APTRS/APTRS/blob/main/README.md
+- Topics: infosec, penetration-testing, pentest, pentest-report, pentesting, security, security-automation
+
 
 ## Web Security
 
