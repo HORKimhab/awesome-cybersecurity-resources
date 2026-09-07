@@ -2076,6 +2076,12 @@ A curated toolkit for Open-Source Intelligence (OSINT) investigations. This repo
 
 ## General Security
 
+### Mettle
+
+A native-code Meterpreter implementation designed for portability, embeddability, and low resource usage across multiple target platforms.
+
+- GitHub: [https://github.com/rapid7/mettle](https://github.com/rapid7/mettle)
+
 
 ### SecToolKit
 
@@ -5319,6 +5325,18 @@ Automated pentest reporting with custom templates, project tracking, customer da
 
 
 ## Web Security
+
+### OWASP API Security Testing Framework
+
+An automated testing framework for detecting API vulnerabilities based on the OWASP API Security Top 10 2023.
+
+- GitHub: [https://github.com/OWASP/www-project-api-security-testing-framework](https://github.com/OWASP/www-project-api-security-testing-framework)
+
+### OSWE Prep
+
+A collection of tips and resources for preparing for OffSec's Advanced Web Attacks and Exploitation course and OSWE certification exam.
+
+- GitHub: [https://github.com/snoopysecurity/OSWE-Prep](https://github.com/snoopysecurity/OSWE-Prep)
 
 ### pass-the-passkey
 
