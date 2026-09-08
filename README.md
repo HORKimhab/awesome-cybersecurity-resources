@@ -681,6 +681,142 @@ OWASP mobile security project resources covering best practices, testing methodo
 - Project page: https://owasp.org/www-project-mobile-security/
 - OWASP MAS portal: https://owasp.org/mas
 
+## iOS Security Training and Practice
+
+Intentionally vulnerable applications, hands-on challenges, testing guides, and curated references for learning iOS application security. Run vulnerable applications only in isolated labs and assess systems only with explicit authorization.
+
+### VulnLabAppiOS
+
+Intentionally vulnerable Swift iOS application with documented flaws covering storage, networking, WebViews, deep links, authentication, cryptography, and anti-analysis controls.
+
+- GitHub: https://github.com/nirajkharel/VulnLabAppiOS
+
+### DVIA-v2
+
+Swift version of Damn Vulnerable iOS App, providing a legal practice environment for common iOS application security weaknesses and penetration-testing techniques.
+
+- GitHub: https://github.com/prateek147/DVIA-v2
+
+### DVIA
+
+Original Objective-C Damn Vulnerable iOS App with OWASP Mobile Top 10-aligned challenges and educational material for iOS security testing.
+
+- GitHub: https://github.com/prateek147/DVIA
+
+### OWASP iGoat-Swift
+
+Deliberately vulnerable Swift application that teaches iOS security weaknesses through practical exercises.
+
+- GitHub: https://github.com/OWASP/iGoat-Swift
+
+### OWASP iGoat
+
+WebGoat-inspired iOS learning tool whose lessons guide users through identifying, exploiting, remediating, and fixing application security flaws.
+
+- GitHub: https://github.com/OWASP/igoat
+
+### Oversecured Vulnerable iOS App
+
+Intentionally vulnerable iOS application demonstrating platform security issues such as insecure storage, unsafe deep links, hardcoded cryptography, caching, and weak transport settings.
+
+- GitHub: https://github.com/oversecured/OversecuredVulnerableiOSApp
+
+### Myriam
+
+Vulnerable iOS application containing security challenges for practicing reverse engineering and runtime analysis.
+
+- GitHub: https://github.com/GeoSn0w/Myriam
+
+### EvilCorp iOS
+
+Intentionally vulnerable Swift iOS application with 30 mobile-security challenges organized across OWASP MASVS categories.
+
+- GitHub: https://github.com/jankesec/evilcorp-ios
+
+### iOSCTF
+
+Vulnerable CTF-style iOS application with hands-on challenges for authorized mobile security practice.
+
+- GitHub: https://github.com/quixottte/iOSCTF
+
+### InsecuriOS Labs
+
+Beginner-focused educational iOS application for practicing fundamental security testing and reverse-engineering techniques in a controlled environment.
+
+- GitHub: https://github.com/kelvinmontini/InsecuriOS-Labs
+
+### Ostorlab Insecure iOS App
+
+Intentionally vulnerable iOS application designed as a playground for learning common mobile flaws and testing security scanners.
+
+- GitHub: https://github.com/Ostorlab/ostorlab_insecure_ios_app
+
+### DefinitelyNotAVulnerableApp
+
+Beginner-friendly iOS CTF challenge for practicing static analysis, runtime inspection, and flag discovery.
+
+- GitHub: https://github.com/teodorsorescu/DefinitelyNotAVulnerableApp
+
+### OWASP MASTG Hacking Playground
+
+Collection of intentionally insecure iOS and Android applications that demonstrates test cases and vulnerable patterns from the OWASP Mobile Application Security Testing Guide.
+
+- GitHub: https://github.com/OWASP/MASTG-Hacking-Playground
+
+### MobSF OWASP MSTG Fork
+
+MobSF fork of the OWASP Mobile Security Testing Guide, a comprehensive manual for mobile application security testing and reverse engineering.
+
+- GitHub: https://github.com/MobSF/owasp-mstg
+
+### MASTG Crackmes in the MobSF Fork
+
+Android and iOS UnCrackable Apps used as mobile reverse-engineering challenges and examples throughout the OWASP MASTG.
+
+- GitHub: https://github.com/MobSF/owasp-mstg/tree/master/Crackmes
+
+### Awesome Mobile CTF
+
+Curated collection of mobile CTFs, write-ups, vulnerable applications, and related practice resources for Android and iOS.
+
+- GitHub: https://github.com/xtiankisutsa/awesome-mobile-CTF
+
+### Swordfish Security Awesome iOS Security
+
+Curated collection of iOS application security articles, research, analysis tools, and defensive libraries, primarily documented in Russian.
+
+- GitHub: https://github.com/Swordfish-Security/awesome-ios-security
+
+### Awesome iOS Security
+
+Curated list of tools, books, courses, articles, and other resources for iOS application security and penetration testing.
+
+- GitHub: https://github.com/Cy-clon3/awesome-ios-security
+
+### Mobile App Pentest
+
+Collection of Android and iOS mobile application penetration-testing references, tools, and learning material.
+
+- GitHub: https://github.com/huynhvanphuc/Mobile-App-Pentest
+
+### Secure iOS App Development
+
+Developer-focused collection of common iOS application vulnerabilities, audit tips, and secure implementation guidance.
+
+- GitHub: https://github.com/felixgr/secure-ios-app-dev
+
+### UnSAFE Bank
+
+Intentionally vulnerable virtual banking suite with web and iOS applications for learning vulnerability assessment and penetration testing.
+
+- GitHub: https://github.com/lucideus-repo/UnSAFE_Bank
+
+### VulnLab
+
+Curated collection of intentionally vulnerable web, desktop, and mobile applications for penetration-testing practice and cybersecurity education.
+
+- GitHub: https://github.com/Clavius4/VulnLab
+
 ## Attack Surface Discovery
 
 ### Amass
@@ -5957,7 +6093,7 @@ Black box WordPress vulnerability scanner WPScan scans remote WordPress installa
 
 ### afrog
 
-A Security Tool for Bug Bounty, Pentest and Red Teaming.
+High-performance vulnerability scanner for authorized bug bounty, penetration-testing, and red-team workflows, with built-in and user-defined PoCs, port pre-scanning, and HTML or JSON reports.
 
 - GitHub: https://github.com/zan8in/afrog
 - Documentation: https://github.com/zan8in/afrog/blob/main/README.md
