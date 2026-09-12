@@ -69,6 +69,22 @@ Community-curated wordlists for asset discovery, content discovery, fuzzing, and
 
 - GitHub: [https://github.com/trickest/wordlists](https://github.com/trickest/wordlists)
 
+### jeanphorn Wordlist
+
+Collection of common username and password lists for authorized credential auditing, including RDP, SSH, and IP camera defaults.
+
+- GitHub: https://github.com/jeanphorn/wordlist
+- Documentation: https://github.com/jeanphorn/wordlist/blob/master/README.md
+- Topics: brute-force, ip-camera, password-auditing, rdp, ssh, usernames, wordlist
+
+### rockyou
+
+GitHub mirror of the widely used `rockyou.txt` password wordlist for password-strength testing, recovery exercises, and security labs.
+
+- GitHub: https://github.com/zacheller/rockyou
+- Documentation: https://github.com/zacheller/rockyou/blob/master/README.md
+- Topics: dictionary-attack, password-auditing, password-cracking, rockyou, wordlist
+
 ### Hashcat
 
 Advanced password recovery utility focused on high-performance cracking across CPUs, GPUs, and other accelerators. Useful for password auditing, recovery workflows, and security research.
@@ -87,6 +103,7 @@ Popular open source password cracker used for offline password auditing and reco
 - Official site: https://www.openwall.com/john/
 - Documentation: https://github.com/openwall/john/blob/bleeding-jumbo/doc/README.md
 - Community wiki: https://openwall.info/wiki/john
+- Topics: hash-cracking, john-the-ripper, offline-password-cracking, opencl, password-auditing, password-recovery
 
 ### THC Hydra
 
@@ -2125,6 +2142,15 @@ Autonomous AI Driven OSINT & security-research desktop agent (macOS/Windows) tha
 
 ## AI Agent Security and Tooling
 
+### PyRIT
+
+The Python Risk Identification Tool for generative AI is an open source framework for helping security professionals and engineers identify risks in generative AI systems.
+
+- GitHub: https://github.com/microsoft/PyRIT
+- Official site: https://microsoft.github.io/PyRIT/
+- Documentation: https://github.com/microsoft/PyRIT/blob/main/README.md
+- Topics: ai-red-team, generative-ai, red-team-tools, responsible-ai
+
 
 ### VoltAgent
 
@@ -2217,6 +2243,47 @@ A curated toolkit for Open-Source Intelligence (OSINT) investigations. This repo
 A native-code Meterpreter implementation designed for portability, embeddability, and low resource usage across multiple target platforms.
 
 - GitHub: [https://github.com/rapid7/mettle](https://github.com/rapid7/mettle)
+- Documentation: https://github.com/rapid7/mettle/blob/master/README.md
+- Topics: c, metasploit, meterpreter, payload, penetration-testing, post-exploitation
+
+### GTFOBins
+
+Curated collection of Unix-like executables that can be used to bypass local security restrictions in misconfigured systems, with defensive context for identifying and restricting risky binaries.
+
+- GitHub: https://github.com/GTFOBins/GTFOBins.github.io
+- Official site: https://gtfobins.org/
+- Documentation: https://github.com/GTFOBins/GTFOBins.github.io/blob/master/README.md
+- Topics: binaries, bypass, exfiltration, linux, post-exploitation, privilege-escalation, reverse-shell, unix
+
+### GPOddity
+
+Toolkit for automating Group Policy Object attack paths through NTLM relaying and related Active Directory techniques during authorized assessments.
+
+- GitHub: https://github.com/synacktiv/GPOddity
+- Documentation: https://github.com/synacktiv/GPOddity/blob/master/README.md
+- Topics: active-directory, group-policy, gpo, ntlm-relay, penetration-testing, privilege-escalation
+
+### Metasploit Omnibus
+
+Build and packaging project for producing self-contained Metasploit Framework installers with their required dependencies.
+
+- GitHub: https://github.com/rapid7/metasploit-omnibus
+- Documentation: https://github.com/rapid7/metasploit-omnibus/blob/master/README.md
+- Topics: metasploit, omnibus, packaging, penetration-testing, ruby
+
+### Mobile Hacking Lab
+
+GitHub organization publishing mobile security research, Android vulnerability proof-of-concepts, reverse-engineering integrations, fuzzing resources, and intentionally vulnerable training applications.
+
+- GitHub: https://github.com/mobilehackinglab
+- Topics: android-security, fuzzing, mobile-security, reverse-engineering, security-research, vulnerability-research
+
+### BreachLab
+
+Hands-on offensive security training platform with live targets, guided tracks, competitive battles, and community write-ups covering practical exploitation scenarios.
+
+- Official site: https://breachlab.org/
+- Topics: cybersecurity-education, hands-on-labs, offensive-security, penetration-testing, security-training
 
 
 ### SecToolKit
@@ -5467,12 +5534,16 @@ Automated pentest reporting with custom templates, project tracking, customer da
 An automated testing framework for detecting API vulnerabilities based on the OWASP API Security Top 10 2023.
 
 - GitHub: [https://github.com/OWASP/www-project-api-security-testing-framework](https://github.com/OWASP/www-project-api-security-testing-framework)
+- Documentation: https://github.com/OWASP/www-project-api-security-testing-framework/blob/main/README.md
+- Topics: api-security, api-testing, application-security, automated-testing, owasp, penetration-testing
 
 ### OSWE Prep
 
 A collection of tips and resources for preparing for OffSec's Advanced Web Attacks and Exploitation course and OSWE certification exam.
 
 - GitHub: [https://github.com/snoopysecurity/OSWE-Prep](https://github.com/snoopysecurity/OSWE-Prep)
+- Documentation: https://github.com/snoopysecurity/OSWE-Prep/blob/main/README.md
+- Topics: application-security, certification, code-review, offensive-security, oswe, penetration-testing, web-security
 
 ### pass-the-passkey
 
@@ -5865,6 +5936,23 @@ Ksword 5.1 is an open-source ARK, kernel debugging tool, and system forensics an
 
 
 ## Reverse Engineering
+
+### GhidraMCP
+
+Active-socket Model Context Protocol server for connecting AI assistants to Ghidra and supporting automated reverse-engineering workflows.
+
+- GitHub: https://github.com/13bm/ghidramcp
+- Documentation: https://github.com/13bm/ghidramcp/blob/master/README.md
+- Topics: ghidra, mcp, reverse-engineering, security-analysis
+
+### obfus.h
+
+Single-header macro library for compile-time C obfuscation with Tiny C Compiler and Microsoft Visual C++ support on Windows x86 and x64.
+
+- GitHub: https://github.com/DosX-dev/obfus.h
+- Official site: https://dosx.su/
+- Documentation: https://github.com/DosX-dev/obfus.h/blob/main/README.md
+- Topics: c, compile-time, macro, obfuscation, tinycc, windows
 
 
 ### reverse-skill
@@ -6647,8 +6735,11 @@ modern, fast, web framework for building APIs, based on type hints FastAPI is a 
 
 fast, simple, recursive content discovery tool written in Rust feroxbuster is a tool designed to perform Forced Browsing. Forced browsing is an attack where the aim is to enumerate and access resources that are not referenced by the web application, but are still accessible by an attacker. feroxbuster uses brute force combined with a wordlist to search for unlinked content in target directories. These resources may store sensitive information about web applications and operational systems, such as source code, credentials, internal network addressing, etc... This attack is also known as Predictable Resource Location, File Enumeration, Directory Enumeration, and Resource Enumeration.
 
-- https://github.com/epi052/feroxbuster
-- https://gitlab.com/parrotsec/packages/feroxbuster
+- GitHub: https://github.com/epi052/feroxbuster
+- Official site: https://epi052.github.io/feroxbuster-docs/
+- Documentation: https://github.com/epi052/feroxbuster/blob/main/README.md
+- Package: https://gitlab.com/parrotsec/packages/feroxbuster
+- Topics: content-discovery, enumeration, pentest, rust, url-bruteforcer, web-security
 
 ### ferret-sidejack
 
