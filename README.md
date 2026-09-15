@@ -73,9 +73,17 @@ Community-curated wordlists for asset discovery, content discovery, fuzzing, and
 
 Collection of common username and password lists for authorized credential auditing, including RDP, SSH, and IP camera defaults.
 
-- GitHub: https://github.com/jeanphorn/wordlist
+- GitHub: [**jeanphorn/wordlist**](https://github.com/jeanphorn/wordlist)
 - Documentation: https://github.com/jeanphorn/wordlist/blob/master/README.md
 - Topics: brute-force, ip-camera, password-auditing, rdp, ssh, usernames, wordlist
+
+### Hob0Rules
+
+Archived collection of statistically informed Hashcat password-cracking rules and supporting wordlists for authorized password audits.
+
+- GitHub: [**praetorian-inc/Hob0Rules**](https://github.com/praetorian-inc/Hob0Rules)
+- Documentation: https://github.com/praetorian-inc/Hob0Rules/blob/master/README.md
+- Topics: hashcat, password-auditing, password-cracking, rules, wordlists
 
 ### rockyou
 
@@ -2237,6 +2245,10 @@ A curated toolkit for Open-Source Intelligence (OSINT) investigations. This repo
 - Documentation: https://github.com/techenthusiast167/D4rk_Intel-OSINT-Investigative-Toolkit/blob/main/README.md
 
 ## General Security
+
+### TheFatRat
+
+- GitHub: [**screetsec/TheFatRat**](https://github.com/screetsec/TheFatRat)
 
 ### Mettle
 
@@ -6044,6 +6056,14 @@ A curated list of public-source, research, and commercial tools for AI security 
 
 
 ## Vulnerability Research
+
+### pedrib/PoC
+
+Collection of public security advisories, vulnerability research, proof-of-concept files, exploits, fuzzing test cases, and related tools by Pedro Ribeiro.
+
+- GitHub: [https://github.com/pedrib/PoC](https://github.com/pedrib/PoC)
+- Documentation: https://github.com/pedrib/PoC/blob/master/README.md
+- Topics: advisories, exploits, fuzzing, metasploit, proof-of-concept, vulnerability-research
 
 
 ### vuls
