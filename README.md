@@ -5879,6 +5879,15 @@ Offensive Web Testing Framework (OWTF), is a framework which tries to unite grea
 ## Forensics
 
 
+### Fibratus
+
+Windows security sensor for real-time threat detection, memory scanning, and forensic analysis using system events, behavior-driven rules, and YARA.
+
+- GitHub: [https://github.com/rabbitstack/fibratus](https://github.com/rabbitstack/fibratus)
+- Official site: https://www.fibratus.io/
+- Documentation: https://docs.fibratus.io/
+- Topics: detection-engineering, endpoint-security, etw, forensics, threat-detection, threat-hunting, windows, yara
+
 ### LockKnife
 
 LockKnife: The Ultimate Android Security Research Tool. A unified TUI workspace and headless CLI for deep Android security research, built for researchers and hackers. Powered by Python orchestration and a Rust-accele...
