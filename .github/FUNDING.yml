@@ -14,4 +14,5 @@
 # thanks_dev: # Replace with a single thanks.dev username
 custom: 
   - https://www.paypal.com/donate?hosted_button_id=GHBZLGLY76KNA
-  - https://github.com/HORKimhab/awesome-cybersecurity-resources/blob/main/data/images/aba-merchant-hkimhab.jpeg
+  # - https://github.com/HORKimhab/awesome-cybersecurity-resources/blob/main/data/images/aba-merchant-hkimhab.jpeg
+  - https://raw.githubusercontent.com/HORKimhab/awesome-cybersecurity-resources/refs/heads/main/data/images/aba-merchant-hkimhab.jpeg
