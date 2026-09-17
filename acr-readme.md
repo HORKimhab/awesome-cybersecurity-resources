@@ -5,18 +5,12 @@ Awesome Cybersecurity Resources, [`more`](README.md).
 
 This repository stores curated cybersecurity resources gathered from the internet, repository documentation, and selected local notes.
 
-The canonical format is:
-- one resource per Markdown file
-- YAML frontmatter as the source of truth
-- `resources` as an array of URL strings only
+`README.md` is the resource catalog and source of truth. Each entry contains a heading, a concise factual description, and verified source links.
 
 ## Structure
 
-- [`data/resources/`](data/resources/): structured resource entries
-- [`data/templates/`](data/templates/): reusable frontmatter templates
 - [`data/automation/`](data/automation/): automation state
-- [`doc/`](doc/): agent and workflow documentation
-- [`doc/ai-agent.md`](doc/ai-agent.md): agent workflow notes
+- [`.agents/skills/cybersecurity-resource-curator/`](.agents/skills/cybersecurity-resource-curator/): automatically loaded resource-curation workflow
 - [`scripts/discover_resources.py`](scripts/discover_resources.py): local discovery automation
 - [`.github/workflows/discover-resources.yml`](.github/workflows/discover-resources.yml): scheduled GitHub Actions job
 
@@ -24,12 +18,9 @@ The canonical format is:
 
 1. Search the internet for a cybersecurity tool, project, article, or repository.
 2. Prefer official sources such as the project website, GitHub repository, wiki, or documentation.
-3. Convert the result into a structured resource entry.
-4. Store the curated entry in `README.md` and, when needed, in `data/resources/`.
-5. For external repositories, clone temporarily for analysis only.
-6. Store only extracted metadata and URLs in this repo.
-7. Archive the source URL or repository URL when possible.
-8. Store archive metadata or links, not downloaded archive content.
+3. Write a concise resource entry in the most appropriate `README.md` section.
+4. For external repositories, clone temporarily for analysis only.
+5. Store only the curated description and verified links in this repo.
 
 ## GitHub Automation
 
