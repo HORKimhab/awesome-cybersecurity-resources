@@ -588,6 +588,13 @@ Open source 2.4 GHz wireless development platform for Bluetooth experimentation 
 - GitHub: https://github.com/greatscottgadgets/ubertooth
 - Documentation: https://ubertooth.readthedocs.io/
 
+### ESP32-BlueJammer
+
+ESP32 and nRF24-based 2.4 GHz interference research project targeting Bluetooth, BLE, Wi-Fi, and RC links; intended only for isolated, authorized lab testing because radio jamming is illegal in many jurisdictions.
+
+- GitHub: https://github.com/EmenstaNougat/ESP32-BlueJammer
+- Topics: bluetooth, ble, esp32, nrf24, radio-frequency, wireless-security
+
 ### BlueZ
 
 Official Linux Bluetooth protocol stack with utilities for device management, diagnostics, and traffic inspection. Useful for Bluetooth development, protocol testing, and host-side troubleshooting on Linux.
