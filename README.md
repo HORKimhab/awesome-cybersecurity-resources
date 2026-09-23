@@ -1281,6 +1281,15 @@ CTI Expert — Cyber Threat Intelligence & OSINT analysis skill for Claude Code 
 - Documentation: https://github.com/7onez/cti-expert/blob/main/README.md
 - Topics: claude-code, claude-code-skill, cti, cyber-threat-intelligence, digital-forensics, investigation, mcp-server, osint
 
+### OWASP Noir
+
+A static analysis tool that discovers web application endpoints and parameters from source code to expose undocumented and shadow APIs.
+
+- GitHub: https://github.com/owasp-noir/noir
+- Official site: https://owasp.org/www-project-noir/
+- Documentation: https://owasp-noir.github.io/noir/
+- Topics: api-security, attack-surface, endpoint-discovery, sast, shadow-api
+
 
 ## Scanning
 
@@ -2153,6 +2162,15 @@ Autonomous AI Driven OSINT & security-research desktop agent (macOS/Windows) tha
 - Official site: https://discord.gg/zjawxkDZVP
 - Documentation: https://github.com/fknMega/Aether/blob/master/README.md
 - Topics: dox, doxing, doxxing, osint, tool
+
+### Flowsint
+
+An open-source graph exploration platform for visual OSINT investigations using automated data enrichers.
+
+- GitHub: https://github.com/reconurge/flowsint
+- Official site: https://flowsint.io/
+- Documentation: https://github.com/reconurge/flowsint/tree/main/docs
+- Topics: graph-investigation, investigation, osint, reconnaissance
 
 
 ## AI Agent Security and Tooling
@@ -5882,6 +5900,41 @@ Offensive Web Testing Framework (OWTF), is a framework which tries to unite grea
 - Documentation: https://github.com/owtf/owtf/blob/develop/README.md
 - Topics: framework, kali-linux, owasp, owtf, pentest, python, security, web-application-security
 
+### Dalfox
+
+An open-source XSS scanner and utility designed for automated web application security testing.
+
+- GitHub: https://github.com/hahwul/dalfox
+- Official site: https://dalfox.hahwul.com/
+- Documentation: https://dalfox.hahwul.com/docs/
+- Topics: automation, bug-bounty, penetration-testing, web-security, xss
+
+### WebHackersWeapons
+
+A curated collection of tools and resources used for web application security testing and bug hunting.
+
+- GitHub: https://github.com/hahwul/WebHackersWeapons
+- Documentation: https://github.com/hahwul/WebHackersWeapons/blob/master/README.md
+- Topics: bug-bounty, penetration-testing, security-tools, web-security
+
+### gori
+
+A keyboard-driven terminal HTTP intercepting proxy for capturing, replaying, fuzzing, and scanning web traffic.
+
+- GitHub: https://github.com/hahwul/gori
+- Official site: https://gori.hahwul.com/
+- Documentation: https://github.com/hahwul/gori/blob/main/README.md
+- Topics: http-proxy, intercepting-proxy, penetration-testing, security-testing, web-security
+
+### jwt-hack
+
+A toolkit for encoding, decoding, verifying, cracking, and scanning JSON Web Tokens during authorized security testing.
+
+- GitHub: https://github.com/hahwul/jwt-hack
+- Official site: https://jwt-hack.hahwul.com/
+- Documentation: https://github.com/hahwul/jwt-hack/blob/main/README.md
+- Topics: authentication-security, jwt, penetration-testing, security-testing
+
 
 ## Forensics
 
@@ -6413,6 +6466,14 @@ Ultimate DevSecOps library
 - GitHub: https://github.com/sottlmarek/DevSecOps
 - Documentation: https://github.com/sottlmarek/DevSecOps/blob/master/README.md
 - Topics: automation, awesome, awesome-list, aws, azure, ci-cd, cloud, containers
+
+### HAHWUL DevSecOps Roadmap
+
+A curated DevSecOps collection and learning roadmap covering security practices across the software delivery lifecycle.
+
+- GitHub: https://github.com/hahwul/DevSecOps
+- Documentation: https://github.com/hahwul/DevSecOps/blob/master/README.md
+- Topics: ci-cd, devsecops, learning-roadmap, security-automation
 
 ### GraphSpy
 
