@@ -429,6 +429,14 @@ tool to relay phase 2 authentication attempts to access corporate wireless This 
 - https://github.com/sensepost/wpa_sycophant
 - https://gitlab.com/parrotsec/packages/wpa-sycophant
 
+### Reaver WPS Fork t6x
+
+Community-maintained Reaver fork for authorized Wi-Fi security testing that audits WPS registrar PINs and recovers WPA/WPA2 passphrases, including support for Pixie Dust testing.
+
+- GitHub: https://github.com/t6x/reaver-wps-fork-t6x
+- Documentation: https://github.com/t6x/reaver-wps-fork-t6x/blob/master/README.md
+- Topics: password-auditing, pixie-dust, wifi-security, wpa, wps
+
 
 ## Evil Twin Attack
 
@@ -5947,6 +5955,14 @@ Windows security sensor for real-time threat detection, memory scanning, and for
 - Official site: https://www.fibratus.io/
 - Documentation: https://docs.fibratus.io/
 - Topics: detection-engineering, endpoint-security, etw, forensics, threat-detection, threat-hunting, windows, yara
+
+### Velociraptor
+
+Endpoint visibility and collection platform that uses VQL queries to gather host state for digital forensics and incident response.
+
+- GitHub: https://github.com/Velocidex/velociraptor
+- Documentation: https://docs.velociraptor.app/
+- Topics: digital-forensics, endpoint-security, incident-response, threat-hunting
 
 ### LockKnife
 
