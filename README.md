@@ -2277,6 +2277,13 @@ A curated toolkit for Open-Source Intelligence (OSINT) investigations. This repo
 - GitHub: https://github.com/techenthusiast167/D4rk_Intel-OSINT-Investigative-Toolkit
 - Documentation: https://github.com/techenthusiast167/D4rk_Intel-OSINT-Investigative-Toolkit/blob/main/README.md
 
+### Cairn
+
+An AI state-space search engine for autonomous penetration testing and CTF-style security challenges.
+
+- GitHub: https://github.com/oritera/Cairn
+- Topics: ai-agent, ai-cybersecurity, ctf, penetration-testing
+
 ## General Security
 
 ### TheFatRat
@@ -5578,6 +5585,34 @@ A Havoc C2 plugin that creates and remotely controls a hidden Windows desktop th
 - GitHub: https://github.com/dagowda/notRDP
 - Topics: command-and-control, havoc-c2, post-exploitation, remote-access, windows
 
+### SynthID Detector
+
+A Google DeepMind portal for checking whether images, audio, video, or text carry a SynthID watermark identifying AI-generated content.
+
+- Official site: https://synthid.com/
+- Topics: ai-watermarking, content-provenance, deepfake-detection
+
+### tsh
+
+Tiny SHell, a small open-source UNIX remote shell with encrypted communications, commonly referenced in red team and post-exploitation research.
+
+- GitHub: https://github.com/creaktive/tsh
+- Topics: backdoor, reverse-shell, shell
+
+### httpSMS
+
+An open-source service that turns an Android phone into an SMS gateway for sending and receiving messages through an HTTP API.
+
+- GitHub: https://github.com/NdoleStudio/httpsms
+- Official site: https://httpsms.com
+- Topics: sms, sms-api, sms-gateway, android-sms
+
+### ARTEX
+
+A repository by Autumn-27, the author of ScopeSentry; the repository is currently unavailable (GitHub returns 404), so its contents could not be verified.
+
+- GitHub: https://github.com/Autumn-27/ARTEX
+
 
 ## Web Security
 
@@ -6145,6 +6180,22 @@ A curated list of public-source, research, and commercial tools for AI security 
 - GitHub: https://github.com/scadastrangelove/awesome-ai-security-tools
 - Documentation: https://github.com/scadastrangelove/awesome-ai-security-tools/blob/main/README.md
 - Topics: agentic-ai, agents, awesome, awesome-list, awesome-lists, llm, security
+
+### Cutter
+
+A free and open-source reverse engineering platform powered by rizin, with a GUI for disassembly, decompilation, and debugging.
+
+- GitHub: https://github.com/rizinorg/cutter
+- Official site: https://cutter.re
+- Topics: reverse-engineering, debugger, gui, rizin
+
+### rea
+
+An agent-driven reverse engineering toolkit for analyzing software from application behavior down to native binaries.
+
+- GitHub: https://github.com/morluto/rea
+- Official site: https://rea.tools
+- Topics: ai-agents, binary-analysis, agent-skills, cli, ctf
 
 
 ## Vulnerability Research
