@@ -5571,6 +5571,13 @@ Automated pentest reporting with custom templates, project tracking, customer da
 - Documentation: https://github.com/APTRS/APTRS/blob/main/README.md
 - Topics: infosec, penetration-testing, pentest, pentest-report, pentesting, security, security-automation
 
+### notRDP
+
+A Havoc C2 plugin that creates and remotely controls a hidden Windows desktop through a browser-based viewer.
+
+- GitHub: https://github.com/dagowda/notRDP
+- Topics: command-and-control, havoc-c2, post-exploitation, remote-access, windows
+
 
 ## Web Security
 
@@ -6471,6 +6478,13 @@ A blazingly fast, multi-threaded TUI malware analysis tool built in Rust. Featur
 - Documentation: https://github.com/Rhacknarok/hacksguard/blob/main/README.md
 - Topics: cybersecurity, malware, malware-analysis, pe-parser, reverse-engineering, rust, static-analysis, threat-hunting
 
+### DeScrypt
+
+A recursive unpacking and analysis tool for obfuscated malicious JavaScript and PowerShell samples.
+
+- GitHub: https://github.com/DSchalla/DeScrypt
+- Topics: deobfuscation, javascript, malware-analysis, powershell, reverse-engineering
+
 
 ## Cloud Security
 
@@ -6534,6 +6548,14 @@ Next-generation IaC tools | 下一代基础设施管理工具.
 - Official site: https://redc.wgpsec.org
 - Documentation: https://github.com/wgpsec/redc/blob/master/README.md
 - Topics: agent, ai, automation, cloud, cybersecurity, iac, infrastructure, multi-cloud
+
+### CloudFox
+
+A command-line tool for finding exploitable attack paths and gaining situational awareness across AWS, Azure, and Google Cloud environments.
+
+- GitHub: https://github.com/BishopFox/cloudfox
+- Documentation: https://github.com/BishopFox/cloudfox/wiki
+- Topics: aws, azure, cloud-security, gcp, penetration-testing
 
 
 ## Privacy and Anonymity
