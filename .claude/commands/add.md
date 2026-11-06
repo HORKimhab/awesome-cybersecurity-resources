@@ -1,7 +1,9 @@
 ---
 description: Add cybersecurity resource URLs to README.md
 argument-hint: url1, url2, ...
-allowed-tools: Bash(python3 scripts/curate.py:*), Read, Edit, WebFetch
+allowed-tools: Agent(resource-curator)
 ---
 
-Add these resources to README.md using the cybersecurity-resource-curator skill (2 calls: `curate.py prep`, then `curate.py add`): $ARGUMENTS
+Delegate to the `resource-curator` agent in one call with exactly these URLs: $ARGUMENTS
+
+Relay its report verbatim. Don't read README.md or re-run its work.
