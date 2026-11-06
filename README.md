@@ -2180,6 +2180,14 @@ An open-source graph exploration platform for visual OSINT investigations using 
 - Documentation: https://github.com/reconurge/flowsint/tree/main/docs
 - Topics: graph-investigation, investigation, osint, reconnaissance
 
+### SearchPhone
+
+Phone number OSINT toolkit that queries Google, GitHub, Numverify, Reddit, and DuckDuckGo, adds Hudson Rock infostealer intelligence, and generates reports.
+
+- GitHub: https://github.com/HackUnderway/SearchPhone
+- Official site: https://hackunderway.io/
+- Topics: api-scraping, cybersecurity, github-search, hackunderway, hudsonrock, infosec, osint, osint-tool
+
 
 ## AI Agent Security and Tooling
 
@@ -5613,6 +5621,24 @@ A repository by Autumn-27, the author of ScopeSentry; the repository is currentl
 
 - GitHub: https://github.com/Autumn-27/ARTEX
 
+### SrHollow
+
+Extracts LSA secrets on Windows by reusing an existing VSS shadow copy, parsing the registry hives inline, and decrypting with AES-256 via bcrypt.dll.
+
+- GitHub: https://github.com/ivancabrera02/SrHollow
+
+### PhantomDroid
+
+Python CLI framework for assessing multiple Android security attack surfaces during penetration tests.
+
+- GitHub: https://github.com/psychohackers/PhantomDroid
+
+### PSSW100AVB
+
+Collection of PowerShell scripts that bypassed antivirus detection at publication, for red team and AV evasion testing.
+
+- GitHub: https://github.com/tihanyin/PSSW100AVB
+
 
 ## Web Security
 
@@ -6536,6 +6562,11 @@ A recursive unpacking and analysis tool for obfuscated malicious JavaScript and 
 - GitHub: https://github.com/DSchalla/DeScrypt
 - Topics: deobfuscation, javascript, malware-analysis, powershell, reverse-engineering
 
+### TpDirectCallbackHijack
+
+Proof of concept for remote process injection by hijacking the Windows thread pool TP_DIRECT callback.
+
+- GitHub: https://github.com/Maldev-Academy/TpDirectCallbackHijack
 
 ## Cloud Security
 
@@ -7755,3 +7786,11 @@ ScrapPY is a Python utility for scraping manuals, documents, and other sensitive
 - GitHub: https://github.com/RoseSecurity/ScrapPY
 - Documentation: https://github.com/RoseSecurity/ScrapPY/blob/main/README.md
 - Topics: cybersecurity, hacking, pdf, python3, scraper, tools
+
+### betterleaks
+
+Secret scanner that finds leaked credentials in git repositories, files, and CI/CD pipelines.
+
+- GitHub: https://github.com/betterleaks/betterleaks
+- Official site: https://betterleaks.com
+- Topics: cicd, credentials, devsecops, git, github
