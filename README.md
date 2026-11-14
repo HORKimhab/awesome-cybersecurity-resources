@@ -5639,6 +5639,21 @@ Collection of PowerShell scripts that bypassed antivirus detection at publicatio
 
 - GitHub: https://github.com/tihanyin/PSSW100AVB
 
+### NukeRAT
+
+Post-exploitation and command-and-control framework for red team operations, with Active Directory and EDR evasion capabilities.
+
+- GitHub: https://github.com/nukeratframework/nukerat
+- Official site: https://nukerat.com
+- Topics: active-directory, adversary-simulation, c2, c2-framework, cobalt-strike, command-and-control, edr-bypass, evasion
+
+### ARES
+
+Authorized red-team engagement automation platform with a dashboard, campaign scoping, module orchestration, OPSEC controls, encrypted vault, and reporting.
+
+- GitHub: https://github.com/Mafifrizi/ARES
+- Topics: active-directory, cloud-security, defensive-validation, mitre-attack, opsec
+
 
 ## Web Security
 
