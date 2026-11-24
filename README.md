@@ -1298,6 +1298,13 @@ A static analysis tool that discovers web application endpoints and parameters f
 - Documentation: https://owasp-noir.github.io/noir/
 - Topics: api-security, attack-surface, endpoint-discovery, sast, shadow-api
 
+### ShodanX
+
+Gathers information about targets using Shodan dorks for reconnaissance.
+
+- GitHub: https://github.com/RevoltSecurities/ShodanX
+- Topics: shodan, shodan-api, shodan-cli, shodan-dorking, shodan-dorks, shodan-recon
+
 
 ## Scanning
 
@@ -2291,6 +2298,13 @@ An AI state-space search engine for autonomous penetration testing and CTF-style
 
 - GitHub: https://github.com/oritera/Cairn
 - Topics: ai-agent, ai-cybersecurity, ctf, penetration-testing
+
+### artex-global
+
+Global edition of ARTEX, an LLM multi-agent autonomous penetration-testing framework with switchable interface languages, intended for authorized, defensive, and detection use.
+
+- GitHub: https://github.com/jiwoochris/artex-global
+- Topics: ai-agent, autonomous-agents, blue-team, cybersecurity, detection-engineering, i18n, korean, llm
 
 ## General Security
 
@@ -5654,6 +5668,26 @@ Authorized red-team engagement automation platform with a dashboard, campaign sc
 - GitHub: https://github.com/Mafifrizi/ARES
 - Topics: active-directory, cloud-security, defensive-validation, mitre-attack, opsec
 
+### Offsec-Certification-Resources
+
+Collection of learning and external resources for preparing for offensive security certifications.
+
+- GitHub: https://github.com/V-i-x-x/Offsec-Certification-Resources
+
+### OpenNHP
+
+Implements the Network-infrastructure Hiding Protocol (NHP), which requires cryptographic authentication before connection to hide infrastructure from attackers.
+
+- GitHub: https://github.com/OpenNHP/opennhp
+- Official site: http://opennhp.org/
+- Topics: cybersecurity, zero-trust, zero-trust-network-access, zero-trust-security
+
+### LogonStealer
+
+Abuses the Windows Credential Provider interface to capture plaintext passwords from logonui.exe via CredProvDataModel.dll hooks.
+
+- GitHub: https://github.com/S12cybersecurity/LogonStealer
+
 
 ## Web Security
 
@@ -6026,6 +6060,27 @@ A toolkit for encoding, decoding, verifying, cracking, and scanning JSON Web Tok
 - Documentation: https://github.com/hahwul/jwt-hack/blob/main/README.md
 - Topics: authentication-security, jwt, penetration-testing, security-testing
 
+### CMSScan
+
+Scans WordPress, Drupal, Joomla, and vBulletin websites for security issues and presents results in a dashboard.
+
+- GitHub: https://github.com/ajinabraham/CMSScan
+- Official site: https://opensecurity.in
+- Topics: automation, devsecops, drupal, joomla, security, security-dashboard, vbulletin, wordpress
+
+### NoSQLMap
+
+Automates NoSQL database enumeration and web application exploitation.
+
+- GitHub: https://github.com/codingo/NoSQLMap
+- Topics: bugbounty, couchdb, databases, enumeration, hacking, hacking-tool, mongodb
+
+### SQL-Wordlist
+
+Wordlists for SQL injection testing, provided as sql.txt and everything.txt.
+
+- GitHub: https://github.com/orwagodfather/SQL-Wordlist
+
 
 ## Forensics
 
@@ -6237,6 +6292,13 @@ An agent-driven reverse engineering toolkit for analyzing software from applicat
 - GitHub: https://github.com/morluto/rea
 - Official site: https://rea.tools
 - Topics: ai-agents, binary-analysis, agent-skills, cli, ctf
+
+### apkleaks
+
+Scans APK files for URIs, endpoints, and secrets.
+
+- GitHub: https://github.com/dwisiswant0/apkleaks
+- Topics: android-security, apk, apk-parser, bugbounty, mobile-security, reverse-engineering, scanning-apk, static-analysis
 
 
 ## Vulnerability Research
@@ -7809,3 +7871,9 @@ Secret scanner that finds leaked credentials in git repositories, files, and CI/
 - GitHub: https://github.com/betterleaks/betterleaks
 - Official site: https://betterleaks.com
 - Topics: cicd, credentials, devsecops, git, github
+
+### Generic keys
+
+Gist with a regular expression for finding hard-coded secrets such as API keys and passwords in source and configuration files.
+
+- Gist: https://gist.github.com/h4x0r-dz/be69c7533075ab0d3f0c9b97f7c93a59
